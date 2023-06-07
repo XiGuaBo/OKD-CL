@@ -4,7 +4,8 @@ This is the repository for the OKD-CL dataset, associated with the NeurIPS 2023 
 
 ## Download the dataset
 
-You can download the dataset directly from the realese/OKD-CL.tar.gz in this page. 
+You can download the dataset directly follow this [link to download from github
+(https://). 
 
 The dataset should contain directories for train,test,hard_masks,instance-level_masks and component-level masks. (The knowledge vectors had been restored in code source as 99 .txt files of the knowledge directory). Train and test directory both have 99 sub-directories including 99 object categories' image instances and directories of masks also have the same sub-directories formed including corresponding pixel-level annotation. 
 
