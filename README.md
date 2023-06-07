@@ -23,9 +23,8 @@ We provide training codes for all 7 models, corresponding parameter settings and
 
 1. ACC & FRR metrics evaluation is in the train_modelname.py intergrate as a function named Metrics_Test with the model training code.
 2. masking & noise perturbation test is in the disturbance.py(*related parameters defined in utiles/para.py).
-3. method migration evaluation is in a independent sub-directory named Hard-ImageNet Knowledge Guidance in the same level directory with other evaluation code.(
-This sub-directory has a similar file structure to the parent directory)
-4. input transformation and activation offset evaluation is in the transformation_test.py
+3. method migration evaluation is in a independent sub-directory named Hard-ImageNet Knowledge Guidance in the same level directory with other evaluation code(This sub-directory has a similar file structure to the parent directory).
+4. input transformation and activation offset evaluation is in the transformation_test.py.
 
 <!-- ## Citation -->
 
