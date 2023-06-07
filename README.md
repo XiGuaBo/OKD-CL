@@ -14,7 +14,7 @@ Note that we assume the researcher has access to Hard-ImageNet; the files above 
 ## Setting up the data
 
 1. Donwloads the dataset files and unzip them locally.
-2. Dowloads the checkpoint files and unzip them locally. 
+2. Downloads the checkpoint files and unzip them locally. 
 3. Modified the dataset dirs in dataset/utiles.py.
 
 ## Evaluate Models
@@ -24,10 +24,10 @@ We provide training codes for all 7 models, corresponding parameter settings and
 1. ACC & FRR metrics evaluation is in the train_modelname.py intergrate as a function named Metrics_Test with the model training code.
 2. masking & noise perturbation test is in the disturbance.py(*related parameters defined in utiles/para.py).
 3. method migration evaluation is in a independent sub-dictory named Hard-ImageNet Knowledge Guidance in the same level dictory with other evaluation code.(
-This subdirectory has a similar file structure to the parent directory)
+This sub-directory has a similar file structure to the parent directory)
 4. input transformation and activation offset evaluation is in the transformation_test.py
 
-## Citation
+<!-- ## Citation -->
 
 <!-- If the dataset or code is of use to you, please consider citing: -->
 
