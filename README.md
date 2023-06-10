@@ -20,12 +20,11 @@ Note that we assume the researcher has access to Hard-ImageNet; the files above 
 
 ## Evaluate Models
 
-We provide training codes for all 7 models, corresponding parameter settings and corresponding model weights can be downloaded in realese/SaveWeights.tar.gz include (VGG16, IncptionV1, MobileNetV1, MobileNetV2, ResNet50, ResNet101, ResNet152). We provide codes for all 4 evaluation methods including (ACC & FRR metrics evaluation, masking & noise perturbation test, method migration evaluation, input transformation and activation offset evaluation).
+We provide training codes for all 7 models, corresponding parameter settings and corresponding model weights can be downloaded in realese/SaveWeights.tar.gz include (VGG16, IncptionV1, MobileNetV1, MobileNetV2, ResNet50, ResNet101, ResNet152). We provide codes for all 3 evaluation methods including (ACC & FRR metrics evaluation, masking & noise perturbation test, method migration evaluation).
 
 1. ACC & FRR metrics evaluation is in the train_modelname.py intergrate as a function named Metrics_Test with the model training code.
 2. masking & noise perturbation test is in the disturbance.py(*related parameters defined in utiles/para.py).
 3. method migration evaluation is in a independent sub-directory named Hard-ImageNet Knowledge Guidance in the same level directory with other evaluation code(This sub-directory has a similar file structure to the parent directory).
-4. input transformation and activation offset evaluation is in the transformation_test.py.
 
 <!-- ## Citation -->
 
