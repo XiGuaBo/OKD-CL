@@ -28,11 +28,6 @@ We provide training codes for all 7 models, corresponding parameter settings and
 
 ## Environment
 
-name: revrx
-channels:
-  - conda-forge
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
   - _openmp_mutex=4.5=2_kmp_llvm
