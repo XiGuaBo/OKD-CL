@@ -157,9 +157,9 @@ dependencies:
 
 ## HardWare Requirement
 
-NVIDIA GTX3090 24G x1
-NVIDIA Driver Release 510.47.03
-CUDA_TOOL_KIT Release 11.6
+- NVIDIA GTX3090 24G x1
+- NVIDIA Driver Release 510.47.03
+- CUDA_TOOL_KIT Release 11.6
 
 <!-- ## Citation -->
 
