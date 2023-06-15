@@ -16,7 +16,7 @@ Note that we assume the researcher has access to Hard-ImageNet; the files above 
 
 1. Donwloads the dataset files and unzip them locally.
 2. Downloads the checkpoint files and unzip them locally. 
-3. Modified the dataset dirs in utiles/para.py.
+3. Modified the dataset dirs in utils/para.py.
 
 ## Evaluate Models
 
