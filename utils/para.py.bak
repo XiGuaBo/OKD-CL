@@ -88,7 +88,7 @@ def attention_weights_produce(epoch,weights_init=1e-4):
 test_resize = False
 masked = 1.0
 mask_ratio = (1.0 - masked)
-mask_pixels = [255,255,255]
+mask_pixels = [180,180,180]
 
 # heatmap export config
 

@@ -12,6 +12,7 @@ class DataLoader:
         classlb = [lab.split('/')[-1] for lab in class_path]
         classlb.sort()
         lab_dict = dict([ (labname,idx) for (idx,labname) in enumerate(classlb) ])
+        self.lab_dict = dict([ (idx,labname) for (idx,labname) in enumerate(classlb) ])
         print ('class len : {} class list : {}'.format(len(classlb),lab_dict))
         self.img_files = []
         for pth in class_path:

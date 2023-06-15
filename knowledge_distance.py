@@ -28,8 +28,8 @@ color_codes = [
     '#DA70D6', '#BA55D3', '#9370DB', '#8A2BE2'
 ]
 
-# vgg = VGG_16(feature_out=True,vector_out=True,dim_out=para.classNums,pretrain_load=None)
-# vgg.load_weights("./ckpt/classifier-vgg-99-60-retrain/classifier-vgg-99-60-retrain")
+vgg = VGG_16(feature_out=True,vector_out=True,dim_out=para.classNums,pretrain_load=None)
+vgg.load_weights("./ckpt/classifier-vgg-99-60-retrain/classifier-vgg-99-60-retrain")
 
 # inception_v3 = Inception_V3(feature_out=True,vector_out=True,dim_out=para.classNums)
 # inception_v3.load_weights("./ckpt/classifier-inception_v3-99-60-retrain/classifier-inception_v3-99-60-retrain")
@@ -44,13 +44,12 @@ color_codes = [
 # res152.load_weights("./ckpt/classifier-resnet152-99-60-retrain/classifier-resnet152-99-60-retrain")
 
 # mobilenet_v1 = MobileNet_v1(feature_out=True,vector_out=True,dim_out=para.classNums)
-# mobilenet_v1.load_weights("./ckpt/classifier-mobilenet_v1-99-40-retrain/classifier-mobilenet_v1-99-40-retrain")
+# mobilenet_v1.load_weights("./ckpt/classifier-mobilenet_v1-99-60-retrain/classifier-mobilenet_v1-99-60-retrain")
 
-mobilenet_v2 = MobileNet_v2(feature_out=True,vector_out=True,dim_out=para.classNums)
-mobilenet_v2.load_weights("./ckpt/classifier-mobilenet_v2-99-40-retrain/classifier-mobilenet_v2-99-40-retrain")
+# mobilenet_v2 = MobileNet_v2(feature_out=True,vector_out=True,dim_out=para.classNums)
+# mobilenet_v2.load_weights("./ckpt/classifier-mobilenet_v2-99-60-retrain/classifier-mobilenet_v2-99-60-retrain")
 
-idx_to_name = json.load(open("./idx2name.json",'r'))
-knowledge_path = "./knowledge/"
+
 
 dl = DataLoader(para.test_data)
 imgs,labmasks,labs = dl.getDateSets()
@@ -74,94 +73,95 @@ for idx,(img,lab_mask,lab) in process:
 #     # For VGG16 InceptionV3 MobileNetV1-2
     img = img / 255.0 
 #     # For ResNet50,101,152
-#     # img = tf.keras.applications.resnet50.preprocess_input(img)
+#     # img = keras.applications.resnet.preprocess_input(img)
     
     img = np.expand_dims(img,axis=0)
     tar_category = np.argmax(lab.squeeze(axis=0))
-    vector_file = knowledge_path + idx_to_name[str(dl.lab_dict[tar_category]-1)] + '.pt'
-    kv = tf.reduce_mean(torch.load(vector_file),axis=0)
+    knowledge = np.loadtxt('./txt-99/{}.txt'.format(tar_category))
+    kv = tf.convert_to_tensor([knowledge],dtype=tf.float32)
 
-    # (pred,convouts,hiddenout) = vgg(img)
+    (pred,convouts,hiddenout) = vgg(img)
     # (pred,convouts,hiddenout) = inception_v3(img)
     # (pred,convouts,hiddenout) = res50(img)
     # (pred,convouts,hiddenout) = res101(img)
     # (pred,convouts,hiddenout) = res152(img)
     # (pred,convouts,hiddenout) = mobilenet_v1(img)
-    (pred,convouts,hiddenout) = mobilenet_v2(img)
+    # (pred,convouts,hiddenout) = mobilenet_v2(img)
     # print(pred.shape)
-    distance = para.mseLoss(kv,hiddenout.numpy())
+    distance = para.mseLoss(kv,hiddenout)
     plt.scatter(tar_category,distance,c='#4169E1',s=10 ,alpha=0.7)
     # print(X.shape)
 process.close()
 
 
 ######################### KI Model Process ##################################
-# vgg.load_weights("./ckpt/classifier-vgg-99-constrainted-by-knowledge-inject/classifier-vgg-99-constrainted-by-knowledge-inject")
+vgg.load_weights("./ckpt/classifier-vgg-99-constrainted-by-knowledge-inject/classifier-vgg-99-constrainted-by-knowledge-inject")
 # inception_v3.load_weights("./ckpt/classifier-inception_v3-99-constrainted-by-knowledge-inject/classifier-inception_v3-99-constrainted-by-knowledge-inject")
 # res50.load_weights("./ckpt/classifier-resnet50-99-constrainted-by-knowledge-inject/classifier-resnet50-99-constrainted-by-knowledge-inject")
 # res101.load_weights("./ckpt/classifier-resnet101-99-constrainted-by-knowledge-inject/classifier-resnet101-99-constrainted-by-knowledge-inject")
 # res152.load_weights("./ckpt/classifier-resnet152-99-constrainted-by-knowledge-inject/classifier-resnet152-99-constrainted-by-knowledge-inject")
 # mobilenet_v1.load_weights("./ckpt/classifier-mobilenet_v1-99-constrainted-by-knowledge-inject/classifier-mobilenet_v1-99-constrainted-by-knowledge-inject")
 # mobilenet_v2.load_weights("./ckpt/classifier-mobilenet_v2-99-constrainted-by-knowledge-inject/classifier-mobilenet_v2-99-constrainted-by-knowledge-inject")
-# process = tqdm.tqdm(enumerate(ds),total=ds_len_)
-# for idx,(img,lab_mask,lab) in process:
-
-#     # For VGG16 InceptionV3 MobileNetV1-2
-#     # img = img / 255.0 
-#     # For ResNet50,101,152
-#     img = tf.keras.applications.resnet50.preprocess_input(img)
-
-#     img = np.expand_dims(img,axis=0)
-#     tar_category = np.argmax(lab.squeeze(axis=0))
-#     vector_file = knowledge_path + idx_to_name[str(dl.lab_dict[tar_category]-1)] + '.pt'
-#     kv = tf.reduce_mean(torch.load(vector_file),axis=0)
-
-#     # (pred,convouts,hiddenout) = vgg(img)
-#     # (pred,convouts,hiddenout) = inception_v3(img)
-#     (pred,convouts,hiddenout) = res50(img)
-#     # (pred,convouts,hiddenout) = res101(img)
-#     # (pred,convouts,hiddenout) = res152(img)
-#     # (pred,convouts,hiddenout) = mobilenet_v1(img)
-#     # (pred,convouts,hiddenout) = mobilenet_v2(img)
-#     # print(pred.shape)
-#     distance = para.mseLoss(kv,hiddenout.numpy())
-#     plt.scatter(tar_category,distance,c='#CD0000',s=10 ,alpha=0.7)
-#     # print(X.shape)
-# process.close()
-
-######################### KI & HC Model Process ##################################
-# vgg.load_weights("./ckpt/classifier-vgg-99-constrainted-by-labelmask-union/classifier-vgg-99-constrainted-by-labelmask-union")
-# inception_v3.load_weights("./ckpt/classifier-inception_v3-99-constrainted-by-labelmask-union/classifier-inception_v3-99-constrainted-by-labelmask-union")
-# res50.load_weights("./ckpt/classifier-resnet50-99-constrainted-by-labelmask-union/classifier-resnet50-99-constrainted-by-labelmask-union")
-# res101.load_weights("./ckpt/classifier-resnet101-99-constrainted-by-labelmask-union/classifier-resnet101-99-constrainted-by-labelmask-union")
-# res152.load_weights("./ckpt/classifier-resnet152-99-constrainted-by-labelmask-union/classifier-resnet152-99-constrainted-by-labelmask-union")
-# mobilenet_v1.load_weights("./ckpt/classifier-mobilenet_v1-99-constrainted-by-labelmask-union/classifier-mobilenet_v1-99-constrainted-by-labelmask-union")
-mobilenet_v2.load_weights("./ckpt/classifier-mobilenet_v2-99-constrainted-by-labelmask-union/classifier-mobilenet_v2-99-constrainted-by-labelmask-union")
 process = tqdm.tqdm(enumerate(ds),total=ds_len_)
 for idx,(img,lab_mask,lab) in process:
 
-#     # For VGG16 InceptionV3 MobileNetV1-2
+    # For VGG16 InceptionV3 MobileNetV1-2
     img = img / 255.0 
-#     # For ResNet50,101,152
-#     # img = tf.keras.applications.resnet50.preprocess_input(img)
-    
+    # For ResNet50,101,152
+    # img = keras.applications.resnet.preprocess_input(img)
+
     img = np.expand_dims(img,axis=0)
     tar_category = np.argmax(lab.squeeze(axis=0))
-    vector_file = knowledge_path + idx_to_name[str(dl.lab_dict[tar_category]-1)] + '.pt'
-    kv = tf.reduce_mean(torch.load(vector_file),axis=0)
+    knowledge = np.loadtxt('./txt-99/{}.txt'.format(tar_category))
+    kv = tf.convert_to_tensor([knowledge],dtype=tf.float32)
 
-    # (pred,convouts,hiddenout) = vgg(img)
+    (pred,convouts,hiddenout) = vgg(img)
     # (pred,convouts,hiddenout) = inception_v3(img)
     # (pred,convouts,hiddenout) = res50(img)
     # (pred,convouts,hiddenout) = res101(img)
     # (pred,convouts,hiddenout) = res152(img)
     # (pred,convouts,hiddenout) = mobilenet_v1(img)
-    (pred,convouts,hiddenout) = mobilenet_v2(img)
+    # (pred,convouts,hiddenout) = mobilenet_v2(img)
     # print(pred.shape)
-    distance = para.mseLoss(kv,hiddenout.numpy())
-    plt.scatter(tar_category,distance,c='#A020F0',s=10 ,alpha=0.7)
+    distance = para.mseLoss(kv,hiddenout)
+    plt.scatter(tar_category,distance,c='#CD0000',s=10 ,alpha=0.7)
     # print(X.shape)
 process.close()
+
+######################### KI & HC Model Process ##################################
+# vgg.load_weights("./ckpt/classifier-vgg-99-constrainted-by-labelmask-union/classifier-vgg-99-constrainted-by-labelmask-union")
+# # inception_v3.load_weights("./ckpt/classifier-inception_v3-99-constrainted-by-labelmask-union/classifier-inception_v3-99-constrainted-by-labelmask-union")
+# # res50.load_weights("./ckpt/classifier-resnet50-99-constrainted-by-labelmask-union/classifier-resnet50-99-constrainted-by-labelmask-union")
+# # res101.load_weights("./ckpt/classifier-resnet101-99-constrainted-by-labelmask-union/classifier-resnet101-99-constrainted-by-labelmask-union")
+# # res152.load_weights("./ckpt/classifier-resnet152-99-constrainted-by-labelmask-union/classifier-resnet152-99-constrainted-by-labelmask-union")
+# # mobilenet_v1.load_weights("./ckpt/classifier-mobilenet_v1-99-constrainted-by-labelmask-union/classifier-mobilenet_v1-99-constrainted-by-labelmask-union")
+# # mobilenet_v2.load_weights("./ckpt/classifier-mobilenet_v2-99-constrainted-by-labelmask-union/classifier-mobilenet_v2-99-constrainted-by-labelmask-union")
+# process = tqdm.tqdm(enumerate(ds),total=ds_len_)
+# for idx,(img,lab_mask,lab) in process:
+
+# #     # For VGG16 InceptionV3 MobileNetV1-2
+#     img = img / 255.0 
+# #     # For ResNet50,101,152
+# #     # img = keras.applications.resnet.preprocess_input(img)
+    
+#     img = np.expand_dims(img,axis=0)
+#     tar_category = np.argmax(lab.squeeze(axis=0))
+#     knowledge = np.loadtxt('./txt-99/{}.txt'.format(tar_category))
+#     kv = tf.convert_to_tensor([knowledge],dtype=tf.float32)
+
+#     (pred,convouts,hiddenout) = vgg(img)
+#     # (pred,convouts,hiddenout) = inception_v3(img)
+#     # (pred,convouts,hiddenout) = res50(img)
+#     # (pred,convouts,hiddenout) = res101(img)
+#     # (pred,convouts,hiddenout) = res152(img)
+#     # (pred,convouts,hiddenout) = mobilenet_v1(img)
+#     # (pred,convouts,hiddenout) = mobilenet_v2(img)
+#     # print(pred.shape)
+#     distance = para.mseLoss(kv,hiddenout)
+#     plt.scatter(tar_category,distance,c='#A020F0',s=10 ,alpha=0.7)
+#     # print(X.shape)
+# process.close()
+
 
 # plt.xticks([])
 # plt.yticks([])
@@ -174,15 +174,15 @@ process.close()
 # plt.savefig("./knowledge_distance_mobilenetv1", dpi=600)
 # plt.savefig("./knowledge_distance_mobilenetv2", dpi=600)
 
-# plt.savefig("./union_knowledge_distance_vgg16", dpi=600)
+plt.savefig("./union_knowledge_distance_vgg16", dpi=600)
 # plt.savefig("./union_knowledge_distance_inceptionv3", dpi=600)
 # plt.savefig("./union_knowledge_distance_resnet50", dpi=600)
 # plt.savefig("./union_knowledge_distance_resnet101", dpi=600)
 # plt.savefig("./union_knowledge_distance_resnet152", dpi=600)
 # plt.savefig("./union_knowledge_distance_mobilenetv1", dpi=600)
-plt.savefig("./union_knowledge_distance_mobilenetv2", dpi=600)
+# plt.savefig("./union_knowledge_distance_mobilenetv2", dpi=600)
 
-# plt.savefig("./guided_knowledge_distance_vgg16", dpi=600)
+#plt.savefig("./guided_knowledge_distance_vgg16", dpi=600)
 # plt.savefig("./guided_knowledge_distance_inceptionv3", dpi=600)
 # plt.savefig("./guided_knowledge_distance_resnet50", dpi=600)
 # plt.savefig("./guided_knowledge_distance_resnet101", dpi=600)
