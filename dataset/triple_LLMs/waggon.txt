@@ -1,0 +1,14 @@
+Waggon/has/red Color Body
+Waggon/has/rectangular Shape Body
+Waggon/has/1 Body
+Waggon's Body/has special attribute/It has a cargo space at the back
+Waggon/has/black Color Tier
+Waggon/has/circular Shape Tier
+Waggon/has/4 Tier
+Waggon's Tier/has special attribute/They are made of rubber
+Waggon/has/silver Color Side Mirror
+Waggon/has/rectangular Shape Side Mirror
+Waggon/has/2 Side Mirror
+Waggon's Mirror/has special attribute/They provide a wider view of the surroundings
+Tier/is next to/Body
+Side Mirror/is attached to/Body

@@ -1,0 +1,15 @@
+Scooter/has/red Color Body
+Scooter/has/rectangular Shape Body
+Scooter/has/1 Body
+Scooter's Body/has special attribute/There is a seat on top of the body
+Scooter/has/black Color Tier
+Scooter/has/circular Shape Tier
+Scooter/has/2 Tier
+Scooter's Tier/has special attribute/Made of rubber for better grip on the road
+Scooter/has/silver Color Side Mirror
+Scooter/has/oval Shape Side Mirror
+Scooter/has/2 Side Mirror
+Scooter's Mirror/has special attribute/Allows the rider to see behind
+Side Mirror/is next to/Body
+Tier/is attached to/Body
+Tier/is next to/Body

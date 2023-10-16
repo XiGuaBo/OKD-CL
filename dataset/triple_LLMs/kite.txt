@@ -1,0 +1,24 @@
+Kite/has/red Color Head
+Kite/has/triangular Shape Head
+Kite/has/1 Head
+Kite's Head/has special attribute/There is a string attached to the head
+Kite/has/blue Color Body
+Kite/has/diamond Shape Body
+Kite/has/1 Body
+Kite's Body/has special attribute/None
+Kite/has/yellow Color Wing
+Kite/has/triangular Shape Wing
+Kite/has/2 Wing
+Kite's Wing/has special attribute/None
+Kite/has/black Color Foot
+Kite/has/rectangular Shape Foot
+Kite/has/2 Foot
+Kite's Foot/has special attribute/None
+Kite/has/green Color Tail
+Kite/has/long and thin Shape Tail
+Kite/has/1 Tail
+Kite's Tail/has special attribute/There is a colorful ribbon attached to the tail
+Head/is up to/Body
+Wing/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

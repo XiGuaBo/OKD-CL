@@ -1,0 +1,26 @@
+Howler/has/brown Color Head
+Howler/has/round Shape Head
+Howler/has/1 Head
+Howler's Head/has special attribute/There are two large ears on top of the head
+Howler/has/brown Color Body
+Howler/has/elongated Shape Body
+Howler/has/1 Body
+Howler's Body/has special attribute/Covered in thick fur
+Howler/has/brown Color Hand
+Howler/has/paw-like Shape Hand
+Howler/has/2 Hand
+Howler's Hand/has special attribute/Each hand has five fingers with sharp claws
+Howler/has/brown Color Foot
+Howler/has/paw-like Shape Foot
+Howler/has/2 Foot
+Howler's Foot/has special attribute/Each foot has five toes with strong gripping ability
+Howler/has/brown Color Tail
+Howler/has/long and bushy Shape Tail
+Howler/has/1 Tail
+Howler's Tail/has special attribute/Used for balance and communication
+Head/is on top of/Body
+Hand/is next to/Body
+Hand/is below Head
+Foot/is next to/Body
+Foot/is below Hand
+Tail/is behind of/Body

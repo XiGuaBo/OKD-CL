@@ -1,0 +1,22 @@
+Thalarctos maritimus/has/white Color Head
+Thalarctos maritimus/has/round Shape Head
+Thalarctos maritimus/has/1 Head
+Thalarctos maritimus's Head/has special attribute/There are two small ears on top of the head
+Thalarctos maritimus/has/white Color Body
+Thalarctos maritimus/has/cylindrical Shape Body
+Thalarctos maritimus/has/1 Body
+Thalarctos maritimus's Body/has special attribute/Thick fur covering the body
+Thalarctos maritimus/has/black Color Foot
+Thalarctos maritimus/has/paw-like Shape Foot
+Thalarctos maritimus/has/4 Foot
+Thalarctos maritimus's Foot/has special attribute/Sharp claws at the end of each foot
+Thalarctos maritimus/has/white Color Tail
+Thalarctos maritimus/has/long and cylindrical Shape Tail
+Thalarctos maritimus/has/1 Tail
+Thalarctos maritimus's Tail/has special attribute/Flexible and used for swimming
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

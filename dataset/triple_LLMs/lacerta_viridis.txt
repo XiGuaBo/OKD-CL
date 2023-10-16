@@ -1,0 +1,22 @@
+Lacerta viridis has green Color Head
+Lacerta viridis has triangular Shape Head
+Lacerta viridis has 1 Head
+Lacerta viridis's Head/has special attribute/There are two round eyes on the head
+Lacerta viridis has green Color Body
+Lacerta viridis has elongated Shape Body
+Lacerta viridis has 1 Body
+Lacerta viridis's Body/has special attribute/Covered with scales
+Lacerta viridis has green Color Foot
+Lacerta viridis has clawed Shape Foot
+Lacerta viridis has 4 Foot
+Lacerta viridis's Foot/has special attribute/Used for climbing and gripping
+Lacerta viridis has green Color Tail
+Lacerta viridis has long and tapering Shape Tail
+Lacerta viridis has 1 Tail
+Lacerta viridis's Tail/has special attribute/Used for balance and communication
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

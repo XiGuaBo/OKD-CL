@@ -1,0 +1,24 @@
+Egretta albus/has/white Color Head
+Egretta albus/has/elongated Shape Head
+Egretta albus/has/1 Head
+Egretta albus's Head/has special attribute/There is a long;pointed beak in front of the head
+Egretta albus/has/white Color Body
+Egretta albus/has/slender Shape Body
+Egretta albus/has/1 Body
+Egretta albus's Body/has special attribute/None
+Egretta albus/has/white Color Wing
+Egretta albus/has/long and broad Shape Wing
+Egretta albus/has/2 Wing
+Egretta albus's Wing/has special attribute/None
+Egretta albus/has/black Color Foot
+Egretta albus/has/long and slender Shape Foot
+Egretta albus/has/2 Foot
+Egretta albus's Foot/has special attribute/There are webbed toes at the end of each foot
+Egretta albus/has/white Color Tail
+Egretta albus/has/long and thin Shape Tail
+Egretta albus/has/1 Tail
+Egretta albus's Tail/has special attribute/None
+Head is in front of Body
+Wing/is next to/Body
+Foot/is below Body
+Tail/is behind of/Body

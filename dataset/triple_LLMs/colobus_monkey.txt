@@ -1,0 +1,26 @@
+Colobus Monkey/has/black Color Head
+Colobus Monkey/has/round Shape Head
+Colobus Monkey/has/1 Head
+Colobus Monkey's Head/has special attribute/There is a white fur patch on the face
+Colobus Monkey/has/black;white Color Body
+Colobus Monkey/has/slender Shape Body
+Colobus Monkey/has/1 Body
+Colobus Monkey's Body/has special attribute/Long and agile body
+Colobus Monkey/has/black Color Hand
+Colobus Monkey/has/long and slender Shape Hand
+Colobus Monkey/has/2 Hand
+Colobus Monkey's Hand/has special attribute/Opposable thumbs
+Colobus Monkey/has/black Color Foot
+Colobus Monkey/has/long and narrow Shape Foot
+Colobus Monkey/has/2 Foot
+Colobus Monkey's Foot/has special attribute/Strong grasping ability
+Colobus Monkey/has/black Color Tail
+Colobus Monkey/has/long and bushy Shape Tail
+Colobus Monkey/has/1 Tail
+Colobus Monkey's Tail/has special attribute/Used for balance and communication
+Head/is up to/Body
+Hand/is next to/Body
+Hand/is next to/Foot
+Foot/is next to/Body
+Foot/is next to/Hand
+Tail/is behind of/Body

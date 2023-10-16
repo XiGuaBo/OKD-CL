@@ -1,0 +1,27 @@
+Jacamar/has/black Color Head
+Jacamar/has/triangular Shape Head
+Jacamar/has/1 Head
+Jacamar's Head/has special attribute/There is a long;thin beak in front of the head
+Jacamar/has/brown Color Body
+Jacamar/has/cylindrical Shape Body
+Jacamar/has/1 Body
+Jacamar's Body/has special attribute/None
+Jacamar/has/black Color Wing
+Jacamar/has/long and pointed Shape Wing
+Jacamar/has/2 Wing
+Jacamar's Wing/has special attribute/None
+Jacamar/has/gray Color Foot
+Jacamar/has/clawed Shape Foot
+Jacamar/has/2 Foot
+Jacamar's Foot/has special attribute/There are sharp claws at the end of each foot
+Jacamar/has/brown Color Tail
+Jacamar/has/short and rounded Shape Tail
+Jacamar/has/1 Tail
+Jacamar's Tail/has special attribute/None
+Head/is up to/Body
+Head/is next to/Body
+Wing/is next to/Body
+Wing/is side of/Body
+Foot/is next to/Body
+Foot/is side of/Body
+Tail/is behind of/Body

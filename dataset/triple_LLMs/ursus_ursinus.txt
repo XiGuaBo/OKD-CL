@@ -1,0 +1,19 @@
+Ursus ursinus/has/brown Color Head
+Ursus ursinus/has/round Shape Head
+Ursus ursinus/has/1 Head
+Ursus ursinus's Head/has special attribute/There are two small ears on top of the head
+Ursus ursinus/has/black Color Body
+Ursus ursinus/has/bulky Shape Body
+Ursus ursinus/has/1 Body
+Ursus ursinus's Body/has special attribute/Covered with thick fur
+Ursus ursinus/has/black Color Foot
+Ursus ursinus/has/paw-like Shape Foot
+Ursus ursinus/has/4 Foot
+Ursus ursinus's Foot/has special attribute/Strong and suitable for climbing trees
+Ursus ursinus/has/black Color Tail
+Ursus ursinus/has/long and cylindrical Shape Tail
+Ursus ursinus/has/1 Tail
+Ursus ursinus's Tail/has special attribute/Used for balance and communication
+Head/is on top of/Body
+Foot/is below Body
+Tail/is behind of/Body

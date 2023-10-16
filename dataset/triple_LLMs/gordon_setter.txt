@@ -1,0 +1,22 @@
+Gordon setter/has/black Color Head
+Gordon setter/has/oval Shape Head
+Gordon setter/has/1 Head
+Gordon setter's Head/has special attribute/There are two round;dark brown eyes on the head
+Gordon setter/has/black;tan Color Body
+Gordon setter/has/muscular Shape Body
+Gordon setter/has/1 Body
+Gordon setter's Body/has special attribute/The body is medium-sized and well-proportioned
+Gordon setter/has/black Color Foot
+Gordon setter/has/paw Shape Foot
+Gordon setter/has/4 Foot
+Gordon setter's Foot/has special attribute/The feet are strong and compact
+Gordon setter/has/black Color Tail
+Gordon setter/has/long and tapering Shape Tail
+Gordon setter/has/1 Tail
+Gordon setter's Tail/has special attribute/The tail is set high and carried level with the back
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

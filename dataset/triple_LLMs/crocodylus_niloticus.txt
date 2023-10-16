@@ -1,0 +1,22 @@
+Crocodylus niloticus/has/dark brown Color Head
+Crocodylus niloticus/has/long and narrow Shape Head
+Crocodylus niloticus/has/1 Head
+Crocodylus niloticus's Head/has special attribute/There are sharp teeth in the mouth
+Crocodylus niloticus/has/dark green Color Body
+Crocodylus niloticus/has/elongated and cylindrical Shape Body
+Crocodylus niloticus/has/1 Body
+Crocodylus niloticus's Body/has special attribute/Covered in rough scales
+Crocodylus niloticus/has/gray Color Foot
+Crocodylus niloticus/has/webbed Shape Foot
+Crocodylus niloticus/has/4 Foot
+Crocodylus niloticus's Foot/has special attribute/Used for swimming and walking on land
+Crocodylus niloticus/has/dark brown Color Tail
+Crocodylus niloticus/has/long and tapering Shape Tail
+Crocodylus niloticus/has/1 Tail
+Crocodylus niloticus's Tail/has special attribute/Helps with swimming and acts as a weapon
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

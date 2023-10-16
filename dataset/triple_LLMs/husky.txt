@@ -1,0 +1,22 @@
+Husky/has/white;gray Color Head
+Husky/has/triangular Shape Head
+Husky/has/1 Head
+Husky's Head/has special attribute/There are two pointy ears on top of the head
+Husky/has/gray;black;white Color Body
+Husky/has/muscular Shape Body
+Husky/has/1 Body
+Husky's Body/has special attribute/The body is covered in thick fur
+Husky/has/black Color Foot
+Husky/has/paw-like Shape Foot
+Husky/has/4 Foot
+Husky's Foot/has special attribute/Each foot has sharp claws
+Husky/has/black;white Color Tail
+Husky/has/bushy Shape Tail
+Husky/has/1 Tail
+Husky's Tail/has special attribute/The tail curls upwards
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

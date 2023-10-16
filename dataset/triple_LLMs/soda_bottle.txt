@@ -1,0 +1,10 @@
+Soda Bottle/has/transparent Color Body
+Soda Bottle/has/cylindrical Shape Body
+Soda Bottle/has/1 Body
+Soda Bottle's Body/has special attribute/It has a label wrapped around it
+Soda Bottle/has/silver Color Mouth
+Soda Bottle/has/circular Shape Mouth
+Soda Bottle/has/1 Mouth
+Soda Bottle's Mouth/has special attribute/It has a screw-on cap
+Mouth/is up to/Body
+Mouth/is next to/Body

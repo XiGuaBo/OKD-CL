@@ -1,0 +1,10 @@
+Sand Viper/has/brown Color Head
+Sand Viper/has/triangular Shape Head
+Sand Viper/has/1 Head
+Sand Viper's Head/has special attribute/There are two venomous fangs in the front of the head
+Sand Viper/has/brown Color Body
+Sand Viper/has/cylindrical Shape Body
+Sand Viper/has/1 Body
+Sand Viper's Body/has special attribute/Covered in scales
+Head/is up to/Body
+Head/is next to/Body

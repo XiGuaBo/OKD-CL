@@ -1,0 +1,10 @@
+Carphophis amoenus/has/brown Color Head
+Carphophis amoenus/has/triangular Shape Head
+Carphophis amoenus/has/1 Head
+Carphophis amoenus's Head/has special attribute/There are two small eyes on the front of the head
+Carphophis amoenus/has/black Color Body
+Carphophis amoenus/has/cylindrical Shape Body
+Carphophis amoenus/has/1 Body
+Carphophis amoenus's Body/has special attribute/The body is elongated and slender
+Head/is up to/Body
+Head/is next to/Body

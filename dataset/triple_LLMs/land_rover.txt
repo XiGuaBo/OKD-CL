@@ -1,0 +1,15 @@
+Land Rover/has/silver Color Body
+Land Rover/has/boxy Shape Body
+Land Rover/has/1 Body
+Land Rover's Body/has special attribute/It has a rugged and sturdy appearance
+Land Rover/has/black Color Tier
+Land Rover/has/round Shape Tier
+Land Rover/has/4 Tier
+Land Rover's Tier/has special attribute/They are made of durable rubber
+Land Rover/has/silver Color Side Mirror
+Land Rover/has/rectangular Shape Side Mirror
+Land Rover/has/2 Side Mirror
+Land Rover's Mirror/has special attribute/They are adjustable
+Side Mirror/is next to/Body
+Tier/is up to/Body
+Tier/is next to/Body

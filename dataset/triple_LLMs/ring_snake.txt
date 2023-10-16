@@ -1,0 +1,10 @@
+Ring Snake/has/green Color Head
+Ring Snake/has/triangular Shape Head
+Ring Snake/has/1 Head
+Ring Snake's Head/has special attribute/It has two large eyes on top of the head
+Ring Snake/has/brown Color Body
+Ring Snake/has/long and cylindrical Shape Body
+Ring Snake/has/1 Body
+Ring Snake's Body/has special attribute/It has a series of distinct rings along the body
+Head/is up to/Body
+Head/is next to/Body

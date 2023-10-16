@@ -1,0 +1,10 @@
+Yawl/has/white Color Body
+Yawl/has/streamline Shape Body
+Yawl/has/1 Body
+Yawl's Body/has special attribute/None
+Yawl/has/white Color Sail
+Yawl/has/triangular Shape Sail
+Yawl/has/1 Sail
+Yawl's Sail has special attribute It/is attached to/the mast
+Sail/is up to/Body
+Sail/is next to/Body

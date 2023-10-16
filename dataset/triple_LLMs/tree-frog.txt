@@ -1,0 +1,22 @@
+Tree-frog/has/green Color Head
+Tree-frog/has/oval Shape Head
+Tree-frog/has/1 Head
+Tree-frog's Head/has special attribute/Large eyes on top of the head
+Tree-frog/has/green Color Body
+Tree-frog/has/rounded Shape Body
+Tree-frog/has/1 Body
+Tree-frog's Body/has special attribute/Smooth skin
+Tree-frog/has/green Color Foot
+Tree-frog/has/webbed Shape Foot
+Tree-frog/has/4 Foot
+Tree-frog's Foot/has special attribute/Adhesive pads on the toes
+Tree-frog/has/green Color Tail
+Tree-frog/has/long and slender Shape Tail
+Tree-frog/has/1 Tail
+Tree-frog's Tail/has special attribute/Used for balance and climbing
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

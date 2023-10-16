@@ -1,0 +1,19 @@
+Ursus arctos/has/brown Color Head
+Ursus arctos/has/round Shape Head
+Ursus arctos/has/1 Head
+Ursus arctos's Head/has special attribute/There are two small ears on top of the head
+Ursus arctos/has/brown Color Body
+Ursus arctos/has/bulky Shape Body
+Ursus arctos/has/1 Body
+Ursus arctos's Body/has special attribute/Covered with thick fur
+Ursus arctos/has/brown Color Foot
+Ursus arctos/has/paw-like Shape Foot
+Ursus arctos/has/4 Foot
+Ursus arctos's Foot/has special attribute/Each foot has sharp claws
+Ursus arctos/has/brown Color Tail
+Ursus arctos/has/long and cylindrical Shape Tail
+Ursus arctos/has/1 Tail
+Ursus arctos's Tail/has special attribute/Used for balance and communication
+Head/is on top of/Body
+Foot/is below Body
+Tail/is behind of/Body

@@ -1,0 +1,22 @@
+Ovis canadensis has brown Color Head
+Ovis canadensis has oval Shape Head
+Ovis canadensis has 1 Head
+Ovis canadensis's Head/has special attribute/There are two curved horns on top of the head
+Ovis canadensis has brown Color Body
+Ovis canadensis has rectangular Shape Body
+Ovis canadensis has 1 Body
+Ovis canadensis's Body/has special attribute/Covered with thick fur
+Ovis canadensis has brown Color Foot
+Ovis canadensis has hoof-like Shape Foot
+Ovis canadensis has 4 Foot
+Ovis canadensis's Foot/has special attribute/Adapted for climbing steep terrain
+Ovis canadensis has brown Color Tail
+Ovis canadensis has long and cylindrical Shape Tail
+Ovis canadensis has 1 Tail
+Ovis canadensis's Tail/has special attribute/Used for balance and communication
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

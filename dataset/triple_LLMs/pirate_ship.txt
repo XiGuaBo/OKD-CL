@@ -1,0 +1,10 @@
+Pirate Ship/has/brown Color Body
+Pirate Ship/has/rectangular Shape Body
+Pirate Ship/has/1 Body
+Pirate Ship's Body/has special attribute/It has a skull and crossbones flag on top
+Pirate Ship/has/black Color Sail
+Pirate Ship/has/triangular Shape Sail
+Pirate Ship/has/1 Sail
+Pirate Ship's Sail/has special attribute/It has a Jolly Roger symbol
+Sail/is up to/Body
+Sail/is next to/Body

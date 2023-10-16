@@ -1,0 +1,1 @@
+{"Kingsnake": {"Head": {"Color": "black", "Shape": "triangular", "Quantity": "1", "Special Attribute": "There are two small eyes on top of the head"}, "Body": {"Color": "black, yellow", "Shape": "long and cylindrical", "Quantity": "1", "Special Attribute": "There are distinct yellow bands along the body"}}, "Relationship": ["Head is/up/to Body", "Head is/next/to Body"]}

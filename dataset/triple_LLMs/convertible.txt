@@ -1,0 +1,16 @@
+Convertible/has/red Color Body
+Convertible/has/sleek Shape Body
+Convertible/has/1 Body
+Convertible's Body/has special attribute/It has a retractable roof
+Convertible/has/black Color Tier
+Convertible/has/round Shape Tier
+Convertible/has/4 Tier
+Convertible's Tier/has special attribute/They are made of high-performance rubber
+Convertible/has/silver Color Side Mirror
+Convertible/has/rectangular Shape Side Mirror
+Convertible/has/2 Side Mirror
+Convertible's Mirror/has special attribute/They are adjustable
+Body/is up to/Tier
+Body/is next to/Tier
+Side Mirror/is next to/Body
+Side Mirror/is side of/Body

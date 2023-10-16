@@ -1,0 +1,10 @@
+Kingsnake/has/black Color Head
+Kingsnake/has/triangular Shape Head
+Kingsnake/has/1 Head
+Kingsnake's Head/has special attribute/There are two small eyes on top of the head
+Kingsnake/has/black;yellow Color Body
+Kingsnake/has/long and cylindrical Shape Body
+Kingsnake/has/1 Body
+Kingsnake's Body/has special attribute/There are distinct yellow bands along the body
+Head/is up to/Body
+Head/is next to/Body

@@ -1,0 +1,14 @@
+School Bus/has/yellow Color Body
+School Bus/has/rectangular Shape Body
+School Bus/has/1 Body
+School Bus's Body/has special attribute/It has windows all around
+School Bus/has/black Color Tier
+School Bus/has/circular Shape Tier
+School Bus/has/4 Tier
+School Bus's Tier/has special attribute/They are made of rubber
+School Bus/has/silver Color Side Mirror
+School Bus/has/rectangular Shape Side Mirror
+School Bus/has/2 Side Mirror
+School Bus's Mirror/has special attribute/They are adjustable
+Tier/is next to/Body
+Side Mirror/is attached to/Body

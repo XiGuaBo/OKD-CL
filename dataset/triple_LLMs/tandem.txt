@@ -1,0 +1,19 @@
+Tandem/has/black Color Head
+Tandem/has/round Shape Head
+Tandem/has/1 Head
+Tandem's Head/has special attribute/There is a handlebar attached to the head
+Tandem/has/silver Color Body
+Tandem/has/streamline Shape Body
+Tandem/has/1 Body
+Tandem's Body/has special attribute/None
+Tandem/has/black Color Seat
+Tandem/has/rectangular Shape Seat
+Tandem/has/2 Seat
+Tandem's Seat/has special attribute/There are two seats attached to the body
+Tandem/has/black Color Tier
+Tandem/has/circular Shape Tier
+Tandem/has/2 Tier
+Tandem's Tier/has special attribute/There are two tiers attached to the body
+Head/is up to/Body
+Seat/is next to/Body
+Tier/is next to/Body

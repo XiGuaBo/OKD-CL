@@ -1,0 +1,22 @@
+Mustela putorius/has/brown Color Head
+Mustela putorius/has/triangular Shape Head
+Mustela putorius/has/1 Head
+Mustela putorius's Head/has special attribute/There are two small round ears on top of the head
+Mustela putorius/has/dark brown Color Body
+Mustela putorius/has/elongated Shape Body
+Mustela putorius/has/1 Body
+Mustela putorius's Body/has special attribute/Covered in thick fur
+Mustela putorius/has/black Color Foot
+Mustela putorius/has/paw-like Shape Foot
+Mustela putorius/has/4 Foot
+Mustela putorius's Foot/has special attribute/Sharp claws for climbing and digging
+Mustela putorius/has/black Color Tail
+Mustela putorius/has/long and bushy Shape Tail
+Mustela putorius/has/1 Tail
+Mustela putorius's Tail/has special attribute/Used for balance and communication
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

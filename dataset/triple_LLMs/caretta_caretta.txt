@@ -1,0 +1,20 @@
+Caretta caretta/has/brown Color Head
+Caretta caretta/has/oval Shape Head
+Caretta caretta/has/1 Head
+Caretta caretta's Head/has special attribute/There are two large eyes on the front of the head
+Caretta caretta/has/brown Color Body
+Caretta caretta/has/oval Shape Body
+Caretta caretta/has/1 Body
+Caretta caretta's Body/has special attribute/It has a hard shell covering the body
+Caretta caretta/has/brown Color Foot
+Caretta caretta/has/flippers Shape Foot
+Caretta caretta/has/4 Foot
+Caretta caretta's Foot/has special attribute/They are adapted for swimming
+Caretta caretta/has/brown Color Tail
+Caretta caretta/has/long and tapered Shape Tail
+Caretta caretta/has/1 Tail
+Caretta caretta's Tail/has special attribute/It helps with steering and propulsion in water
+Head/is on top of/Body
+Foot/is next to/Body
+Foot/is below Body
+Tail/is behind of/Body

@@ -1,0 +1,10 @@
+Pill Bottle/has/white Color Body
+Pill Bottle/has/cylindrical Shape Body
+Pill Bottle/has/1 Body
+Pill Bottle's Body/has special attribute/There is a label on the body
+Pill Bottle/has/orange Color Mouth
+Pill Bottle/has/circular Shape Mouth
+Pill Bottle/has/1 Mouth
+Pill Bottle's Mouth/has special attribute/There is a child-proof cap on the mouth
+Mouth/is on top of/Body
+Mouth/is adjacent to/Body

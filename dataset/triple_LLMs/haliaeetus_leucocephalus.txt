@@ -1,0 +1,24 @@
+Haliaeetus leucocephalus/has/white Color Head
+Haliaeetus leucocephalus/has/rounded Shape Head
+Haliaeetus leucocephalus/has/1 Head
+Haliaeetus leucocephalus's Head/has special attribute/There is a sharp yellow beak in front of the head
+Haliaeetus leucocephalus/has/brown Color Body
+Haliaeetus leucocephalus/has/streamlined Shape Body
+Haliaeetus leucocephalus/has/1 Body
+Haliaeetus leucocephalus's Body/has special attribute/None
+Haliaeetus leucocephalus/has/brown Color Wing
+Haliaeetus leucocephalus/has/wide and elongated Shape Wing
+Haliaeetus leucocephalus/has/2 Wing
+Haliaeetus leucocephalus's Wing/has special attribute/Used for flying
+Haliaeetus leucocephalus/has/yellow Color Foot
+Haliaeetus leucocephalus/has/curved and clawed Shape Foot
+Haliaeetus leucocephalus/has/2 Foot
+Haliaeetus leucocephalus's Foot/has special attribute/Used for perching and grasping prey
+Haliaeetus leucocephalus/has/brown Color Tail
+Haliaeetus leucocephalus/has/long and fan-shaped Shape Tail
+Haliaeetus leucocephalus/has/1 Tail
+Haliaeetus leucocephalus's Tail/has special attribute/Used for steering during flight
+Head/is up to/Body
+Wing/is next to/Body
+Foot/is below Body
+Tail/is behind of/Body

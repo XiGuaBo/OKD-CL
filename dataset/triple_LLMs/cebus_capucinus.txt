@@ -1,0 +1,26 @@
+Cebus capucinus/has/brown Color Head
+Cebus capucinus/has/oval Shape Head
+Cebus capucinus/has/1 Head
+Cebus capucinus's Head/has special attribute/There is a prominent forehead
+Cebus capucinus/has/brown Color Body
+Cebus capucinus/has/elongated Shape Body
+Cebus capucinus/has/1 Body
+Cebus capucinus's Body/has special attribute/Covered in fur
+Cebus capucinus/has/brown Color Hand
+Cebus capucinus/has/curved Shape Hand
+Cebus capucinus/has/2 Hand
+Cebus capucinus's Hand/has special attribute/Opposable thumbs
+Cebus capucinus/has/brown Color Foot
+Cebus capucinus/has/flat Shape Foot
+Cebus capucinus/has/2 Foot
+Cebus capucinus's Foot/has special attribute/Grasping toes
+Cebus capucinus/has/brown Color Tail
+Cebus capucinus/has/long and slender Shape Tail
+Cebus capucinus/has/1 Tail
+Cebus capucinus's Tail/has special attribute/Prehensile
+Head/is on top of/Body
+Hand/is next to/Body
+Hand/is below Head
+Foot/is next to/Body
+Foot/is below Hand
+Tail/is behind of/Body

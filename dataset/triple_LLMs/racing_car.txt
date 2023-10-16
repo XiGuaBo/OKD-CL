@@ -1,0 +1,16 @@
+Racing Car/has/red Color Body
+Racing Car/has/sleek Shape Body
+Racing Car/has/1 Body
+Racing Car's Body/has special attribute/There is a spoiler at the back of the body
+Racing Car/has/black Color Tier
+Racing Car/has/circular Shape Tier
+Racing Car/has/4 Tier
+Racing Car's Tier/has special attribute/Made of high-performance rubber
+Racing Car/has/silver Color Side Mirror
+Racing Car/has/rectangular Shape Side Mirror
+Racing Car/has/2 Side Mirror
+Racing Car's Mirror/has special attribute/Adjustable for better visibility
+Side Mirror/is next to/Body
+Side Mirror/is side of/Body
+Tier/is up to/Body
+Tier/is next to/Body

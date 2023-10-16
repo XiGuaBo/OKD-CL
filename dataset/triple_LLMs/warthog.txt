@@ -1,0 +1,21 @@
+Warthog/has/gray Color Head
+Warthog/has/rectangular Shape Head
+Warthog/has/1 Head
+Warthog's Head/has special attribute/There are two sharp tusks protruding from the mouth
+Warthog/has/brown Color Body
+Warthog/has/stocky Shape Body
+Warthog/has/1 Body
+Warthog's Body/has special attribute/Covered in coarse hair
+Warthog/has/black Color Foot
+Warthog/has/hoof-like Shape Foot
+Warthog/has/4 Foot
+Warthog's Foot/has special attribute/Strong and sturdy for digging
+Warthog/has/brown Color Tail
+Warthog/has/tufted Shape Tail
+Warthog/has/1 Tail
+Warthog's Tail/has special attribute/Ends with a bushy tuft of hair
+Head/is up to/Body
+Head/is next to/Body
+Foot/is next to/Body
+Foot/is side of/Body
+Tail/is behind of/Body

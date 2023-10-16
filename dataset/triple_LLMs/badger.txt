@@ -1,0 +1,22 @@
+Badger/has/black Color Head
+Badger/has/triangular Shape Head
+Badger/has/1 Head
+Badger's Head/has special attribute/There are two small ears on top of the head
+Badger/has/gray Color Body
+Badger/has/cylindrical Shape Body
+Badger/has/1 Body
+Badger's Body/has special attribute/Covered in thick fur
+Badger/has/black Color Foot
+Badger/has/oval Shape Foot
+Badger/has/4 Foot
+Badger's Foot/has special attribute/Each foot has sharp claws
+Badger/has/black Color Tail
+Badger/has/long and bushy Shape Tail
+Badger/has/1 Tail
+Badger's Tail/has special attribute/Used for balance and communication
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

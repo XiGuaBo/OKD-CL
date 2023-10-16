@@ -1,0 +1,24 @@
+Titi Monkey/has/brown Color Head
+Titi Monkey/has/round Shape Head
+Titi Monkey/has/1 Head
+Titi Monkey's Head/has special attribute/There are two large eyes on the head
+Titi Monkey/has/brown Color Body
+Titi Monkey/has/elongated Shape Body
+Titi Monkey/has/1 Body
+Titi Monkey's Body/has special attribute/The body is covered in fur
+Titi Monkey/has/brown Color Hand
+Titi Monkey/has/curved Shape Hand
+Titi Monkey/has/2 Hand
+Titi Monkey's Hand/has special attribute/Each hand has five fingers
+Titi Monkey/has/brown Color Foot
+Titi Monkey/has/flat Shape Foot
+Titi Monkey/has/2 Foot
+Titi Monkey's Foot/has special attribute/Each foot has five toes
+Titi Monkey/has/brown Color Tail
+Titi Monkey/has/long and slender Shape Tail
+Titi Monkey/has/1 Tail
+Titi Monkey's Tail/has special attribute/The tail is prehensile
+Head/is on top of/Body
+Hand/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

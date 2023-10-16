@@ -1,0 +1,22 @@
+Heloderma suspectum/has/black Color Head
+Heloderma suspectum/has/triangular Shape Head
+Heloderma suspectum/has/1 Head
+Heloderma suspectum's Head/has special attribute/It has venomous glands on its lower jaw
+Heloderma suspectum/has/black;brown Color Body
+Heloderma suspectum/has/cylindrical Shape Body
+Heloderma suspectum/has/1 Body
+Heloderma suspectum's Body/has special attribute/Covered in rough;bumpy scales
+Heloderma suspectum/has/black Color Foot
+Heloderma suspectum/has/clawed Shape Foot
+Heloderma suspectum/has/4 Foot
+Heloderma suspectum's Foot/has special attribute/Strong and adapted for digging
+Heloderma suspectum/has/black;brown Color Tail
+Heloderma suspectum/has/thick and tapering Shape Tail
+Heloderma suspectum/has/1 Tail
+Heloderma suspectum's Tail/has special attribute/Used for storing fat reserves
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

@@ -1,0 +1,22 @@
+Weasel/has/brown Color Head
+Weasel/has/triangular Shape Head
+Weasel/has/1 Head
+Weasel's Head/has special attribute/There are two small ears on top of the head
+Weasel/has/brown Color Body
+Weasel/has/elongated Shape Body
+Weasel/has/1 Body
+Weasel's Body/has special attribute/None
+Weasel/has/brown Color Foot
+Weasel/has/paw-like Shape Foot
+Weasel/has/4 Foot
+Weasel's Foot/has special attribute/Each foot has sharp claws
+Weasel/has/brown Color Tail
+Weasel/has/long and cylindrical Shape Tail
+Weasel/has/1 Tail
+Weasel's Tail/has special attribute/The tail is bushy
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

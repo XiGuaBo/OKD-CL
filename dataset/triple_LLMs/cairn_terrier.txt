@@ -1,0 +1,22 @@
+Cairn Terrier/has/brown Color Head
+Cairn Terrier/has/round Shape Head
+Cairn Terrier/has/1 Head
+Cairn Terrier's Head/has special attribute/There are two small;pointy ears on top of the head
+Cairn Terrier/has/sandy Color Body
+Cairn Terrier/has/compact Shape Body
+Cairn Terrier/has/1 Body
+Cairn Terrier's Body/has special attribute/The body is covered in a shaggy;weather-resistant coat
+Cairn Terrier/has/brown Color Foot
+Cairn Terrier/has/paw-like Shape Foot
+Cairn Terrier/has/4 Foot
+Cairn Terrier's Foot/has special attribute/Each foot has strong;sturdy claws for digging
+Cairn Terrier/has/sandy Color Tail
+Cairn Terrier/has/curled Shape Tail
+Cairn Terrier/has/1 Tail
+Cairn Terrier's Tail/has special attribute/The tail is carried high and is covered in wiry hair
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

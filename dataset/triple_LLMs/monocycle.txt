@@ -1,0 +1,19 @@
+Monocycle/has/silver Color Head
+Monocycle/has/circular Shape Head
+Monocycle/has/1 Head
+Monocycle's Head/has special attribute/There is a small headlight on the front
+Monocycle/has/red Color Body
+Monocycle/has/elongated Shape Body
+Monocycle/has/1 Body
+Monocycle's Body/has special attribute/It has a storage compartment
+Monocycle/has/black Color Seat
+Monocycle/has/rectangular Shape Seat
+Monocycle/has/1 Seat
+Monocycle's Seat/has special attribute/It is adjustable
+Monocycle/has/black Color Tier
+Monocycle/has/circular Shape Tier
+Monocycle/has/1 Tier
+Monocycle's Tier/has special attribute/It is made of rubber for better grip
+Head/is up to/Body
+Seat/is next to/Body
+Tier/is below Body

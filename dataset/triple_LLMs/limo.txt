@@ -1,0 +1,14 @@
+Limo/has/black Color Body
+Limo/has/long and rectangular Shape Body
+Limo/has/1 Body
+Limo's Body/has special attribute/Sleek and shiny exterior
+Limo/has/silver Color Tier
+Limo/has/circular Shape Tier
+Limo/has/4 Tier
+Limo's Tier/has special attribute/Rubber material for better grip
+Limo/has/chrome Color Side Mirror
+Limo/has/rectangular Shape Side Mirror
+Limo/has/2 Side Mirror
+Limo's Mirror/has special attribute/Adjustable for better visibility
+Side Mirror/is next to/Body
+Tier/is under of/Body

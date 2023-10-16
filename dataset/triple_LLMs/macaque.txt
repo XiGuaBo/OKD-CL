@@ -1,0 +1,24 @@
+Macaque/has/brown Color Head
+Macaque/has/oval Shape Head
+Macaque/has/1 Head
+Macaque's Head/has special attribute/There are two round ears on top of the head
+Macaque/has/gray Color Body
+Macaque/has/cylindrical Shape Body
+Macaque/has/1 Body
+Macaque's Body/has special attribute/Covered with fur
+Macaque/has/brown Color Hand
+Macaque/has/curved Shape Hand
+Macaque/has/2 Hand
+Macaque's Hand/has special attribute/Each hand has five fingers
+Macaque/has/brown Color Foot
+Macaque/has/rectangular Shape Foot
+Macaque/has/2 Foot
+Macaque's Foot/has special attribute/Each foot has five toes
+Macaque/has/brown Color Tail
+Macaque/has/long and thin Shape Tail
+Macaque/has/1 Tail
+Macaque's Tail/has special attribute/Used for balance while climbing
+Head/is on top of/Body
+Hand/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

@@ -1,0 +1,22 @@
+Egyptian cat/has/golden Color Head
+Egyptian cat/has/triangular Shape Head
+Egyptian cat/has/1 Head
+Egyptian cat's Head/has special attribute/It has almond-shaped green eyes
+Egyptian cat/has/sandy brown Color Body
+Egyptian cat/has/slender Shape Body
+Egyptian cat/has/1 Body
+Egyptian cat's Body/has special attribute/It has a muscular build
+Egyptian cat/has/black Color Foot
+Egyptian cat/has/paw-like Shape Foot
+Egyptian cat/has/4 Foot
+Egyptian cat's Foot/has special attribute/Each foot has sharp retractable claws
+Egyptian cat/has/striped Color Tail
+Egyptian cat/has/long and slender Shape Tail
+Egyptian cat/has/1 Tail
+Egyptian cat's Tail/has special attribute/It has a tuft of fur at the end
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

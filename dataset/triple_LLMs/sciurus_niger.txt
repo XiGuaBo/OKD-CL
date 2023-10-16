@@ -1,0 +1,22 @@
+Sciurus niger/has/brown Color Head
+Sciurus niger/has/oval Shape Head
+Sciurus niger/has/1 Head
+Sciurus niger's Head/has special attribute/There are two round ears on top of the head
+Sciurus niger/has/gray Color Body
+Sciurus niger/has/cylindrical Shape Body
+Sciurus niger/has/1 Body
+Sciurus niger's Body/has special attribute/The body is covered in fur
+Sciurus niger/has/brown Color Foot
+Sciurus niger/has/paw-like Shape Foot
+Sciurus niger/has/4 Foot
+Sciurus niger's Foot/has special attribute/Each foot has sharp claws
+Sciurus niger/has/bushy brown Color Tail
+Sciurus niger/has/long and slender Shape Tail
+Sciurus niger/has/1 Tail
+Sciurus niger's Tail/has special attribute/The tail is used for balance and communication
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

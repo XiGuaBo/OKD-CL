@@ -1,0 +1,22 @@
+Camelus dromedarius/has/brown Color Head
+Camelus dromedarius/has/oval Shape Head
+Camelus dromedarius/has/1 Head
+Camelus dromedarius's Head/has special attribute/There are two large eyes on the front of the head
+Camelus dromedarius/has/tan Color Body
+Camelus dromedarius/has/cylindrical Shape Body
+Camelus dromedarius/has/1 Body
+Camelus dromedarius's Body/has special attribute/Covered with thick fur
+Camelus dromedarius/has/brown Color Foot
+Camelus dromedarius/has/rectangular Shape Foot
+Camelus dromedarius/has/4 Foot
+Camelus dromedarius's Foot/has special attribute/Each foot has a tough hoof
+Camelus dromedarius/has/brown Color Tail
+Camelus dromedarius/has/long and thin Shape Tail
+Camelus dromedarius/has/1 Tail
+Camelus dromedarius's Tail/has special attribute/Used for swatting flies
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

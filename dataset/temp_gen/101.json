@@ -1,0 +1,1 @@
+{"Pirate Ship": {"Body": {"Color": "brown", "Shape": "rectangular", "Quantity": "1", "Special Attribute": "It has a skull and crossbones flag on top"}, "Sail": {"Color": "black", "Shape": "triangular", "Quantity": "1", "Special Attribute": "It has a Jolly Roger symbol"}}, "Relationship": ["Sail is/up/to Body", "Sail is/next/to Body"]}

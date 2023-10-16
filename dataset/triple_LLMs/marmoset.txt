@@ -1,0 +1,26 @@
+Marmoset/has/brown Color Head
+Marmoset/has/round Shape Head
+Marmoset/has/1 Head
+Marmoset's Head/has special attribute/Large eyes
+Marmoset/has/gray Color Body
+Marmoset/has/slender Shape Body
+Marmoset/has/1 Body
+Marmoset's Body/has special attribute/Furry
+Marmoset/has/brown Color Hand
+Marmoset/has/long and slender Shape Hand
+Marmoset/has/2 Hand
+Marmoset's Hand/has special attribute/Opposable thumbs
+Marmoset/has/brown Color Foot
+Marmoset/has/small and clawed Shape Foot
+Marmoset/has/2 Foot
+Marmoset's Foot/has special attribute/Grasping ability
+Marmoset/has/brown Color Tail
+Marmoset/has/long and furry Shape Tail
+Marmoset/has/1 Tail
+Marmoset's Tail/has special attribute/Prehensile
+Head/is up to/Body
+Hand/is next to/Body
+Hand/is side of/Body
+Foot/is next to/Body
+Foot/is side of/Body
+Tail/is behind of/Body

@@ -1,0 +1,10 @@
+Crotalus cerastes/has/brown Color Head
+Crotalus cerastes/has/triangular Shape Head
+Crotalus cerastes/has/1 Head
+Crotalus cerastes's Head/has special attribute/There are two venomous fangs at the front of the head
+Crotalus cerastes/has/brown Color Body
+Crotalus cerastes/has/cylindrical Shape Body
+Crotalus cerastes/has/1 Body
+Crotalus cerastes's Body/has special attribute/Covered in scales
+Head/is up to/Body
+Head/is next to/Body

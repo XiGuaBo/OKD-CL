@@ -1,0 +1,26 @@
+Ateles geoffroyi/has/brown Color Head
+Ateles geoffroyi/has/oval Shape Head
+Ateles geoffroyi/has/1 Head
+Ateles geoffroyi's Head/has special attribute/There are two large eyes on the front of the head
+Ateles geoffroyi/has/black Color Body
+Ateles geoffroyi/has/elongated Shape Body
+Ateles geoffroyi/has/1 Body
+Ateles geoffroyi's Body/has special attribute/None
+Ateles geoffroyi/has/brown Color Hand
+Ateles geoffroyi/has/curved Shape Hand
+Ateles geoffroyi/has/2 Hand
+Ateles geoffroyi's Hand/has special attribute/There are five fingers on each hand
+Ateles geoffroyi/has/brown Color Foot
+Ateles geoffroyi/has/flat Shape Foot
+Ateles geoffroyi/has/2 Foot
+Ateles geoffroyi's Foot/has special attribute/There are five toes on each foot
+Ateles geoffroyi/has/brown Color Tail
+Ateles geoffroyi/has/long and thin Shape Tail
+Ateles geoffroyi/has/1 Tail
+Ateles geoffroyi's Tail/has special attribute/The tail is prehensile and used for grasping branches
+Head/is up to/Body
+Hand/is next to/Body
+Hand/is side of/Body
+Foot/is next to/Body
+Foot/is side of/Body
+Tail/is behind of/Body

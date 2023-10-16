@@ -1,0 +1,20 @@
+Carcharodon carcharias/has/gray Color Head
+Carcharodon carcharias/has/triangular Shape Head
+Carcharodon carcharias/has/1 Head
+Carcharodon carcharias's Head/has special attribute/There are sharp teeth inside the mouth
+Carcharodon carcharias/has/gray Color Body
+Carcharodon carcharias/has/elongated Shape Body
+Carcharodon carcharias/has/1 Body
+Carcharodon carcharias's Body/has special attribute/Covered in rough scales
+Carcharodon carcharias/has/gray Color Fin
+Carcharodon carcharias/has/triangular Shape Fin
+Carcharodon carcharias/has/2 Fin
+Carcharodon carcharias's Fin/has special attribute/Used for stability and maneuvering
+Carcharodon carcharias/has/gray Color Tail
+Carcharodon carcharias/has/crescent Shape Tail
+Carcharodon carcharias/has/1 Tail
+Carcharodon carcharias's Tail/has special attribute/Propels the shark through the water
+Head/is up to/Body
+Fin/is next to/Body
+Fin/is side of/Body
+Tail/is behind of/Body

@@ -1,0 +1,22 @@
+Whiptail Lizard/has/brown Color Head
+Whiptail Lizard/has/triangular Shape Head
+Whiptail Lizard/has/1 Head
+Whiptail Lizard's Head/has special attribute/There are two large eyes on the head
+Whiptail Lizard/has/green Color Body
+Whiptail Lizard/has/elongated Shape Body
+Whiptail Lizard/has/1 Body
+Whiptail Lizard's Body/has special attribute/The body is covered in scales
+Whiptail Lizard/has/brown Color Foot
+Whiptail Lizard/has/clawed Shape Foot
+Whiptail Lizard/has/4 Foot
+Whiptail Lizard's Foot/has special attribute/Each foot has sharp claws for climbing
+Whiptail Lizard/has/green Color Tail
+Whiptail Lizard/has/long and slender Shape Tail
+Whiptail Lizard/has/1 Tail
+Whiptail Lizard's Tail/has special attribute/The tail is used for balance and defense
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

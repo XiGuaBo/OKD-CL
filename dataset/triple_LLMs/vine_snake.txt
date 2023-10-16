@@ -1,0 +1,10 @@
+Vine Snake/has/green Color Head
+Vine Snake/has/triangular Shape Head
+Vine Snake/has/1 Head
+Vine Snake's Head/has special attribute/There are two large eyes on the front of the head
+Vine Snake/has/green Color Body
+Vine Snake/has/long and slender Shape Body
+Vine Snake/has/1 Body
+Vine Snake's Body/has special attribute/The body is flexible and can coil around branches
+Head/is up to/Body
+Head/is next to/Body

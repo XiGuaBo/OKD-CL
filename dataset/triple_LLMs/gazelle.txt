@@ -1,0 +1,21 @@
+Gazelle/has/brown Color Head
+Gazelle/has/oval Shape Head
+Gazelle/has/1 Head
+Gazelle's Head/has special attribute/There are two large;curved horns on top of the head
+Gazelle/has/tan Color Body
+Gazelle/has/slender Shape Body
+Gazelle/has/1 Body
+Gazelle's Body/has special attribute/None
+Gazelle/has/black Color Foot
+Gazelle/has/hoof Shape Foot
+Gazelle/has/4 Foot
+Gazelle's Foot/has special attribute/Each foot has a sharp dewclaw
+Gazelle/has/brown Color Tail
+Gazelle/has/long and bushy Shape Tail
+Gazelle/has/1 Tail
+Gazelle's Tail/has special attribute/None
+Head/is up to/Body
+Head/is next to/Body
+Foot/is next to/Body
+Foot/is side of/Body
+Tail/is behind of/Body

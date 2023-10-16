@@ -1,0 +1,22 @@
+Box Tortoise/has/brown Color Head
+Box Tortoise/has/oval Shape Head
+Box Tortoise/has/1 Head
+Box Tortoise's Head/has special attribute/There are two small eyes on the front of the head
+Box Tortoise/has/brown Color Body
+Box Tortoise/has/dome-shaped Shape Body
+Box Tortoise/has/1 Body
+Box Tortoise's Body/has special attribute/It has a hard shell on its back
+Box Tortoise/has/brown Color Foot
+Box Tortoise/has/round Shape Foot
+Box Tortoise/has/4 Foot
+Box Tortoise's Foot/has special attribute/Each foot has sharp claws
+Box Tortoise/has/brown Color Tail
+Box Tortoise/has/long and cylindrical Shape Tail
+Box Tortoise/has/1 Tail
+Box Tortoise's Tail/has special attribute/The tail is used for balance and communication
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

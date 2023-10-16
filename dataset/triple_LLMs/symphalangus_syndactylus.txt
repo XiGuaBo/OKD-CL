@@ -1,0 +1,26 @@
+Symphalangus syndactylus/has/black Color Head
+Symphalangus syndactylus/has/round Shape Head
+Symphalangus syndactylus/has/1 Head
+Symphalangus syndactylus's Head/has special attribute/There are two large eyes on the front of the head
+Symphalangus syndactylus/has/black Color Body
+Symphalangus syndactylus/has/elongated Shape Body
+Symphalangus syndactylus/has/1 Body
+Symphalangus syndactylus's Body/has special attribute/None
+Symphalangus syndactylus/has/black Color Hand
+Symphalangus syndactylus/has/curved Shape Hand
+Symphalangus syndactylus/has/2 Hand
+Symphalangus syndactylus's Hand/has special attribute/There are long fingers on each hand
+Symphalangus syndactylus/has/black Color Foot
+Symphalangus syndactylus/has/flat Shape Foot
+Symphalangus syndactylus/has/2 Foot
+Symphalangus syndactylus's Foot/has special attribute/There is a thumb-like toe on each foot
+Symphalangus syndactylus/has/black Color Tail
+Symphalangus syndactylus/has/long and bushy Shape Tail
+Symphalangus syndactylus/has/1 Tail
+Symphalangus syndactylus's Tail/has special attribute/The tail is used for balance and gripping branches
+Head/is up to/Body
+Hand/is next to/Body
+Hand/is side of/Body
+Foot/is next to/Body
+Foot/is side of/Body
+Tail/is behind of/Body

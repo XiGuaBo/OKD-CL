@@ -1,0 +1,22 @@
+Ailuropoda melanoleuca/has/black Color Head
+Ailuropoda melanoleuca/has/round Shape Head
+Ailuropoda melanoleuca/has/1 Head
+Ailuropoda melanoleuca's Head/has special attribute/There are two small round ears on top of the head
+Ailuropoda melanoleuca/has/black;white Color Body
+Ailuropoda melanoleuca/has/cylindrical Shape Body
+Ailuropoda melanoleuca/has/1 Body
+Ailuropoda melanoleuca's Body/has special attribute/Covered with thick fur
+Ailuropoda melanoleuca/has/black Color Foot
+Ailuropoda melanoleuca/has/paw-like Shape Foot
+Ailuropoda melanoleuca/has/4 Foot
+Ailuropoda melanoleuca's Foot/has special attribute/Each foot has five sharp claws
+Ailuropoda melanoleuca/has/black;white Color Tail
+Ailuropoda melanoleuca/has/long and cylindrical Shape Tail
+Ailuropoda melanoleuca/has/1 Tail
+Ailuropoda melanoleuca's Tail/has special attribute/Used for balance while climbing trees
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

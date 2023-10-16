@@ -1,0 +1,10 @@
+Beer Bottle/has/brown Color Body
+Beer Bottle/has/cylindrical Shape Body
+Beer Bottle/has/1 Body
+Beer Bottle's Body/has special attribute/The body is made of glass
+Beer Bottle/has/silver Color Mouth
+Beer Bottle/has/circular Shape Mouth
+Beer Bottle/has/1 Mouth
+Beer Bottle's Mouth/has special attribute/The mouth has a screw cap
+Mouth/is on top of/Body
+Mouth/is adjacent to/Body

@@ -1,0 +1,1 @@
+{"Grass Snake": {"Head": {"Color": "green", "Shape": "triangular", "Quantity": "1", "Special Attribute": "There are two small eyes on top of the head"}, "Body": {"Color": "green", "Shape": "long and cylindrical", "Quantity": "1", "Special Attribute": "Covered with scales"}}, "Relationship": ["Head is/up/to Body", "Head is/next/to Body"]}

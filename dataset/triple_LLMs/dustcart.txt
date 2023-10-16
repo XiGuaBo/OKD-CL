@@ -1,0 +1,14 @@
+Dustcart/has/gray Color Body
+Dustcart/has/rectangular Shape Body
+Dustcart/has/1 Body
+Dustcart's Body/has special attribute/It has a large storage compartment for collecting trash
+Dustcart/has/black Color Tier
+Dustcart/has/circular Shape Tier
+Dustcart/has/4 Tier
+Dustcart's Tier/has special attribute/They are made of rubber for better grip on the road
+Dustcart/has/silver Color Side Mirror
+Dustcart/has/rectangular Shape Side Mirror
+Dustcart/has/2 Side Mirror
+Dustcart's Mirror/has special attribute/They provide a wider view of the surroundings for the driver
+Tier/is next to/Body
+Side Mirror/is attached to/Body

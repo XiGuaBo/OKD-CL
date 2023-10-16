@@ -1,0 +1,22 @@
+Chlamydosaurus kingi/has/brown Color Head
+Chlamydosaurus kingi/has/triangular Shape Head
+Chlamydosaurus kingi/has/1 Head
+Chlamydosaurus kingi's Head/has special attribute/There are large eyes on the sides of the head
+Chlamydosaurus kingi/has/green Color Body
+Chlamydosaurus kingi/has/elongated Shape Body
+Chlamydosaurus kingi/has/1 Body
+Chlamydosaurus kingi's Body/has special attribute/Covered in scales
+Chlamydosaurus kingi/has/brown Color Foot
+Chlamydosaurus kingi/has/clawed Shape Foot
+Chlamydosaurus kingi/has/4 Foot
+Chlamydosaurus kingi's Foot/has special attribute/Each foot has sharp claws for climbing
+Chlamydosaurus kingi/has/brown Color Tail
+Chlamydosaurus kingi/has/long and whip-like Shape Tail
+Chlamydosaurus kingi/has/1 Tail
+Chlamydosaurus kingi's Tail/has special attribute/Can be raised and curled over the body for defense
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

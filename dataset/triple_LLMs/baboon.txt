@@ -1,0 +1,26 @@
+Baboon/has/brown Color Head
+Baboon/has/oval Shape Head
+Baboon/has/1 Head
+Baboon's Head/has special attribute/There are two large ears on the sides of the head
+Baboon/has/brown Color Body
+Baboon/has/cylindrical Shape Body
+Baboon/has/1 Body
+Baboon's Body/has special attribute/Covered with fur
+Baboon/has/brown Color Hand
+Baboon/has/curved Shape Hand
+Baboon/has/2 Hand
+Baboon's Hand/has special attribute/Each hand has five fingers
+Baboon/has/brown Color Foot
+Baboon/has/flat Shape Foot
+Baboon/has/2 Foot
+Baboon's Foot/has special attribute/Each foot has five toes
+Baboon/has/brown Color Tail
+Baboon/has/long and thin Shape Tail
+Baboon/has/1 Tail
+Baboon's Tail/has special attribute/Used for balance and communication
+Head/is up to/Body
+Hand/is next to/Body
+Hand/is side of/Body
+Foot/is next to/Body
+Foot/is side of/Body
+Tail/is behind of/Body

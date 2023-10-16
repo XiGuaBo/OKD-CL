@@ -1,0 +1,22 @@
+Golden Retriever/has/golden Color Head
+Golden Retriever/has/round Shape Head
+Golden Retriever/has/1 Head
+Golden Retriever's Head/has special attribute/There are two floppy ears on top of the head
+Golden Retriever/has/golden Color Body
+Golden Retriever/has/streamline Shape Body
+Golden Retriever/has/1 Body
+Golden Retriever's Body/has special attribute/None
+Golden Retriever/has/golden Color Foot
+Golden Retriever/has/paw Shape Foot
+Golden Retriever/has/4 Foot
+Golden Retriever's Foot/has special attribute/There are claws at the end of each foot
+Golden Retriever/has/golden Color Tail
+Golden Retriever/has/long and fluffy Shape Tail
+Golden Retriever/has/1 Tail
+Golden Retriever's Tail/has special attribute/It wags when the dog is happy
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

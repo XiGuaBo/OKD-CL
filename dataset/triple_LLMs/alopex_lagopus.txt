@@ -1,0 +1,22 @@
+Alopex lagopus/has/white Color Head
+Alopex lagopus/has/triangular Shape Head
+Alopex lagopus/has/1 Head
+Alopex lagopus's Head/has special attribute/There are two pointy ears on top of the head
+Alopex lagopus/has/white Color Body
+Alopex lagopus/has/elongated Shape Body
+Alopex lagopus/has/1 Body
+Alopex lagopus's Body/has special attribute/Covered with thick fur
+Alopex lagopus/has/white Color Foot
+Alopex lagopus/has/oval Shape Foot
+Alopex lagopus/has/4 Foot
+Alopex lagopus's Foot/has special attribute/Equipped with sharp claws
+Alopex lagopus/has/white Color Tail
+Alopex lagopus/has/bushy Shape Tail
+Alopex lagopus/has/1 Tail
+Alopex lagopus's Tail/has special attribute/Used for balance and warmth
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

@@ -1,0 +1,26 @@
+Saimiri sciureus/has/brown Color Head
+Saimiri sciureus/has/oval Shape Head
+Saimiri sciureus/has/1 Head
+Saimiri sciureus's Head/has special attribute/There are two large eyes on the front of the head
+Saimiri sciureus/has/gray Color Body
+Saimiri sciureus/has/elongated Shape Body
+Saimiri sciureus/has/1 Body
+Saimiri sciureus's Body/has special attribute/None
+Saimiri sciureus/has/brown Color Hand
+Saimiri sciureus/has/curved Shape Hand
+Saimiri sciureus/has/2 Hand
+Saimiri sciureus's Hand/has special attribute/There are five fingers on each hand
+Saimiri sciureus/has/brown Color Foot
+Saimiri sciureus/has/flat Shape Foot
+Saimiri sciureus/has/2 Foot
+Saimiri sciureus's Foot/has special attribute/There are five toes on each foot
+Saimiri sciureus/has/brown Color Tail
+Saimiri sciureus/has/long and thin Shape Tail
+Saimiri sciureus/has/1 Tail
+Saimiri sciureus's Tail/has special attribute/The tail is longer than the body
+Head/is up to/Body
+Hand/is next to/Body
+Hand/is side of/Body
+Foot/is next to/Body
+Foot/is side of/Body
+Tail/is behind of/Body

@@ -1,0 +1,20 @@
+Ascaphus trui/has/brown Color Head
+Ascaphus trui/has/oval Shape Head
+Ascaphus trui/has/1 Head
+Ascaphus trui's Head/has special attribute/There are two large eyes on the front of the head
+Ascaphus trui/has/dark brown Color Body
+Ascaphus trui/has/elongated Shape Body
+Ascaphus trui/has/1 Body
+Ascaphus trui's Body/has special attribute/The body is covered in moist skin
+Ascaphus trui/has/black Color Foot
+Ascaphus trui/has/webbed Shape Foot
+Ascaphus trui/has/4 Foot
+Ascaphus trui's Foot/has special attribute/The feet are adapted for swimming
+Ascaphus trui/has/dark brown Color Tail
+Ascaphus trui/has/long and cylindrical Shape Tail
+Ascaphus trui/has/1 Tail
+Ascaphus trui's Tail/has special attribute/The tail is used for propulsion in water
+Head/is up to/Body
+Foot/is next to/Body
+Foot is side of Body
+Tail/is behind of/of/Body

@@ -1,0 +1,19 @@
+Bubalus bubalis has brown Color Head
+Bubalus bubalis has oval Shape Head
+Bubalus bubalis has 1 Head
+Bubalus bubalis's Head/has special attribute/There are two curved horns on top of the head
+Bubalus bubalis has dark brown Color Body
+Bubalus bubalis has rectangular Shape Body
+Bubalus bubalis has 1 Body
+Bubalus bubalis's Body/has special attribute/Thick and muscular
+Bubalus bubalis has black Color Foot
+Bubalus bubalis has cylindrical Shape Foot
+Bubalus bubalis has 4 Foot
+Bubalus bubalis's Foot/has special attribute/Hooves at the end of each foot
+Bubalus bubalis has dark brown Color Tail
+Bubalus bubalis has long and tapered Shape Tail
+Bubalus bubalis has 1 Tail
+Bubalus bubalis's Tail/has special attribute/Has a tuft of hair at the end
+Head/is on top of/Body
+Foot/is below Body
+Tail/is behind of/Body

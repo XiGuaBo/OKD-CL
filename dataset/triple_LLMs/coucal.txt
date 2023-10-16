@@ -1,0 +1,24 @@
+Coucal/has/black Color Head
+Coucal/has/oval Shape Head
+Coucal/has/1 Head
+Coucal's Head/has special attribute/There is a long curved beak in front of the head
+Coucal/has/brown Color Body
+Coucal/has/elongated Shape Body
+Coucal/has/1 Body
+Coucal's Body/has special attribute/None
+Coucal/has/brown Color Wing
+Coucal/has/wide and rounded Shape Wing
+Coucal/has/2 Wing
+Coucal's Wing/has special attribute/None
+Coucal/has/black Color Foot
+Coucal/has/clawed Shape Foot
+Coucal/has/2 Foot
+Coucal's Foot/has special attribute/There are sharp claws at the end of each foot
+Coucal/has/black Color Tail
+Coucal/has/long and pointed Shape Tail
+Coucal/has/1 Tail
+Coucal's Tail/has special attribute/None
+Head is in front of Body
+Wing/is next to/Body
+Foot/is below Body
+Tail/is behind of/Body

@@ -1,0 +1,26 @@
+Pongo pygmaeus/has/brown Color Head
+Pongo pygmaeus/has/oval Shape Head
+Pongo pygmaeus/has/1 Head
+Pongo pygmaeus's Head/has special attribute/There are two large eyes on the front of the head
+Pongo pygmaeus/has/black Color Body
+Pongo pygmaeus/has/cylindrical Shape Body
+Pongo pygmaeus/has/1 Body
+Pongo pygmaeus's Body/has special attribute/Covered with thick fur
+Pongo pygmaeus/has/brown Color Hand
+Pongo pygmaeus/has/long and slender Shape Hand
+Pongo pygmaeus/has/2 Hand
+Pongo pygmaeus's Hand/has special attribute/Each hand has opposable thumbs
+Pongo pygmaeus/has/brown Color Foot
+Pongo pygmaeus/has/wide and flat Shape Foot
+Pongo pygmaeus/has/2 Foot
+Pongo pygmaeus's Foot/has special attribute/Used for grasping branches while climbing
+Pongo pygmaeus/has/black Color Tail
+Pongo pygmaeus/has/long and curved Shape Tail
+Pongo pygmaeus/has/1 Tail
+Pongo pygmaeus's Tail/has special attribute/Used for balance while moving through trees
+Head/is up to/Body
+Hand/is next to/Body
+Hand/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

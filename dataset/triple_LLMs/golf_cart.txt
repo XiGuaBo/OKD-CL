@@ -1,0 +1,14 @@
+Golf Cart/has/white Color Body
+Golf Cart/has/rectangular Shape Body
+Golf Cart/has/1 Body
+Golf Cart's Body/has special attribute/It has a roof
+Golf Cart/has/black Color Tier
+Golf Cart/has/circular Shape Tier
+Golf Cart/has/4 Tier
+Golf Cart's Tier/has special attribute/They are made of rubber
+Golf Cart/has/silver Color Side Mirror
+Golf Cart/has/rectangular Shape Side Mirror
+Golf Cart/has/2 Side Mirror
+Golf Cart's Mirror/has special attribute/They are adjustable
+Tier/is under of/Body
+Side Mirror/is attached to/Body

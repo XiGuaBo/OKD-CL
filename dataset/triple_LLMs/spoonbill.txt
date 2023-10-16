@@ -1,0 +1,27 @@
+Spoonbill/has/white Color Head
+Spoonbill/has/long and slender Shape Head
+Spoonbill/has/1 Head
+Spoonbill's Head/has special attribute/There is a long;thin beak at the front of the head
+Spoonbill/has/pink Color Body
+Spoonbill/has/streamlined Shape Body
+Spoonbill/has/1 Body
+Spoonbill's Body/has special attribute/None
+Spoonbill/has/white Color Wing
+Spoonbill/has/wide and rounded Shape Wing
+Spoonbill/has/2 Wing
+Spoonbill's Wing/has special attribute/None
+Spoonbill/has/gray Color Foot
+Spoonbill/has/webbed Shape Foot
+Spoonbill/has/2 Foot
+Spoonbill's Foot/has special attribute/Suitable for walking on water and muddy surfaces
+Spoonbill/has/white Color Tail
+Spoonbill/has/long and pointed Shape Tail
+Spoonbill/has/1 Tail
+Spoonbill's Tail/has special attribute/Used for balance and steering during flight
+Head/is up to/Body
+Head/is next to/Body
+Wing/is next to/Body
+Wing/is side of/Body
+Foot/is next to/Body
+Foot/is side of/Body
+Tail/is behind of/Body

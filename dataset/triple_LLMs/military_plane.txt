@@ -1,0 +1,28 @@
+Military Plane/has/gray Color Head
+Military Plane/has/streamline Shape Head
+Military Plane/has/1 Head
+Military Plane's Head/has special attribute/There is a cockpit at the front of the head
+Military Plane/has/gray Color Body
+Military Plane/has/cylindrical Shape Body
+Military Plane/has/1 Body
+Military Plane's Body/has special attribute/None
+Military Plane/has/gray Color Wing
+Military Plane/has/wide and elongated Shape Wing
+Military Plane/has/2 Wing
+Military Plane's Wing/has special attribute/There are jet engines attached to the wings
+Military Plane/has/silver Color Engine
+Military Plane/has/circular Shape Engine
+Military Plane/has/2 Engine
+Military Plane's Engine/has special attribute/Provides propulsion for the plane
+Military Plane/has/gray Color Tail
+Military Plane/has/triangular Shape Tail
+Military Plane/has/1 Tail
+Military Plane's Tail/has special attribute/There is a vertical stabilizer at the end of the tail
+Head/is up to/Body
+Head/is next to/Body
+Wing/is next to/Body
+Wing/is side of/Body
+Engine/is attached to/Wing
+Engine/is next to/Wing
+Tail/is behind of/Body
+Tail/is attached to/Body

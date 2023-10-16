@@ -1,0 +1,24 @@
+Erythrocebus patas/has/red Color Head
+Erythrocebus patas/has/oval Shape Head
+Erythrocebus patas/has/1 Head
+Erythrocebus patas's Head/has special attribute/There are two large ears on top of the head
+Erythrocebus patas/has/brown Color Body
+Erythrocebus patas/has/elongated Shape Body
+Erythrocebus patas/has/1 Body
+Erythrocebus patas's Body/has special attribute/Covered with fur
+Erythrocebus patas/has/brown Color Hand
+Erythrocebus patas/has/curved Shape Hand
+Erythrocebus patas/has/2 Hand
+Erythrocebus patas's Hand/has special attribute/Each hand has five fingers
+Erythrocebus patas/has/brown Color Foot
+Erythrocebus patas/has/flat Shape Foot
+Erythrocebus patas/has/2 Foot
+Erythrocebus patas's Foot/has special attribute/Each foot has five toes
+Erythrocebus patas/has/brown Color Tail
+Erythrocebus patas/has/long and thin Shape Tail
+Erythrocebus patas/has/1 Tail
+Erythrocebus patas's Tail/has special attribute/Used for balance while climbing
+Head/is on top of/Body
+Hand/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

@@ -1,0 +1,22 @@
+Aepyceros melampus/has/brown Color Head
+Aepyceros melampus/has/oval Shape Head
+Aepyceros melampus/has/1 Head
+Aepyceros melampus's Head/has special attribute/There are two sharp horns on top of the head
+Aepyceros melampus/has/tan Color Body
+Aepyceros melampus/has/slender Shape Body
+Aepyceros melampus/has/1 Body
+Aepyceros melampus's Body/has special attribute/None
+Aepyceros melampus/has/black Color Foot
+Aepyceros melampus/has/hoof Shape Foot
+Aepyceros melampus/has/4 Foot
+Aepyceros melampus's Foot/has special attribute/Each foot has a dewclaw
+Aepyceros melampus/has/brown Color Tail
+Aepyceros melampus/has/tufted Shape Tail
+Aepyceros melampus/has/1 Tail
+Aepyceros melampus's Tail/has special attribute/The tail is long and bushy
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

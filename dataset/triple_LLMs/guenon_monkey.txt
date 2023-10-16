@@ -1,0 +1,26 @@
+Guenon Monkey/has/brown Color Head
+Guenon Monkey/has/round Shape Head
+Guenon Monkey/has/1 Head
+Guenon Monkey's Head/has special attribute/There are two large ears on the sides of the head
+Guenon Monkey/has/brown;black Color Body
+Guenon Monkey/has/slender Shape Body
+Guenon Monkey/has/1 Body
+Guenon Monkey's Body/has special attribute/Covered with fur
+Guenon Monkey/has/brown Color Hand
+Guenon Monkey/has/curved Shape Hand
+Guenon Monkey/has/2 Hand
+Guenon Monkey's Hand/has special attribute/Each hand has five fingers
+Guenon Monkey/has/brown Color Foot
+Guenon Monkey/has/long and narrow Shape Foot
+Guenon Monkey/has/2 Foot
+Guenon Monkey's Foot/has special attribute/Each foot has five toes
+Guenon Monkey/has/brown Color Tail
+Guenon Monkey/has/long and thin Shape Tail
+Guenon Monkey/has/1 Tail
+Guenon Monkey's Tail/has special attribute/Used for balance and communication
+Head/is up to/Body
+Hand/is next to/Body
+Hand/is side of/Body
+Foot/is next to/Body
+Foot/is side of/Body
+Tail/is behind of/Body

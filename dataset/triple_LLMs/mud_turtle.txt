@@ -1,0 +1,20 @@
+Mud Turtle/has/brown Color Head
+Mud Turtle/has/oval Shape Head
+Mud Turtle/has/1 Head
+Mud Turtle's Head/has special attribute/There are two small eyes on top of the head
+Mud Turtle/has/dark brown Color Body
+Mud Turtle/has/dome-shaped Shape Body
+Mud Turtle/has/1 Body
+Mud Turtle's Body/has special attribute/The body is covered in a hard shell
+Mud Turtle/has/black Color Foot
+Mud Turtle/has/webbed Shape Foot
+Mud Turtle/has/4 Foot
+Mud Turtle's Foot/has special attribute/The feet are adapted for swimming
+Mud Turtle/has/dark brown Color Tail
+Mud Turtle/has/long and cylindrical Shape Tail
+Mud Turtle/has/1 Tail
+Mud Turtle's Tail/has special attribute/The tail is used for propulsion in water
+Head/is on top of/Body
+Foot/is next to/Body
+Foot/is below Body
+Tail/is behind of/Body

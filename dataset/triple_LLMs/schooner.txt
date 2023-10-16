@@ -1,0 +1,10 @@
+Schooner/has/brown Color Body
+Schooner/has/long and curved Shape Body
+Schooner/has/1 Body
+Schooner's Body/has special attribute/Made of wood
+Schooner/has/white Color Sail
+Schooner/has/triangular Shape Sail
+Schooner/has/2 Sail
+Schooner's Sail/has special attribute/Made of canvas
+Sail/is up to/Body
+Sail/is next to/Body

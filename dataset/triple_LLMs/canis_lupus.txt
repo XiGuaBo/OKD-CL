@@ -1,0 +1,22 @@
+Canis lupus/has/brown Color Head
+Canis lupus/has/triangular Shape Head
+Canis lupus/has/1 Head
+Canis lupus's Head/has special attribute/There are two pointy ears on top of the head
+Canis lupus/has/gray Color Body
+Canis lupus/has/elongated Shape Body
+Canis lupus/has/1 Body
+Canis lupus's Body/has special attribute/Covered in thick fur
+Canis lupus/has/black Color Foot
+Canis lupus/has/paw-like Shape Foot
+Canis lupus/has/4 Foot
+Canis lupus's Foot/has special attribute/Adapted for running and gripping
+Canis lupus/has/bushy Color Tail
+Canis lupus/has/long and cylindrical Shape Tail
+Canis lupus/has/1 Tail
+Canis lupus's Tail/has special attribute/Used for balance and communication
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

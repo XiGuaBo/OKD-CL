@@ -1,0 +1,16 @@
+Minivan/has/white Color Body
+Minivan/has/rectangular Shape Body
+Minivan/has/1 Body
+Minivan's Body/has special attribute/There are four doors on the body
+Minivan/has/black Color Tier
+Minivan/has/circular Shape Tier
+Minivan/has/4 Tier
+Minivan's Tier/has special attribute/Each tier has a rubber tread for better grip
+Minivan/has/silver Color Side Mirror
+Minivan/has/rectangular Shape Side Mirror
+Minivan/has/2 Side Mirror
+Minivan's Mirror/has special attribute/The side mirrors are adjustable
+Side Mirror/is next to/Body
+Side Mirror/is side of/Body
+Tier/is up to/Body
+Tier/is next to/Body

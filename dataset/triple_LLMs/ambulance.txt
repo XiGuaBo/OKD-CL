@@ -1,0 +1,14 @@
+Ambulance/has/white Color Body
+Ambulance/has/rectangular Shape Body
+Ambulance/has/1 Body
+Ambulance's Body/has special attribute/It has red and blue flashing lights on the top
+Ambulance/has/black Color Tier
+Ambulance/has/circular Shape Tier
+Ambulance/has/4 Tier
+Ambulance's Tier/has special attribute/They are made of rubber
+Ambulance/has/silver Color Side Mirror
+Ambulance/has/rectangular Shape Side Mirror
+Ambulance/has/2 Side Mirror
+Ambulance's Mirror/has special attribute/They are adjustable
+Side Mirror/is next to/Body
+Tier/is under of/Body

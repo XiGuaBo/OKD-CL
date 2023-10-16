@@ -1,0 +1,24 @@
+Porphyrio porphyrio/has/blue Color Head
+Porphyrio porphyrio/has/oval Shape Head
+Porphyrio porphyrio/has/1 Head
+Porphyrio porphyrio's Head/has special attribute/There is a red beak in front of the head
+Porphyrio porphyrio/has/purple;blue Color Body
+Porphyrio porphyrio/has/elongated Shape Body
+Porphyrio porphyrio/has/1 Body
+Porphyrio porphyrio's Body/has special attribute/None
+Porphyrio porphyrio/has/blue;black Color Wing
+Porphyrio porphyrio/has/wide and pointed Shape Wing
+Porphyrio porphyrio/has/2 Wing
+Porphyrio porphyrio's Wing/has special attribute/None
+Porphyrio porphyrio/has/yellow Color Foot
+Porphyrio porphyrio/has/long and slender Shape Foot
+Porphyrio porphyrio/has/2 Foot
+Porphyrio porphyrio's Foot/has special attribute/There are sharp claws at the end of each foot
+Porphyrio porphyrio/has/blue;black Color Tail
+Porphyrio porphyrio/has/long and fan-shaped Shape Tail
+Porphyrio porphyrio/has/1 Tail
+Porphyrio porphyrio's Tail/has special attribute/None
+Head is in front of Body
+Wing/is next to/Body
+Foot/is below Body
+Tail/is behind of/Body

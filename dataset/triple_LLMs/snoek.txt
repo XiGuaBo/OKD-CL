@@ -1,0 +1,20 @@
+Snoek/has/silver Color Head
+Snoek/has/pointed Shape Head
+Snoek/has/1 Head
+Snoek's Head/has special attribute/There are sharp teeth in the mouth
+Snoek/has/green Color Body
+Snoek/has/elongated Shape Body
+Snoek/has/1 Body
+Snoek's Body/has special attribute/Covered in scales
+Snoek/has/gray Color Fin
+Snoek/has/triangular Shape Fin
+Snoek/has/2 Fin
+Snoek's Fin/has special attribute/Used for stability and maneuvering
+Snoek/has/gray Color Tail
+Snoek/has/forked Shape Tail
+Snoek/has/1 Tail
+Snoek's Tail/has special attribute/Used for propulsion
+Head/is up to/Body
+Fin/is next to/Body
+Fin/is side of/Body
+Tail/is behind of/Body

@@ -1,0 +1,14 @@
+Black Maria/has/black Color Body
+Black Maria/has/rectangular Shape Body
+Black Maria/has/1 Body
+Black Maria's Body/has special attribute/It has four doors
+Black Maria/has/black Color Tier
+Black Maria/has/circular Shape Tier
+Black Maria/has/4 Tier
+Black Maria's Tier/has special attribute/They are made of rubber
+Black Maria/has/silver Color Side Mirror
+Black Maria/has/rectangular Shape Side Mirror
+Black Maria/has/2 Side Mirror
+Black Maria's Mirror/has special attribute/They are adjustable
+Tier/is next to/Body
+Side Mirror/is attached to/Body

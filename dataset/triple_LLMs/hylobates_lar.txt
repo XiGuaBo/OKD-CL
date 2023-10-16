@@ -1,0 +1,26 @@
+Hylobates lar/has/black Color Head
+Hylobates lar/has/oval Shape Head
+Hylobates lar/has/1 Head
+Hylobates lar's Head/has special attribute/There are two round eyes on the front of the head
+Hylobates lar/has/black Color Body
+Hylobates lar/has/elongated Shape Body
+Hylobates lar/has/1 Body
+Hylobates lar's Body/has special attribute/Covered with black fur
+Hylobates lar/has/black Color Hand
+Hylobates lar/has/curved Shape Hand
+Hylobates lar/has/2 Hand
+Hylobates lar's Hand/has special attribute/Each hand has five fingers
+Hylobates lar/has/black Color Foot
+Hylobates lar/has/long and flat Shape Foot
+Hylobates lar/has/2 Foot
+Hylobates lar's Foot/has special attribute/Each foot has five toes
+Hylobates lar/has/black Color Tail
+Hylobates lar/has/long and slender Shape Tail
+Hylobates lar/has/1 Tail
+Hylobates lar's Tail/has special attribute/Used for balance while swinging through trees
+Head/is up to/Body
+Hand/is next to/Body
+Hand/is next to/Foot
+Foot/is next to/Body
+Foot/is next to/Hand
+Tail/is behind of/Body

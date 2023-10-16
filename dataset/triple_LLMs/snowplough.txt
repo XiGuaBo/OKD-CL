@@ -1,0 +1,16 @@
+Snowplough/has/yellow Color Body
+Snowplough/has/rectangular Shape Body
+Snowplough/has/1 Body
+Snowplough's Body/has special attribute/It has a large metal plate at the front for pushing snow
+Snowplough/has/black Color Tier
+Snowplough/has/circular Shape Tier
+Snowplough/has/4 Tier
+Snowplough's Tier/has special attribute/They are made of rubber for better traction
+Snowplough/has/silver Color Side Mirror
+Snowplough/has/rectangular Shape Side Mirror
+Snowplough/has/2 Side Mirror
+Snowplough's Mirror/has special attribute/They provide visibility to the sides of the snowplough
+Tier/is up to/Body
+Tier/is next to/Body
+Side Mirror/is next to/Body
+Side Mirror/is side of/Body

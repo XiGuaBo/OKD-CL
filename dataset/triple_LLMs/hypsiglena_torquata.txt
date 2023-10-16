@@ -1,0 +1,10 @@
+Hypsiglena torquata/has/brown Color Head
+Hypsiglena torquata/has/triangular Shape Head
+Hypsiglena torquata/has/1 Head
+Hypsiglena torquata's Head/has special attribute/There are two large eyes on the front of the head
+Hypsiglena torquata/has/brown Color Body
+Hypsiglena torquata/has/cylindrical Shape Body
+Hypsiglena torquata/has/1 Body
+Hypsiglena torquata's Body/has special attribute/It has a pattern of dark brown bands
+Head/is up to/Body
+Head/is next to/Body

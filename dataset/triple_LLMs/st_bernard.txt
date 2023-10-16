@@ -1,0 +1,19 @@
+St Bernard/has/brown Color Head
+St Bernard/has/round Shape Head
+St Bernard/has/1 Head
+St Bernard's Head/has special attribute/There are two floppy ears on top of the head
+St Bernard/has/white Color Body
+St Bernard/has/large and muscular Shape Body
+St Bernard/has/1 Body
+St Bernard's Body/has special attribute/There is a thick fur coat covering the body
+St Bernard/has/brown Color Foot
+St Bernard/has/paw-like Shape Foot
+St Bernard/has/4 Foot
+St Bernard's Foot/has special attribute/There are large and strong paws at the end of each foot
+St Bernard/has/brown Color Tail
+St Bernard/has/long and bushy Shape Tail
+St Bernard/has/1 Tail
+St Bernard's Tail/has special attribute/The tail is wagging happily
+Head/is on top of/Body
+Foot is at the end of Body
+Tail/is behind of/Body

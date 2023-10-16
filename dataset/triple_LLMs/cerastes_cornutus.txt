@@ -1,0 +1,10 @@
+Cerastes cornutus/has/brown Color Head
+Cerastes cornutus/has/triangular Shape Head
+Cerastes cornutus/has/1 Head
+Cerastes cornutus's Head/has special attribute/There are two horns on top of the head
+Cerastes cornutus/has/sandy brown Color Body
+Cerastes cornutus/has/cylindrical Shape Body
+Cerastes cornutus/has/1 Body
+Cerastes cornutus's Body/has special attribute/Covered in scales
+Head/is up to/Body
+Head/is next to/Body

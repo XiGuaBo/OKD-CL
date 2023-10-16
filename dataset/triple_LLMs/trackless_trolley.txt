@@ -1,0 +1,15 @@
+Trackless Trolley/has/red Color Body
+Trackless Trolley/has/rectangular Shape Body
+Trackless Trolley/has/1 Body
+Trackless Trolley's Body/has special attribute/There are large windows on the sides
+Trackless Trolley/has/black Color Tier
+Trackless Trolley/has/circular Shape Tier
+Trackless Trolley/has/4 Tier
+Trackless Trolley's Tier/has special attribute/Made of rubber for a smooth ride
+Trackless Trolley/has/silver Color Side Mirror
+Trackless Trolley/has/rectangular Shape Side Mirror
+Trackless Trolley/has/2 Side Mirror
+Trackless Trolley's Mirror/has special attribute/Provides visibility for the driver
+Tier/is underneath of/Body
+Side Mirror/is attached to/Body
+Side Mirror/is on sides of/Body

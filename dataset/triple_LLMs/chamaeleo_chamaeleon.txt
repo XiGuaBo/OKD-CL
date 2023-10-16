@@ -1,0 +1,22 @@
+Chamaeleo chamaeleon/has/green Color Head
+Chamaeleo chamaeleon/has/triangular Shape Head
+Chamaeleo chamaeleon/has/1 Head
+Chamaeleo chamaeleon's Head/has special attribute/Elongated snout
+Chamaeleo chamaeleon/has/green;brown Color Body
+Chamaeleo chamaeleon/has/elongated Shape Body
+Chamaeleo chamaeleon/has/1 Body
+Chamaeleo chamaeleon's Body/has special attribute/Covered in scales
+Chamaeleo chamaeleon/has/brown Color Foot
+Chamaeleo chamaeleon/has/clawed Shape Foot
+Chamaeleo chamaeleon/has/4 Foot
+Chamaeleo chamaeleon's Foot/has special attribute/Prehensile tail
+Chamaeleo chamaeleon/has/green;brown Color Tail
+Chamaeleo chamaeleon/has/long and cylindrical Shape Tail
+Chamaeleo chamaeleon/has/1 Tail
+Chamaeleo chamaeleon's Tail/has special attribute/Ability to change color
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

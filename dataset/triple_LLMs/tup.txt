@@ -1,0 +1,20 @@
+Tup/has/brown Color Head
+Tup/has/oval Shape Head
+Tup/has/1 Head
+Tup's Head/has special attribute/There are two large eyes on the head
+Tup/has/gray Color Body
+Tup/has/cylindrical Shape Body
+Tup/has/1 Body
+Tup's Body/has special attribute/The body is covered in thick fur
+Tup/has/black Color Foot
+Tup/has/round Shape Foot
+Tup/has/4 Foot
+Tup's Foot/has special attribute/Each foot has sharp claws
+Tup/has/brown Color Tail
+Tup/has/long and thin Shape Tail
+Tup/has/1 Tail
+Tup's Tail/has special attribute/The tail is bushy at the end
+Head/is on top of/Body
+Foot/is below Body
+Foot/is next to/Body
+Tail/is behind of/Body

@@ -1,0 +1,1 @@
+{"Python sebae": {"Head": {"Color": "black", "Shape": "triangular", "Quantity": "1", "Special Attribute": "It has two large eyes on the front"}, "Body": {"Color": "brown", "Shape": "cylindrical", "Quantity": "1", "Special Attribute": "It has a pattern of dark patches along its length"}}, "Relationship": ["Head is/up/to Body", "Head is/next/to Body"]}

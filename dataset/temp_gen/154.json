@@ -1,0 +1,1 @@
+{"Trimaran": {"Body": {"Color": "white", "Shape": "streamline", "Quantity": "1", "Special Attribute": "None"}, "Sail": {"Color": "red, white", "Shape": "triangular", "Quantity": "1", "Special Attribute": "It is attached to the mast"}}, "Relationship": ["Sail is/up/to Body", "Sail is/next/to Body"]}

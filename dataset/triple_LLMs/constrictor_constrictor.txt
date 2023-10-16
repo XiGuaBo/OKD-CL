@@ -1,0 +1,10 @@
+Constrictor constrictor/has/brown Color Head
+Constrictor constrictor/has/oval Shape Head
+Constrictor constrictor/has/1 Head
+Constrictor constrictor's Head/has special attribute/There are two large eyes on the front of the head
+Constrictor constrictor/has/brown Color Body
+Constrictor constrictor/has/cylindrical Shape Body
+Constrictor constrictor/has/1 Body
+Constrictor constrictor's Body/has special attribute/Covered in smooth scales
+Head/is up to/Body
+Head/is next to/Body

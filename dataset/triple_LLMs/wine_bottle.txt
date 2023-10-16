@@ -1,0 +1,10 @@
+Wine Bottle/has/green Color Body
+Wine Bottle/has/cylindrical Shape Body
+Wine Bottle/has/1 Body
+Wine Bottle's Body/has special attribute/The body is made of glass
+Wine Bottle/has/clear Color Mouth
+Wine Bottle/has/circular Shape Mouth
+Wine Bottle/has/1 Mouth
+Wine Bottle's Mouth/has special attribute/The mouth has a screw cap
+Mouth/is up to/Body
+Mouth/is next to/Body

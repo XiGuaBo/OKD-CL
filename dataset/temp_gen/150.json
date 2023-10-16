@@ -1,0 +1,1 @@
+{"Constrictor constrictor": {"Head": {"Color": "brown", "Shape": "oval", "Quantity": "1", "Special Attribute": "There are two large eyes on the front of the head"}, "Body": {"Color": "brown", "Shape": "cylindrical", "Quantity": "1", "Special Attribute": "Covered in smooth scales"}}, "Relationship": ["Head is/up/to Body", "Head is/next/to Body"]}

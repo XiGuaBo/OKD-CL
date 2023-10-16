@@ -1,0 +1,1 @@
+{"Green Mamba": {"Head": {"Color": "green", "Shape": "oval", "Quantity": "1", "Special Attribute": "There are two large eyes on the front of the head"}, "Body": {"Color": "green", "Shape": "slender", "Quantity": "1", "Special Attribute": "The body is long and cylindrical"}}, "Relationship": ["Head is/up/to Body", "Head is/next/to Body"]}

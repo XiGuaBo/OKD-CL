@@ -1,0 +1,19 @@
+Felis concolor/has/brown Color Head
+Felis concolor/has/round Shape Head
+Felis concolor/has/1 Head
+Felis concolor's Head/has special attribute/There are two pointy ears on top of the head
+Felis concolor/has/tan Color Body
+Felis concolor/has/elongated Shape Body
+Felis concolor/has/1 Body
+Felis concolor's Body/has special attribute/The body is covered in short fur
+Felis concolor/has/brown Color Foot
+Felis concolor/has/paw-like Shape Foot
+Felis concolor/has/4 Foot
+Felis concolor's Foot/has special attribute/Each foot has sharp retractable claws
+Felis concolor/has/brown Color Tail
+Felis concolor/has/long and cylindrical Shape Tail
+Felis concolor/has/1 Tail
+Felis concolor's Tail/has special attribute/The tail is thick at the base and tapers towards the end
+Head/is on top of/Body
+Foot/is below Body
+Tail/is behind of/Body

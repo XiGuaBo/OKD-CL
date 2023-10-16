@@ -1,0 +1,22 @@
+Alligator Lizard/has/green Color Head
+Alligator Lizard/has/triangular Shape Head
+Alligator Lizard/has/1 Head
+Alligator Lizard's Head/has special attribute/There are sharp teeth in the mouth
+Alligator Lizard/has/brown Color Body
+Alligator Lizard/has/elongated Shape Body
+Alligator Lizard/has/1 Body
+Alligator Lizard's Body/has special attribute/Covered in scales
+Alligator Lizard/has/brown Color Foot
+Alligator Lizard/has/oval Shape Foot
+Alligator Lizard/has/4 Foot
+Alligator Lizard's Foot/has special attribute/Each foot has sharp claws
+Alligator Lizard/has/green Color Tail
+Alligator Lizard/has/long and cylindrical Shape Tail
+Alligator Lizard/has/1 Tail
+Alligator Lizard's Tail/has special attribute/Can be detached and regrown
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

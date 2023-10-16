@@ -1,0 +1,22 @@
+Ambystoma maculatum/has/brown Color Head
+Ambystoma maculatum/has/oval Shape Head
+Ambystoma maculatum/has/1 Head
+Ambystoma maculatum's Head/has special attribute/There are two small eyes on the front of the head
+Ambystoma maculatum/has/black Color Body
+Ambystoma maculatum/has/elongated Shape Body
+Ambystoma maculatum/has/1 Body
+Ambystoma maculatum's Body/has special attribute/It has a slimy texture
+Ambystoma maculatum/has/black Color Foot
+Ambystoma maculatum/has/webbed Shape Foot
+Ambystoma maculatum/has/4 Foot
+Ambystoma maculatum's Foot/has special attribute/The feet are adapted for swimming
+Ambystoma maculatum/has/brown Color Tail
+Ambystoma maculatum/has/long and cylindrical Shape Tail
+Ambystoma maculatum/has/1 Tail
+Ambystoma maculatum's Tail/has special attribute/The tail is used for propulsion in water
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

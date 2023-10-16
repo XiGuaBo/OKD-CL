@@ -1,0 +1,24 @@
+Mollymawk/has/white Color Head
+Mollymawk/has/oval Shape Head
+Mollymawk/has/1 Head
+Mollymawk's Head/has special attribute/There is a sharp beak in front of the head
+Mollymawk/has/black Color Body
+Mollymawk/has/streamline Shape Body
+Mollymawk/has/1 Body
+Mollymawk's Body/has special attribute/None
+Mollymawk/has/black Color Wing
+Mollymawk/has/long and narrow Shape Wing
+Mollymawk/has/2 Wing
+Mollymawk's Wing/has special attribute/Used for flying
+Mollymawk/has/black Color Foot
+Mollymawk/has/webbed Shape Foot
+Mollymawk/has/2 Foot
+Mollymawk's Foot/has special attribute/Used for swimming and perching
+Mollymawk/has/black Color Tail
+Mollymawk/has/long and pointed Shape Tail
+Mollymawk/has/1 Tail
+Mollymawk's Tail/has special attribute/Used for steering during flight
+Head/is on top of/Body
+Wing/is next to/Body
+Foot/is below Body
+Tail/is behind of/Body

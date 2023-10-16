@@ -1,0 +1,1 @@
+{"Ring Snake": {"Head": {"Color": "green", "Shape": "triangular", "Quantity": "1", "Special Attribute": "It has two large eyes on top of the head"}, "Body": {"Color": "brown", "Shape": "long and cylindrical", "Quantity": "1", "Special Attribute": "It has a series of distinct rings along the body"}}, "Relationship": ["Head is/up/to Body", "Head is/next/to Body"]}

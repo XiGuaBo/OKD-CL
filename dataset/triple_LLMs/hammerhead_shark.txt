@@ -1,0 +1,20 @@
+Hammerhead Shark/has/gray Color Head
+Hammerhead Shark/has/hammer-shaped Shape Head
+Hammerhead Shark/has/1 Head
+Hammerhead Shark's Head/has special attribute/There are eyes on the sides of the head
+Hammerhead Shark/has/gray Color Body
+Hammerhead Shark/has/elongated Shape Body
+Hammerhead Shark/has/1 Body
+Hammerhead Shark's Body/has special attribute/None
+Hammerhead Shark/has/gray Color Fin
+Hammerhead Shark/has/triangular Shape Fin
+Hammerhead Shark/has/2 Fin
+Hammerhead Shark's Fin/has special attribute/Used for stability and maneuvering
+Hammerhead Shark/has/gray Color Tail
+Hammerhead Shark/has/crescent Shape Tail
+Hammerhead Shark/has/1 Tail
+Hammerhead Shark's Tail/has special attribute/Used for propulsion
+Head/is up to/Body
+Fin/is next to/Body
+Fin/is side of/Body
+Tail/is behind of/Body

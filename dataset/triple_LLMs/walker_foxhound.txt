@@ -1,0 +1,19 @@
+Walker foxhound/has/brown Color Head
+Walker foxhound/has/oval Shape Head
+Walker foxhound/has/1 Head
+Walker foxhound's Head/has special attribute/There are two pointy ears on top of the head
+Walker foxhound/has/white;black Color Body
+Walker foxhound/has/streamlined Shape Body
+Walker foxhound/has/1 Body
+Walker foxhound's Body/has special attribute/There is a long neck connecting the head and body
+Walker foxhound/has/black Color Foot
+Walker foxhound/has/paw Shape Foot
+Walker foxhound/has/4 Foot
+Walker foxhound's Foot/has special attribute/Each foot has sharp claws
+Walker foxhound/has/white;black Color Tail
+Walker foxhound/has/long and bushy Shape Tail
+Walker foxhound/has/1 Tail
+Walker foxhound's Tail/has special attribute/The tail is curved and fluffy
+Head/is on top of/Body
+Foot/is below Body
+Tail/is behind of/Body

@@ -1,0 +1,21 @@
+Chow Chow/has/black Color Head
+Chow Chow/has/round Shape Head
+Chow Chow/has/1 Head
+Chow Chow's Head/has special attribute/The head has a thick and fluffy mane
+Chow Chow/has/cream Color Body
+Chow Chow/has/compact Shape Body
+Chow Chow/has/1 Body
+Chow Chow's Body/has special attribute/The body is sturdy and muscular
+Chow Chow/has/black Color Foot
+Chow Chow/has/paw Shape Foot
+Chow Chow/has/4 Foot
+Chow Chow's Foot/has special attribute/The feet are strong and well-padded
+Chow Chow/has/fluffy Color Tail
+Chow Chow/has/plume Shape Tail
+Chow Chow/has/1 Tail
+Chow Chow's Tail/has special attribute/The tail is carried over the back in a curl
+Head/is up to/Body
+Head/is next to/Body
+Foot/is next to/Body
+Foot/is side of/Body
+Tail/is behind of/Body

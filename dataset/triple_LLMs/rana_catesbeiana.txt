@@ -1,0 +1,20 @@
+Rana catesbeiana/has/green Color Head
+Rana catesbeiana/has/oval Shape Head
+Rana catesbeiana/has/1 Head
+Rana catesbeiana's Head/has special attribute/There are two bulging eyes on top of the head
+Rana catesbeiana/has/green Color Body
+Rana catesbeiana/has/elongated Shape Body
+Rana catesbeiana/has/1 Body
+Rana catesbeiana's Body/has special attribute/It has a slimy texture
+Rana catesbeiana/has/green Color Foot
+Rana catesbeiana/has/webbed Shape Foot
+Rana catesbeiana/has/4 Foot
+Rana catesbeiana's Foot/has special attribute/The feet are adapted for swimming
+Rana catesbeiana/has/green Color Tail
+Rana catesbeiana/has/long and tapering Shape Tail
+Rana catesbeiana/has/1 Tail
+Rana catesbeiana's Tail/has special attribute/It helps in propulsion while swimming
+Head/is on top of/Body
+Foot/is next to/Body
+Foot/is below Body
+Tail/is behind of/Body

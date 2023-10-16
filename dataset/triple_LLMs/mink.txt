@@ -1,0 +1,22 @@
+Mink/has/brown Color Head
+Mink/has/triangular Shape Head
+Mink/has/1 Head
+Mink's Head/has special attribute/There are two small ears on top of the head
+Mink/has/dark brown Color Body
+Mink/has/elongated Shape Body
+Mink/has/1 Body
+Mink's Body/has special attribute/Covered in thick fur
+Mink/has/black Color Foot
+Mink/has/paw-like Shape Foot
+Mink/has/4 Foot
+Mink's Foot/has special attribute/Each foot has sharp claws
+Mink/has/bushy brown Color Tail
+Mink/has/long and cylindrical Shape Tail
+Mink/has/1 Tail
+Mink's Tail/has special attribute/Used for balance and swimming
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

@@ -1,0 +1,22 @@
+Weimaraner/has/gray Color Head
+Weimaraner/has/oval Shape Head
+Weimaraner/has/1 Head
+Weimaraner's Head/has special attribute/There are two round ears on top of the head
+Weimaraner/has/gray Color Body
+Weimaraner/has/muscular Shape Body
+Weimaraner/has/1 Body
+Weimaraner's Body/has special attribute/The body is sleek and athletic
+Weimaraner/has/gray Color Foot
+Weimaraner/has/paw Shape Foot
+Weimaraner/has/4 Foot
+Weimaraner's Foot/has special attribute/Each foot has sharp claws
+Weimaraner/has/gray Color Tail
+Weimaraner/has/long and tapered Shape Tail
+Weimaraner/has/1 Tail
+Weimaraner's Tail/has special attribute/The tail is usually held high and straight
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

@@ -1,0 +1,22 @@
+Gazelle Hound/has/brown Color Head
+Gazelle Hound/has/elongated Shape Head
+Gazelle Hound/has/1 Head
+Gazelle Hound's Head/has special attribute/There are two pointy ears on top of the head
+Gazelle Hound/has/tan Color Body
+Gazelle Hound/has/slender Shape Body
+Gazelle Hound/has/1 Body
+Gazelle Hound's Body/has special attribute/There is a long neck connecting the head and body
+Gazelle Hound/has/black Color Foot
+Gazelle Hound/has/slender and cylindrical Shape Foot
+Gazelle Hound/has/4 Foot
+Gazelle Hound's Foot/has special attribute/Each foot has sharp claws
+Gazelle Hound/has/brown Color Tail
+Gazelle Hound/has/long and bushy Shape Tail
+Gazelle Hound/has/1 Tail
+Gazelle Hound's Tail/has special attribute/The tail is curved upwards
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

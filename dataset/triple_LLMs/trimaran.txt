@@ -1,0 +1,10 @@
+Trimaran/has/white Color Body
+Trimaran/has/streamline Shape Body
+Trimaran/has/1 Body
+Trimaran's Body/has special attribute/None
+Trimaran/has/red;white Color Sail
+Trimaran/has/triangular Shape Sail
+Trimaran/has/1 Sail
+Trimaran's Sail has special attribute It/is attached to/the mast
+Sail/is up to/Body
+Sail/is next to/Body

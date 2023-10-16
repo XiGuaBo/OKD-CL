@@ -1,0 +1,1 @@
+{"Crotalus cerastes": {"Head": {"Color": "brown", "Shape": "triangular", "Quantity": "1", "Special Attribute": "There are two venomous fangs at the front of the head"}, "Body": {"Color": "brown", "Shape": "cylindrical", "Quantity": "1", "Special Attribute": "Covered in scales"}}, "Relationship": ["Head is/up/to Body", "Head is/next/to Body"]}

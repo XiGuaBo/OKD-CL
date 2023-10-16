@@ -1,0 +1,16 @@
+Go-Kart/has/red Color Body
+Go-Kart/has/rectangular Shape Body
+Go-Kart/has/1 Body
+Go-Kart's Body/has special attribute/It has a sleek design
+Go-Kart/has/black Color Tier
+Go-Kart/has/circular Shape Tier
+Go-Kart/has/4 Tier
+Go-Kart's Tier/has special attribute/They are made of durable rubber
+Go-Kart/has/silver Color Side Mirror
+Go-Kart/has/oval Shape Side Mirror
+Go-Kart/has/2 Side Mirror
+Go-Kart's Mirror/has special attribute/They provide a wide view of the surroundings
+Body/is up to/Tier
+Body/is next to/Tier
+Side Mirror/is next to/Body
+Side Mirror/is side of/Body

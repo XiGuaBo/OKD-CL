@@ -1,0 +1,24 @@
+Bee Eater/has/green Color Head
+Bee Eater/has/oval Shape Head
+Bee Eater/has/1 Head
+Bee Eater's Head/has special attribute/There is a long;curved beak in front of the head
+Bee Eater/has/blue;orange Color Body
+Bee Eater/has/slender Shape Body
+Bee Eater/has/1 Body
+Bee Eater's Body/has special attribute/None
+Bee Eater/has/green;blue Color Wing
+Bee Eater/has/long and pointed Shape Wing
+Bee Eater/has/2 Wing
+Bee Eater's Wing/has special attribute/None
+Bee Eater/has/black Color Foot
+Bee Eater/has/claw-like Shape Foot
+Bee Eater/has/2 Foot
+Bee Eater's Foot/has special attribute/There are sharp claws at the end of each foot
+Bee Eater/has/blue;orange Color Tail
+Bee Eater/has/long and pointed Shape Tail
+Bee Eater/has/1 Tail
+Bee Eater's Tail/has special attribute/None
+Head is in front of Body
+Wing/is next to/Body
+Foot/is below Body
+Tail/is behind of/Body

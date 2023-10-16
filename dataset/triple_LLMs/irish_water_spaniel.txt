@@ -1,0 +1,22 @@
+Irish water spaniel/has/brown Color Head
+Irish water spaniel/has/oval Shape Head
+Irish water spaniel/has/1 Head
+Irish water spaniel's Head/has special attribute/There are long;droopy ears on the sides of the head
+Irish water spaniel/has/dark brown Color Body
+Irish water spaniel/has/streamline Shape Body
+Irish water spaniel/has/1 Body
+Irish water spaniel's Body/has special attribute/The body is covered in curly;waterproof fur
+Irish water spaniel/has/brown Color Foot
+Irish water spaniel/has/paw Shape Foot
+Irish water spaniel/has/4 Foot
+Irish water spaniel's Foot/has special attribute/The feet have webbed toes for swimming
+Irish water spaniel/has/brown Color Tail
+Irish water spaniel/has/long and tapered Shape Tail
+Irish water spaniel/has/1 Tail
+Irish water spaniel's Tail/has special attribute/The tail is used as a rudder while swimming
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

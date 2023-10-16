@@ -1,0 +1,10 @@
+Crotalus adamanteus/has/brown Color Head
+Crotalus adamanteus/has/triangular Shape Head
+Crotalus adamanteus/has/1 Head
+Crotalus adamanteus's Head/has special attribute/There are two large venomous fangs in the front of the head
+Crotalus adamanteus/has/brown Color Body
+Crotalus adamanteus/has/cylindrical Shape Body
+Crotalus adamanteus/has/1 Body
+Crotalus adamanteus's Body/has special attribute/Covered in scales
+Head/is up to/Body
+Head/is next to/Body

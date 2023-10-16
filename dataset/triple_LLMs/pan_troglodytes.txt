@@ -1,0 +1,26 @@
+Pan troglodytes/has/brown Color Head
+Pan troglodytes/has/oval Shape Head
+Pan troglodytes/has/1 Head
+Pan troglodytes's Head/has special attribute/There is a prominent brow ridge above the eyes
+Pan troglodytes/has/black Color Body
+Pan troglodytes/has/upright Shape Body
+Pan troglodytes/has/1 Body
+Pan troglodytes's Body/has special attribute/Covered in thick fur
+Pan troglodytes/has/black Color Hand
+Pan troglodytes/has/curved Shape Hand
+Pan troglodytes/has/2 Hand
+Pan troglodytes's Hand/has special attribute/Opposable thumbs
+Pan troglodytes/has/black Color Foot
+Pan troglodytes/has/flat Shape Foot
+Pan troglodytes/has/2 Foot
+Pan troglodytes's Foot/has special attribute/Suitable for climbing trees
+Pan troglodytes/has/brown Color Tail
+Pan troglodytes/has/long and thin Shape Tail
+Pan troglodytes/has/1 Tail
+Pan troglodytes's Tail/has special attribute/Used for balance while climbing
+Head/is up to/Body
+Hand/is next to/Body
+Hand/is next to/Foot
+Foot/is next to/Body
+Foot/is next to/Hand
+Tail/is behind of/Body

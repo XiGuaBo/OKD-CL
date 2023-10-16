@@ -1,0 +1,24 @@
+Egretta caerulea/has/white Color Head
+Egretta caerulea/has/elongated Shape Head
+Egretta caerulea/has/1 Head
+Egretta caerulea's Head/has special attribute/There is a long;pointed beak in front of the head
+Egretta caerulea/has/blue-gray Color Body
+Egretta caerulea/has/slender Shape Body
+Egretta caerulea/has/1 Body
+Egretta caerulea's Body/has special attribute/None
+Egretta caerulea/has/gray Color Wing
+Egretta caerulea/has/long and narrow Shape Wing
+Egretta caerulea/has/2 Wing
+Egretta caerulea's Wing/has special attribute/Used for flying
+Egretta caerulea/has/black Color Foot
+Egretta caerulea/has/webbed Shape Foot
+Egretta caerulea/has/2 Foot
+Egretta caerulea's Foot/has special attribute/Used for walking and swimming
+Egretta caerulea/has/white Color Tail
+Egretta caerulea/has/long and thin Shape Tail
+Egretta caerulea/has/1 Tail
+Egretta caerulea's Tail/has special attribute/Used for balance and steering during flight
+Head/is up to/Body
+Wing/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

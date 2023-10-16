@@ -1,0 +1,1 @@
+{"Wine Bottle": {"Body": {"Color": "green", "Shape": "cylindrical", "Quantity": "1", "Special Attribute": "The body is made of glass"}, "Mouth": {"Color": "clear", "Shape": "circular", "Quantity": "1", "Special Attribute": "The mouth has a screw cap"}}, "Relationship": ["Mouth is/up/to Body", "Mouth is/next/to Body"]}

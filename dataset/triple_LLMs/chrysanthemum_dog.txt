@@ -1,0 +1,19 @@
+Chrysanthemum Dog/has/yellow Color Head
+Chrysanthemum Dog/has/round Shape Head
+Chrysanthemum Dog/has/1 Head
+Chrysanthemum Dog's Head/has special attribute/There are two big eyes on the head
+Chrysanthemum Dog/has/white Color Body
+Chrysanthemum Dog/has/cylindrical Shape Body
+Chrysanthemum Dog/has/1 Body
+Chrysanthemum Dog's Body/has special attribute/Covered with chrysanthemum-like patterns
+Chrysanthemum Dog/has/brown Color Foot
+Chrysanthemum Dog/has/paw-like Shape Foot
+Chrysanthemum Dog/has/4 Foot
+Chrysanthemum Dog's Foot/has special attribute/Each foot has sharp claws
+Chrysanthemum Dog/has/white Color Tail
+Chrysanthemum Dog/has/fluffy Shape Tail
+Chrysanthemum Dog/has/1 Tail
+Chrysanthemum Dog's Tail/has special attribute/Long and bushy tail
+Head/is on top of/Body
+Foot/is below Body
+Tail/is behind of/Body

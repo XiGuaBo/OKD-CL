@@ -1,0 +1,24 @@
+Goose/has/white Color Head
+Goose/has/oval Shape Head
+Goose/has/1 Head
+Goose's Head/has special attribute/There is a black beak in front of the head
+Goose/has/white Color Body
+Goose/has/elongated Shape Body
+Goose/has/1 Body
+Goose's Body/has special attribute/None
+Goose/has/gray Color Wing
+Goose/has/wide and pointed Shape Wing
+Goose/has/2 Wing
+Goose's Wing/has special attribute/None
+Goose/has/orange Color Foot
+Goose/has/webbed Shape Foot
+Goose/has/2 Foot
+Goose's Foot/has special attribute/There are claws at the end of each foot
+Goose/has/white Color Tail
+Goose/has/long and tapered Shape Tail
+Goose/has/1 Tail
+Goose's Tail/has special attribute/None
+Head/is on top of/Body
+Wing/is next to/Body
+Foot/is below Body
+Tail/is behind of/Body

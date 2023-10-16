@@ -1,0 +1,10 @@
+Green Mamba/has/green Color Head
+Green Mamba/has/oval Shape Head
+Green Mamba/has/1 Head
+Green Mamba's Head/has special attribute/There are two large eyes on the front of the head
+Green Mamba/has/green Color Body
+Green Mamba/has/slender Shape Body
+Green Mamba/has/1 Body
+Green Mamba's Body/has special attribute/The body is long and cylindrical
+Head/is up to/Body
+Head/is next to/Body

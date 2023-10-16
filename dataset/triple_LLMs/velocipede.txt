@@ -1,0 +1,21 @@
+Velocipede/has/black Color Head
+Velocipede/has/oval Shape Head
+Velocipede/has/1 Head
+Velocipede's Head/has special attribute/There is a handlebar attached to the front of the head
+Velocipede/has/silver Color Body
+Velocipede/has/triangular Shape Body
+Velocipede/has/1 Body
+Velocipede's Body/has special attribute/None
+Velocipede/has/brown Color Seat
+Velocipede/has/rectangular Shape Seat
+Velocipede/has/1 Seat
+Velocipede's Seat/has special attribute/There is a cushion on top of the seat
+Velocipede/has/black Color Tier
+Velocipede/has/circular Shape Tier
+Velocipede/has/2 Tier
+Velocipede's Tier/has special attribute/There is a rubber grip on the surface of each tier
+Head/is up to/Body
+Head/is next to/Body
+Seat/is next to/Body
+Tier/is next to/Body
+Tier/is side of/Body

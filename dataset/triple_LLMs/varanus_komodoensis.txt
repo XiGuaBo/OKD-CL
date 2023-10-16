@@ -1,0 +1,22 @@
+Varanus komodoensis has gray Color Head
+Varanus komodoensis has triangular Shape Head
+Varanus komodoensis has 1 Head
+Varanus komodoensis's Head/has special attribute/There are sharp teeth inside the mouth
+Varanus komodoensis has brown Color Body
+Varanus komodoensis has elongated Shape Body
+Varanus komodoensis has 1 Body
+Varanus komodoensis's Body/has special attribute/Covered in rough scales
+Varanus komodoensis has gray Color Foot
+Varanus komodoensis has clawed Shape Foot
+Varanus komodoensis has 4 Foot
+Varanus komodoensis's Foot/has special attribute/Strong and sturdy for walking and climbing
+Varanus komodoensis has brown Color Tail
+Varanus komodoensis has long and cylindrical Shape Tail
+Varanus komodoensis has 1 Tail
+Varanus komodoensis's Tail/has special attribute/Used for balance and as a weapon
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

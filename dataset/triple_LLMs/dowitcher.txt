@@ -1,0 +1,24 @@
+Dowitcher/has/brown Color Head
+Dowitcher/has/oval Shape Head
+Dowitcher/has/1 Head
+Dowitcher's Head/has special attribute/There is a long;thin beak in front of the head
+Dowitcher/has/brown Color Body
+Dowitcher/has/elongated Shape Body
+Dowitcher/has/1 Body
+Dowitcher's Body/has special attribute/None
+Dowitcher/has/gray Color Wing
+Dowitcher/has/long and pointed Shape Wing
+Dowitcher/has/2 Wing
+Dowitcher's Wing/has special attribute/None
+Dowitcher/has/gray Color Foot
+Dowitcher/has/webbed Shape Foot
+Dowitcher/has/2 Foot
+Dowitcher's Foot/has special attribute/There are long legs attached to the feet
+Dowitcher/has/brown Color Tail
+Dowitcher/has/fan-shaped Shape Tail
+Dowitcher/has/1 Tail
+Dowitcher's Tail/has special attribute/None
+Head is in front of Body
+Wing/is next to/Body
+Foot/is below Body
+Tail/is behind of/Body

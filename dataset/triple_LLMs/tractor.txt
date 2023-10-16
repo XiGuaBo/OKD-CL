@@ -1,0 +1,15 @@
+Tractor/has/green Color Body
+Tractor/has/rectangular Shape Body
+Tractor/has/1 Body
+Tractor's Body/has special attribute/There is a driver's seat on top of the body
+Tractor/has/black Color Tier
+Tractor/has/circular Shape Tier
+Tractor/has/4 Tier
+Tractor's Tier/has special attribute/Each tier has a tread pattern for better traction
+Tractor/has/silver Color Side Mirror
+Tractor/has/rectangular Shape Side Mirror
+Tractor/has/2 Side Mirror
+Tractor's Mirror/has special attribute/The side mirrors are adjustable for better visibility
+Tier/is underneath of/Body
+Side Mirror/is attached to/Body
+Side Mirror/is next to/Body

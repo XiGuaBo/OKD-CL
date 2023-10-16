@@ -1,0 +1,22 @@
+Boston terrier/has/black;white Color Head
+Boston terrier/has/round Shape Head
+Boston terrier/has/1 Head
+Boston terrier's Head/has special attribute/There are two small ears on top of the head
+Boston terrier/has/black;white Color Body
+Boston terrier/has/compact Shape Body
+Boston terrier/has/1 Body
+Boston terrier's Body/has special attribute/The body is muscular and well-proportioned
+Boston terrier/has/black;white Color Foot
+Boston terrier/has/paw-like Shape Foot
+Boston terrier/has/4 Foot
+Boston terrier's Foot/has special attribute/Each foot has small;round toes
+Boston terrier/has/black;white Color Tail
+Boston terrier/has/straight Shape Tail
+Boston terrier/has/1 Tail
+Boston terrier's Tail/has special attribute/The tail is short and tapers towards the end
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

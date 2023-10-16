@@ -1,0 +1,22 @@
+Brittany spaniel/has/brown Color Head
+Brittany spaniel/has/oval Shape Head
+Brittany spaniel/has/1 Head
+Brittany spaniel's Head/has special attribute/There are long;droopy ears on the sides of the head
+Brittany spaniel/has/white;brown Color Body
+Brittany spaniel/has/compact Shape Body
+Brittany spaniel/has/1 Body
+Brittany spaniel's Body/has special attribute/The body is muscular and well-proportioned
+Brittany spaniel/has/brown Color Foot
+Brittany spaniel/has/paw-like Shape Foot
+Brittany spaniel/has/4 Foot
+Brittany spaniel's Foot/has special attribute/Each foot has strong and sturdy claws
+Brittany spaniel/has/brown;white Color Tail
+Brittany spaniel/has/feathery Shape Tail
+Brittany spaniel/has/1 Tail
+Brittany spaniel's Tail/has special attribute/The tail is long and held high
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

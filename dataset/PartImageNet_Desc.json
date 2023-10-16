@@ -1,0 +1,5212 @@
+[
+    {
+        "Pan troglodytes": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There is a prominent brow ridge above the eyes"
+            },
+            "Body": {
+                "Color": "black",
+                "Shape": "upright",
+                "Quantity": "1",
+                "Special Attribute": "Covered in thick fur"
+            },
+            "Hand": {
+                "Color": "black",
+                "Shape": "curved",
+                "Quantity": "2",
+                "Special Attribute": "Opposable thumbs"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "flat",
+                "Quantity": "2",
+                "Special Attribute": "Suitable for climbing trees"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and thin",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance while climbing"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Hand is/next/to Body",
+            "Hand is/next/to Foot",
+            "Foot is/next/to Body",
+            "Foot is/next/to Hand",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Japanese spaniel": {
+            "Head": {
+                "Color": "white;brown",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are long ears on the sides of the head"
+            },
+            "Body": {
+                "Color": "white;brown",
+                "Shape": "compact",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Foot": {
+                "Color": "white;brown",
+                "Shape": "small and round",
+                "Quantity": "4",
+                "Special Attribute": "There are small paws at the bottom of each foot"
+            },
+            "Tail": {
+                "Color": "white;brown",
+                "Shape": "long and fluffy",
+                "Quantity": "1",
+                "Special Attribute": "The tail is curled up"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Hartebeest": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "There are two curved horns on top of the head"
+            },
+            "Body": {
+                "Color": "light brown",
+                "Shape": "slender",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "hoofed",
+                "Quantity": "4",
+                "Special Attribute": "Strong and sturdy"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "tufted",
+                "Quantity": "1",
+                "Special Attribute": "Long and bushy"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Carcharodon carcharias": {
+            "Head": {
+                "Color": "gray",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are sharp teeth inside the mouth"
+            },
+            "Body": {
+                "Color": "gray",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered in rough scales"
+            },
+            "Fin": {
+                "Color": "gray",
+                "Shape": "triangular",
+                "Quantity": "2",
+                "Special Attribute": "Used for stability and maneuvering"
+            },
+            "Tail": {
+                "Color": "gray",
+                "Shape": "crescent",
+                "Quantity": "1",
+                "Special Attribute": "Propels the shark through the water"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Fin is/next/to Body",
+            "Fin is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Green Mamba": {
+            "Head": {
+                "Color": "green",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two large eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "green",
+                "Shape": "slender",
+                "Quantity": "1",
+                "Special Attribute": "The body is long and cylindrical"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body"
+        ]
+    },
+    {
+        "Walker foxhound": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two pointy ears on top of the head"
+            },
+            "Body": {
+                "Color": "white;black",
+                "Shape": "streamlined",
+                "Quantity": "1",
+                "Special Attribute": "There is a long neck connecting the head and body"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "paw",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws"
+            },
+            "Tail": {
+                "Color": "white;black",
+                "Shape": "long and bushy",
+                "Quantity": "1",
+                "Special Attribute": "The tail is curved and fluffy"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Ring Snake": {
+            "Head": {
+                "Color": "green",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "It has two large eyes on top of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "It has a series of distinct rings along the body"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body"
+        ]
+    },
+    {
+        "Hypsiglena torquata": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two large eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "It has a pattern of dark brown bands"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body"
+        ]
+    },
+    {
+        "Symphalangus syndactylus": {
+            "Head": {
+                "Color": "black",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two large eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "black",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Hand": {
+                "Color": "black",
+                "Shape": "curved",
+                "Quantity": "2",
+                "Special Attribute": "There are long fingers on each hand"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "flat",
+                "Quantity": "2",
+                "Special Attribute": "There is a thumb-like toe on each foot"
+            },
+            "Tail": {
+                "Color": "black",
+                "Shape": "long and bushy",
+                "Quantity": "1",
+                "Special Attribute": "The tail is used for balance and gripping branches"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Hand is/next/to Body",
+            "Hand is/side/of Body",
+            "Foot is/next/to Body",
+            "Foot is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Airliner": {
+            "Head": {
+                "Color": "white",
+                "Shape": "streamline",
+                "Quantity": "1",
+                "Special Attribute": "There is a cockpit at the front of the head"
+            },
+            "Body": {
+                "Color": "silver",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Wing": {
+                "Color": "white",
+                "Shape": "wide and rectangular",
+                "Quantity": "2",
+                "Special Attribute": "There are flaps and ailerons for control"
+            },
+            "Engine": {
+                "Color": "silver",
+                "Shape": "circular",
+                "Quantity": "2",
+                "Special Attribute": "There are jet engines attached to the wings"
+            },
+            "Tail": {
+                "Color": "white",
+                "Shape": "vertical stabilizer",
+                "Quantity": "1",
+                "Special Attribute": "There is a rudder at the top of the tail"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Wing is/next/to Body",
+            "Engine is/attached/to Wing",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Aepyceros melampus": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two sharp horns on top of the head"
+            },
+            "Body": {
+                "Color": "tan",
+                "Shape": "slender",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "hoof",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has a dewclaw"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "tufted",
+                "Quantity": "1",
+                "Special Attribute": "The tail is long and bushy"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Pill Bottle": {
+            "Body": {
+                "Color": "white",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "There is a label on the body"
+            },
+            "Mouth": {
+                "Color": "orange",
+                "Shape": "circular",
+                "Quantity": "1",
+                "Special Attribute": "There is a child-proof cap on the mouth"
+            }
+        },
+        "Relationship": [
+            "Mouth is/on/top/of Body",
+            "Mouth is/adjacent/to Body"
+        ]
+    },
+    {
+        "Bubalus bubalis": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two curved horns on top of the head"
+            },
+            "Body": {
+                "Color": "dark brown",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "Thick and muscular"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "cylindrical",
+                "Quantity": "4",
+                "Special Attribute": "Hooves at the end of each foot"
+            },
+            "Tail": {
+                "Color": "dark brown",
+                "Shape": "long and tapered",
+                "Quantity": "1",
+                "Special Attribute": "Has a tuft of hair at the end"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Gordon setter": {
+            "Head": {
+                "Color": "black",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two round;dark brown eyes on the head"
+            },
+            "Body": {
+                "Color": "black;tan",
+                "Shape": "muscular",
+                "Quantity": "1",
+                "Special Attribute": "The body is medium-sized and well-proportioned"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "paw",
+                "Quantity": "4",
+                "Special Attribute": "The feet are strong and compact"
+            },
+            "Tail": {
+                "Color": "black",
+                "Shape": "long and tapering",
+                "Quantity": "1",
+                "Special Attribute": "The tail is set high and carried level with the back"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Land Rover": {
+            "Body": {
+                "Color": "silver",
+                "Shape": "boxy",
+                "Quantity": "1",
+                "Special Attribute": "It has a rugged and sturdy appearance"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "round",
+                "Quantity": "4",
+                "Special Attribute": "They are made of durable rubber"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "They are adjustable"
+            }
+        },
+        "Relationship": [
+            "Side Mirror is/next/to Body",
+            "Tier is/up/to Body",
+            "Tier is/next/to Body"
+        ]
+    },
+    {
+        "Titi Monkey": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two large eyes on the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "The body is covered in fur"
+            },
+            "Hand": {
+                "Color": "brown",
+                "Shape": "curved",
+                "Quantity": "2",
+                "Special Attribute": "Each hand has five fingers"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "flat",
+                "Quantity": "2",
+                "Special Attribute": "Each foot has five toes"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and slender",
+                "Quantity": "1",
+                "Special Attribute": "The tail is prehensile"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Hand is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Ox": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two large horns on top of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Strong and muscular"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "Hooves for walking and running"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and tapered",
+                "Quantity": "1",
+                "Special Attribute": "Used for swatting flies"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Jacamar": {
+            "Head": {
+                "Color": "black",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There is a long;thin beak in front of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Wing": {
+                "Color": "black",
+                "Shape": "long and pointed",
+                "Quantity": "2",
+                "Special Attribute": "None"
+            },
+            "Foot": {
+                "Color": "gray",
+                "Shape": "clawed",
+                "Quantity": "2",
+                "Special Attribute": "There are sharp claws at the end of each foot"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "short and rounded",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body",
+            "Wing is/next/to Body",
+            "Wing is/side/of Body",
+            "Foot is/next/to Body",
+            "Foot is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Alligator mississipiensis": {
+            "Head": {
+                "Color": "dark brown",
+                "Shape": "long and triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are sharp teeth in the mouth"
+            },
+            "Body": {
+                "Color": "dark green",
+                "Shape": "elongated and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered in rough scales"
+            },
+            "Foot": {
+                "Color": "gray",
+                "Shape": "webbed and paddle-like",
+                "Quantity": "4",
+                "Special Attribute": "Used for swimming and walking on land"
+            },
+            "Tail": {
+                "Color": "dark brown",
+                "Shape": "long and tapering",
+                "Quantity": "1",
+                "Special Attribute": "Used for propulsion in water"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Spoonbill": {
+            "Head": {
+                "Color": "white",
+                "Shape": "long and slender",
+                "Quantity": "1",
+                "Special Attribute": "There is a long;thin beak at the front of the head"
+            },
+            "Body": {
+                "Color": "pink",
+                "Shape": "streamlined",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Wing": {
+                "Color": "white",
+                "Shape": "wide and rounded",
+                "Quantity": "2",
+                "Special Attribute": "None"
+            },
+            "Foot": {
+                "Color": "gray",
+                "Shape": "webbed",
+                "Quantity": "2",
+                "Special Attribute": "Suitable for walking on water and muddy surfaces"
+            },
+            "Tail": {
+                "Color": "white",
+                "Shape": "long and pointed",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and steering during flight"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body",
+            "Wing is/next/to Body",
+            "Wing is/side/of Body",
+            "Foot is/next/to Body",
+            "Foot is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Tree-frog": {
+            "Head": {
+                "Color": "green",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "Large eyes on top of the head"
+            },
+            "Body": {
+                "Color": "green",
+                "Shape": "rounded",
+                "Quantity": "1",
+                "Special Attribute": "Smooth skin"
+            },
+            "Foot": {
+                "Color": "green",
+                "Shape": "webbed",
+                "Quantity": "4",
+                "Special Attribute": "Adhesive pads on the toes"
+            },
+            "Tail": {
+                "Color": "green",
+                "Shape": "long and slender",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and climbing"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Hammerhead Shark": {
+            "Head": {
+                "Color": "gray",
+                "Shape": "hammer-shaped",
+                "Quantity": "1",
+                "Special Attribute": "There are eyes on the sides of the head"
+            },
+            "Body": {
+                "Color": "gray",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Fin": {
+                "Color": "gray",
+                "Shape": "triangular",
+                "Quantity": "2",
+                "Special Attribute": "Used for stability and maneuvering"
+            },
+            "Tail": {
+                "Color": "gray",
+                "Shape": "crescent",
+                "Quantity": "1",
+                "Special Attribute": "Used for propulsion"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Fin is/next/to Body",
+            "Fin is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Gorilla gorilla": {
+            "Head": {
+                "Color": "black",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two small ears on top of the head"
+            },
+            "Body": {
+                "Color": "black",
+                "Shape": "bulky",
+                "Quantity": "1",
+                "Special Attribute": "Covered with thick fur"
+            },
+            "Hand": {
+                "Color": "black",
+                "Shape": "long and flexible",
+                "Quantity": "2",
+                "Special Attribute": "Each hand has opposable thumbs"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "wide and flat",
+                "Quantity": "2",
+                "Special Attribute": "Used for walking and climbing"
+            },
+            "Tail": {
+                "Color": "black",
+                "Shape": "long and tapering",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance while climbing"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Hand is/next/to Body",
+            "Hand is/side/of Body",
+            "Foot is/next/to Body",
+            "Foot is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Egretta caerulea": {
+            "Head": {
+                "Color": "white",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "There is a long;pointed beak in front of the head"
+            },
+            "Body": {
+                "Color": "blue-gray",
+                "Shape": "slender",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Wing": {
+                "Color": "gray",
+                "Shape": "long and narrow",
+                "Quantity": "2",
+                "Special Attribute": "Used for flying"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "webbed",
+                "Quantity": "2",
+                "Special Attribute": "Used for walking and swimming"
+            },
+            "Tail": {
+                "Color": "white",
+                "Shape": "long and thin",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and steering during flight"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Wing is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Baboon": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two large ears on the sides of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered with fur"
+            },
+            "Hand": {
+                "Color": "brown",
+                "Shape": "curved",
+                "Quantity": "2",
+                "Special Attribute": "Each hand has five fingers"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "flat",
+                "Quantity": "2",
+                "Special Attribute": "Each foot has five toes"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and thin",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and communication"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Hand is/next/to Body",
+            "Hand is/side/of Body",
+            "Foot is/next/to Body",
+            "Foot is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Soda Bottle": {
+            "Body": {
+                "Color": "transparent",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "It has a label wrapped around it"
+            },
+            "Mouth": {
+                "Color": "silver",
+                "Shape": "circular",
+                "Quantity": "1",
+                "Special Attribute": "It has a screw-on cap"
+            }
+        },
+        "Relationship": [
+            "Mouth is/up/to Body",
+            "Mouth is/next/to Body"
+        ]
+    },
+    {
+        "Guenon Monkey": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two large ears on the sides of the head"
+            },
+            "Body": {
+                "Color": "brown;black",
+                "Shape": "slender",
+                "Quantity": "1",
+                "Special Attribute": "Covered with fur"
+            },
+            "Hand": {
+                "Color": "brown",
+                "Shape": "curved",
+                "Quantity": "2",
+                "Special Attribute": "Each hand has five fingers"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "long and narrow",
+                "Quantity": "2",
+                "Special Attribute": "Each foot has five toes"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and thin",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and communication"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Hand is/next/to Body",
+            "Hand is/side/of Body",
+            "Foot is/next/to Body",
+            "Foot is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Egyptian cat": {
+            "Head": {
+                "Color": "golden",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "It has almond-shaped green eyes"
+            },
+            "Body": {
+                "Color": "sandy brown",
+                "Shape": "slender",
+                "Quantity": "1",
+                "Special Attribute": "It has a muscular build"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp retractable claws"
+            },
+            "Tail": {
+                "Color": "striped",
+                "Shape": "long and slender",
+                "Quantity": "1",
+                "Special Attribute": "It has a tuft of fur at the end"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Whiptail Lizard": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two large eyes on the head"
+            },
+            "Body": {
+                "Color": "green",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "The body is covered in scales"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "clawed",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws for climbing"
+            },
+            "Tail": {
+                "Color": "green",
+                "Shape": "long and slender",
+                "Quantity": "1",
+                "Special Attribute": "The tail is used for balance and defense"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "R.V.": {
+            "Body": {
+                "Color": "white",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "There are large windows on the sides"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "They are made of rubber"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "They are adjustable"
+            }
+        },
+        "Relationship": [
+            "Tier is/next/to Body",
+            "Side Mirror is/next/to Body",
+            "Side Mirror is/side/of Body"
+        ]
+    },
+    {
+        "Arenaria interpres": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There is a long;thin beak in front of the head"
+            },
+            "Body": {
+                "Color": "black;white",
+                "Shape": "streamlined",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Wing": {
+                "Color": "black;white",
+                "Shape": "long and pointed",
+                "Quantity": "2",
+                "Special Attribute": "None"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "webbed",
+                "Quantity": "2",
+                "Special Attribute": "There are sharp claws at the end of each foot"
+            },
+            "Tail": {
+                "Color": "black;white",
+                "Shape": "fan-shaped",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            }
+        },
+        "Relationship": [
+            "Head is in front of Body",
+            "Wing is/next/to Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Naja naja": {
+            "Head": {
+                "Color": "black",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two large eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "black",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered in scales"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body"
+        ]
+    },
+    {
+        "Weimaraner": {
+            "Head": {
+                "Color": "gray",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two round ears on top of the head"
+            },
+            "Body": {
+                "Color": "gray",
+                "Shape": "muscular",
+                "Quantity": "1",
+                "Special Attribute": "The body is sleek and athletic"
+            },
+            "Foot": {
+                "Color": "gray",
+                "Shape": "paw",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws"
+            },
+            "Tail": {
+                "Color": "gray",
+                "Shape": "long and tapered",
+                "Quantity": "1",
+                "Special Attribute": "The tail is usually held high and straight"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Grass Snake": {
+            "Head": {
+                "Color": "green",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two small eyes on top of the head"
+            },
+            "Body": {
+                "Color": "green",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered with scales"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body"
+        ]
+    },
+    {
+        "Anemone Fish": {
+            "Head": {
+                "Color": "orange",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There is a small mouth on the front of the head"
+            },
+            "Body": {
+                "Color": "orange;white",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered with protective mucus"
+            },
+            "Fin": {
+                "Color": "orange;black",
+                "Shape": "triangular",
+                "Quantity": "2",
+                "Special Attribute": "Used for swimming and maintaining balance"
+            },
+            "Tail": {
+                "Color": "orange;white",
+                "Shape": "fan-shaped",
+                "Quantity": "1",
+                "Special Attribute": "Used for propulsion"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Fin is/next/to Body",
+            "Fin is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Yawl": {
+            "Body": {
+                "Color": "white",
+                "Shape": "streamline",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Sail": {
+                "Color": "white",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "It is/attached/to the mast"
+            }
+        },
+        "Relationship": [
+            "Sail is/up/to Body",
+            "Sail is/next/to Body"
+        ]
+    },
+    {
+        "Ursus ursinus": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two small ears on top of the head"
+            },
+            "Body": {
+                "Color": "black",
+                "Shape": "bulky",
+                "Quantity": "1",
+                "Special Attribute": "Covered with thick fur"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Strong and suitable for climbing trees"
+            },
+            "Tail": {
+                "Color": "black",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and communication"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Cebus capucinus": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There is a prominent forehead"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered in fur"
+            },
+            "Hand": {
+                "Color": "brown",
+                "Shape": "curved",
+                "Quantity": "2",
+                "Special Attribute": "Opposable thumbs"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "flat",
+                "Quantity": "2",
+                "Special Attribute": "Grasping toes"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and slender",
+                "Quantity": "1",
+                "Special Attribute": "Prehensile"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Hand is/next/to Body",
+            "Hand is/below Head",
+            "Foot is/next/to Body",
+            "Foot is/below Hand",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Irish water spaniel": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are long;droopy ears on the sides of the head"
+            },
+            "Body": {
+                "Color": "dark brown",
+                "Shape": "streamline",
+                "Quantity": "1",
+                "Special Attribute": "The body is covered in curly;waterproof fur"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "paw",
+                "Quantity": "4",
+                "Special Attribute": "The feet have webbed toes for swimming"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and tapered",
+                "Quantity": "1",
+                "Special Attribute": "The tail is used as a rudder while swimming"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Coucal": {
+            "Head": {
+                "Color": "black",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There is a long curved beak in front of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Wing": {
+                "Color": "brown",
+                "Shape": "wide and rounded",
+                "Quantity": "2",
+                "Special Attribute": "None"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "clawed",
+                "Quantity": "2",
+                "Special Attribute": "There are sharp claws at the end of each foot"
+            },
+            "Tail": {
+                "Color": "black",
+                "Shape": "long and pointed",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            }
+        },
+        "Relationship": [
+            "Head is in front of Body",
+            "Wing is/next/to Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Ambystoma maculatum": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two small eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "black",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "It has a slimy texture"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "webbed",
+                "Quantity": "4",
+                "Special Attribute": "The feet are adapted for swimming"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "The tail is used for propulsion in water"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Felis concolor": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two pointy ears on top of the head"
+            },
+            "Body": {
+                "Color": "tan",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "The body is covered in short fur"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp retractable claws"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "The tail is thick at the base and tapers towards the end"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Racing Car": {
+            "Body": {
+                "Color": "red",
+                "Shape": "sleek",
+                "Quantity": "1",
+                "Special Attribute": "There is a spoiler at the back of the body"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "Made of high-performance rubber"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "Adjustable for better visibility"
+            }
+        },
+        "Relationship": [
+            "Side Mirror is/next/to Body",
+            "Side Mirror is/side/of Body",
+            "Tier is/up/to Body",
+            "Tier is/next/to Body"
+        ]
+    },
+    {
+        "Golden Retriever": {
+            "Head": {
+                "Color": "golden",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two floppy ears on top of the head"
+            },
+            "Body": {
+                "Color": "golden",
+                "Shape": "streamline",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Foot": {
+                "Color": "golden",
+                "Shape": "paw",
+                "Quantity": "4",
+                "Special Attribute": "There are claws at the end of each foot"
+            },
+            "Tail": {
+                "Color": "golden",
+                "Shape": "long and fluffy",
+                "Quantity": "1",
+                "Special Attribute": "It wags when the dog is happy"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Tup": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two large eyes on the head"
+            },
+            "Body": {
+                "Color": "gray",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "The body is covered in thick fur"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "round",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and thin",
+                "Quantity": "1",
+                "Special Attribute": "The tail is bushy at the end"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Foot is/below Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Chow Chow": {
+            "Head": {
+                "Color": "black",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "The head has a thick and fluffy mane"
+            },
+            "Body": {
+                "Color": "cream",
+                "Shape": "compact",
+                "Quantity": "1",
+                "Special Attribute": "The body is sturdy and muscular"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "paw",
+                "Quantity": "4",
+                "Special Attribute": "The feet are strong and well-padded"
+            },
+            "Tail": {
+                "Color": "fluffy",
+                "Shape": "plume",
+                "Quantity": "1",
+                "Special Attribute": "The tail is carried over the back in a curl"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Caretta caretta": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two large eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "It has a hard shell covering the body"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "flippers",
+                "Quantity": "4",
+                "Special Attribute": "They are adapted for swimming"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and tapered",
+                "Quantity": "1",
+                "Special Attribute": "It helps with steering and propulsion in water"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Foot is/next/to Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Soft-coated Wheaten Terrier": {
+            "Head": {
+                "Color": "light brown",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two floppy ears on top of the head"
+            },
+            "Body": {
+                "Color": "wheat",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "The body is covered in soft;wavy fur"
+            },
+            "Foot": {
+                "Color": "light brown",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has four toes and paw pads"
+            },
+            "Tail": {
+                "Color": "wheat",
+                "Shape": "curled",
+                "Quantity": "1",
+                "Special Attribute": "The tail is long and fluffy"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Ursus arctos": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two small ears on top of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "bulky",
+                "Quantity": "1",
+                "Special Attribute": "Covered with thick fur"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and communication"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Camelus dromedarius": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two large eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "tan",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered with thick fur"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "rectangular",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has a tough hoof"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and thin",
+                "Quantity": "1",
+                "Special Attribute": "Used for swatting flies"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Pongo pygmaeus": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two large eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "black",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered with thick fur"
+            },
+            "Hand": {
+                "Color": "brown",
+                "Shape": "long and slender",
+                "Quantity": "2",
+                "Special Attribute": "Each hand has opposable thumbs"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "wide and flat",
+                "Quantity": "2",
+                "Special Attribute": "Used for grasping branches while climbing"
+            },
+            "Tail": {
+                "Color": "black",
+                "Shape": "long and curved",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance while moving through trees"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Hand is/next/to Body",
+            "Hand is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Military Plane": {
+            "Head": {
+                "Color": "gray",
+                "Shape": "streamline",
+                "Quantity": "1",
+                "Special Attribute": "There is a cockpit at the front of the head"
+            },
+            "Body": {
+                "Color": "gray",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Wing": {
+                "Color": "gray",
+                "Shape": "wide and elongated",
+                "Quantity": "2",
+                "Special Attribute": "There are jet engines attached to the wings"
+            },
+            "Engine": {
+                "Color": "silver",
+                "Shape": "circular",
+                "Quantity": "2",
+                "Special Attribute": "Provides propulsion for the plane"
+            },
+            "Tail": {
+                "Color": "gray",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There is a vertical stabilizer at the end of the tail"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body",
+            "Wing is/next/to Body",
+            "Wing is/side/of Body",
+            "Engine is/attached/to Wing",
+            "Engine is/next/to Wing",
+            "Tail is/behind/of Body",
+            "Tail is/attached/to Body"
+        ]
+    },
+    {
+        "Chlamydosaurus kingi": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are large eyes on the sides of the head"
+            },
+            "Body": {
+                "Color": "green",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered in scales"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "clawed",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws for climbing"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and whip-like",
+                "Quantity": "1",
+                "Special Attribute": "Can be raised and curled over the body for defense"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Triturus vulgaris": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two bulging eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "green",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "The body is covered in smooth skin"
+            },
+            "Foot": {
+                "Color": "orange",
+                "Shape": "webbed",
+                "Quantity": "4",
+                "Special Attribute": "The feet are adapted for swimming"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "The tail is used for propulsion in water"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Box Tortoise": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two small eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "dome-shaped",
+                "Quantity": "1",
+                "Special Attribute": "It has a hard shell on its back"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "round",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "The tail is used for balance and communication"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Rana catesbeiana": {
+            "Head": {
+                "Color": "green",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two bulging eyes on top of the head"
+            },
+            "Body": {
+                "Color": "green",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "It has a slimy texture"
+            },
+            "Foot": {
+                "Color": "green",
+                "Shape": "webbed",
+                "Quantity": "4",
+                "Special Attribute": "The feet are adapted for swimming"
+            },
+            "Tail": {
+                "Color": "green",
+                "Shape": "long and tapering",
+                "Quantity": "1",
+                "Special Attribute": "It helps in propulsion while swimming"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Foot is/next/to Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Panthera tigris": {
+            "Head": {
+                "Color": "orange",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two sharp ears on top of the head"
+            },
+            "Body": {
+                "Color": "orange;black;white",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered with stripes"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "paw",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws"
+            },
+            "Tail": {
+                "Color": "orange;black",
+                "Shape": "long and slender",
+                "Quantity": "1",
+                "Special Attribute": "Has black stripes"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Crotalus adamanteus": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two large venomous fangs in the front of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered in scales"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body"
+        ]
+    },
+    {
+        "Saimiri sciureus": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two large eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "gray",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Hand": {
+                "Color": "brown",
+                "Shape": "curved",
+                "Quantity": "2",
+                "Special Attribute": "There are five fingers on each hand"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "flat",
+                "Quantity": "2",
+                "Special Attribute": "There are five toes on each foot"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and thin",
+                "Quantity": "1",
+                "Special Attribute": "The tail is longer than the body"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Hand is/next/to Body",
+            "Hand is/side/of Body",
+            "Foot is/next/to Body",
+            "Foot is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Cerastes cornutus": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two horns on top of the head"
+            },
+            "Body": {
+                "Color": "sandy brown",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered in scales"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body"
+        ]
+    },
+    {
+        "Lacerta viridis": {
+            "Head": {
+                "Color": "green",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two round eyes on the head"
+            },
+            "Body": {
+                "Color": "green",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered with scales"
+            },
+            "Foot": {
+                "Color": "green",
+                "Shape": "clawed",
+                "Quantity": "4",
+                "Special Attribute": "Used for climbing and gripping"
+            },
+            "Tail": {
+                "Color": "green",
+                "Shape": "long and tapering",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and communication"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Black Maria": {
+            "Body": {
+                "Color": "black",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "It has four doors"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "They are made of rubber"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "They are adjustable"
+            }
+        },
+        "Relationship": [
+            "Tier is/next/to Body",
+            "Side Mirror is/attached/to Body"
+        ]
+    },
+    {
+        "Bee Eater": {
+            "Head": {
+                "Color": "green",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There is a long;curved beak in front of the head"
+            },
+            "Body": {
+                "Color": "blue;orange",
+                "Shape": "slender",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Wing": {
+                "Color": "green;blue",
+                "Shape": "long and pointed",
+                "Quantity": "2",
+                "Special Attribute": "None"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "claw-like",
+                "Quantity": "2",
+                "Special Attribute": "There are sharp claws at the end of each foot"
+            },
+            "Tail": {
+                "Color": "blue;orange",
+                "Shape": "long and pointed",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            }
+        },
+        "Relationship": [
+            "Head is in front of Body",
+            "Wing is/next/to Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Gazelle Hound": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "There are two pointy ears on top of the head"
+            },
+            "Body": {
+                "Color": "tan",
+                "Shape": "slender",
+                "Quantity": "1",
+                "Special Attribute": "There is a long neck connecting the head and body"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "slender and cylindrical",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and bushy",
+                "Quantity": "1",
+                "Special Attribute": "The tail is curved upwards"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Gazelle": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two large;curved horns on top of the head"
+            },
+            "Body": {
+                "Color": "tan",
+                "Shape": "slender",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "hoof",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has a sharp dewclaw"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and bushy",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Ascaphus trui": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two large eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "dark brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "The body is covered in moist skin"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "webbed",
+                "Quantity": "4",
+                "Special Attribute": "The feet are adapted for swimming"
+            },
+            "Tail": {
+                "Color": "dark brown",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "The tail is used for propulsion in water"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is side of Body",
+            "Tail is/behind/of of Body"
+        ]
+    },
+    {
+        "Galeocerdo cuvieri": {
+            "Head": {
+                "Color": "gray",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are sharp teeth inside the mouth"
+            },
+            "Body": {
+                "Color": "gray",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered in rough skin"
+            },
+            "Fin": {
+                "Color": "gray",
+                "Shape": "triangular",
+                "Quantity": "2",
+                "Special Attribute": "Used for stability and maneuvering"
+            },
+            "Tail": {
+                "Color": "gray",
+                "Shape": "crescent",
+                "Quantity": "1",
+                "Special Attribute": "Provides propulsion"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Fin is/next/to Body",
+            "Fin is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Colobus Monkey": {
+            "Head": {
+                "Color": "black",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There is a white fur patch on the face"
+            },
+            "Body": {
+                "Color": "black;white",
+                "Shape": "slender",
+                "Quantity": "1",
+                "Special Attribute": "Long and agile body"
+            },
+            "Hand": {
+                "Color": "black",
+                "Shape": "long and slender",
+                "Quantity": "2",
+                "Special Attribute": "Opposable thumbs"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "long and narrow",
+                "Quantity": "2",
+                "Special Attribute": "Strong grasping ability"
+            },
+            "Tail": {
+                "Color": "black",
+                "Shape": "long and bushy",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and communication"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Hand is/next/to Body",
+            "Hand is/next/to Foot",
+            "Foot is/next/to Body",
+            "Foot is/next/to Hand",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Canis lupus": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two pointy ears on top of the head"
+            },
+            "Body": {
+                "Color": "gray",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered in thick fur"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Adapted for running and gripping"
+            },
+            "Tail": {
+                "Color": "bushy",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and communication"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Chrysanthemum Dog": {
+            "Head": {
+                "Color": "yellow",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two big eyes on the head"
+            },
+            "Body": {
+                "Color": "white",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered with chrysanthemum-like patterns"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws"
+            },
+            "Tail": {
+                "Color": "white",
+                "Shape": "fluffy",
+                "Quantity": "1",
+                "Special Attribute": "Long and bushy tail"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Tractor": {
+            "Body": {
+                "Color": "green",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "There is a driver's seat on top of the body"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "Each tier has a tread pattern for better traction"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "The side mirrors are adjustable for better visibility"
+            }
+        },
+        "Relationship": [
+            "Tier is/underneath/of Body",
+            "Side Mirror is/attached/to Body",
+            "Side Mirror is/next/to Body"
+        ]
+    },
+    {
+        "Crotalus cerastes": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two venomous fangs at the front of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered in scales"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body"
+        ]
+    },
+    {
+        "Tandem": {
+            "Head": {
+                "Color": "black",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There is a handlebar attached to the head"
+            },
+            "Body": {
+                "Color": "silver",
+                "Shape": "streamline",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Seat": {
+                "Color": "black",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "There are two seats attached to the body"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "2",
+                "Special Attribute": "There are two tiers attached to the body"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Seat is/next/to Body",
+            "Tier is/next/to Body"
+        ]
+    },
+    {
+        "Goose": {
+            "Head": {
+                "Color": "white",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There is a black beak in front of the head"
+            },
+            "Body": {
+                "Color": "white",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Wing": {
+                "Color": "gray",
+                "Shape": "wide and pointed",
+                "Quantity": "2",
+                "Special Attribute": "None"
+            },
+            "Foot": {
+                "Color": "orange",
+                "Shape": "webbed",
+                "Quantity": "2",
+                "Special Attribute": "There are claws at the end of each foot"
+            },
+            "Tail": {
+                "Color": "white",
+                "Shape": "long and tapered",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Wing is/next/to Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Beer Bottle": {
+            "Body": {
+                "Color": "brown",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "The body is made of glass"
+            },
+            "Mouth": {
+                "Color": "silver",
+                "Shape": "circular",
+                "Quantity": "1",
+                "Special Attribute": "The mouth has a screw cap"
+            }
+        },
+        "Relationship": [
+            "Mouth is/on/top/of Body",
+            "Mouth is/adjacent/to Body"
+        ]
+    },
+    {
+        "Sand Viper": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two venomous fangs in the front of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered in scales"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body"
+        ]
+    },
+    {
+        "Haliaeetus leucocephalus": {
+            "Head": {
+                "Color": "white",
+                "Shape": "rounded",
+                "Quantity": "1",
+                "Special Attribute": "There is a sharp yellow beak in front of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "streamlined",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Wing": {
+                "Color": "brown",
+                "Shape": "wide and elongated",
+                "Quantity": "2",
+                "Special Attribute": "Used for flying"
+            },
+            "Foot": {
+                "Color": "yellow",
+                "Shape": "curved and clawed",
+                "Quantity": "2",
+                "Special Attribute": "Used for perching and grasping prey"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and fan-shaped",
+                "Quantity": "1",
+                "Special Attribute": "Used for steering during flight"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Wing is/next/to Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Snowplough": {
+            "Body": {
+                "Color": "yellow",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "It has a large metal plate at the front for pushing snow"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "They are made of rubber for better traction"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "They provide visibility to the sides of the snowplough"
+            }
+        },
+        "Relationship": [
+            "Tier is/up/to Body",
+            "Tier is/next/to Body",
+            "Side Mirror is/next/to Body",
+            "Side Mirror is/side/of Body"
+        ]
+    },
+    {
+        "Alopex lagopus": {
+            "Head": {
+                "Color": "white",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two pointy ears on top of the head"
+            },
+            "Body": {
+                "Color": "white",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered with thick fur"
+            },
+            "Foot": {
+                "Color": "white",
+                "Shape": "oval",
+                "Quantity": "4",
+                "Special Attribute": "Equipped with sharp claws"
+            },
+            "Tail": {
+                "Color": "white",
+                "Shape": "bushy",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and warmth"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Marmoset": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "Large eyes"
+            },
+            "Body": {
+                "Color": "gray",
+                "Shape": "slender",
+                "Quantity": "1",
+                "Special Attribute": "Furry"
+            },
+            "Hand": {
+                "Color": "brown",
+                "Shape": "long and slender",
+                "Quantity": "2",
+                "Special Attribute": "Opposable thumbs"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "small and clawed",
+                "Quantity": "2",
+                "Special Attribute": "Grasping ability"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and furry",
+                "Quantity": "1",
+                "Special Attribute": "Prehensile"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Hand is/next/to Body",
+            "Hand is/side/of Body",
+            "Foot is/next/to Body",
+            "Foot is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Mustela putorius": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two small round ears on top of the head"
+            },
+            "Body": {
+                "Color": "dark brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered in thick fur"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Sharp claws for climbing and digging"
+            },
+            "Tail": {
+                "Color": "black",
+                "Shape": "long and bushy",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and communication"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "School Bus": {
+            "Body": {
+                "Color": "yellow",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "It has windows all around"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "They are made of rubber"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "They are adjustable"
+            }
+        },
+        "Relationship": [
+            "Tier is/next/to Body",
+            "Side Mirror is/attached/to Body"
+        ]
+    },
+    {
+        "Carassius auratus": {
+            "Head": {
+                "Color": "orange",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two eyes on both sides of the head"
+            },
+            "Body": {
+                "Color": "gold",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered with scales"
+            },
+            "Fin": {
+                "Color": "orange",
+                "Shape": "triangular",
+                "Quantity": "4",
+                "Special Attribute": "Used for swimming and stability"
+            },
+            "Tail": {
+                "Color": "orange",
+                "Shape": "fan-shaped",
+                "Quantity": "1",
+                "Special Attribute": "Helps in steering and propulsion"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Fin is/next/to Body",
+            "Fin is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Boston terrier": {
+            "Head": {
+                "Color": "black;white",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two small ears on top of the head"
+            },
+            "Body": {
+                "Color": "black;white",
+                "Shape": "compact",
+                "Quantity": "1",
+                "Special Attribute": "The body is muscular and well-proportioned"
+            },
+            "Foot": {
+                "Color": "black;white",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has small;round toes"
+            },
+            "Tail": {
+                "Color": "black;white",
+                "Shape": "straight",
+                "Quantity": "1",
+                "Special Attribute": "The tail is short and tapers towards the end"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Vine Snake": {
+            "Head": {
+                "Color": "green",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two large eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "green",
+                "Shape": "long and slender",
+                "Quantity": "1",
+                "Special Attribute": "The body is flexible and can coil around branches"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body"
+        ]
+    },
+    {
+        "Water Bottle": {
+            "Body": {
+                "Color": "transparent",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Made of plastic"
+            },
+            "Mouth": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "1",
+                "Special Attribute": "Has a screw-on cap"
+            }
+        },
+        "Relationship": [
+            "Mouth is/up/to Body",
+            "Mouth is/next/to Body"
+        ]
+    },
+    {
+        "Kingsnake": {
+            "Head": {
+                "Color": "black",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two small eyes on top of the head"
+            },
+            "Body": {
+                "Color": "black;yellow",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "There are distinct yellow bands along the body"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body"
+        ]
+    },
+    {
+        "Schooner": {
+            "Body": {
+                "Color": "brown",
+                "Shape": "long and curved",
+                "Quantity": "1",
+                "Special Attribute": "Made of wood"
+            },
+            "Sail": {
+                "Color": "white",
+                "Shape": "triangular",
+                "Quantity": "2",
+                "Special Attribute": "Made of canvas"
+            }
+        },
+        "Relationship": [
+            "Sail is/up/to Body",
+            "Sail is/next/to Body"
+        ]
+    },
+    {
+        "Crocodylus niloticus": {
+            "Head": {
+                "Color": "dark brown",
+                "Shape": "long and narrow",
+                "Quantity": "1",
+                "Special Attribute": "There are sharp teeth in the mouth"
+            },
+            "Body": {
+                "Color": "dark green",
+                "Shape": "elongated and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered in rough scales"
+            },
+            "Foot": {
+                "Color": "gray",
+                "Shape": "webbed",
+                "Quantity": "4",
+                "Special Attribute": "Used for swimming and walking on land"
+            },
+            "Tail": {
+                "Color": "dark brown",
+                "Shape": "long and tapering",
+                "Quantity": "1",
+                "Special Attribute": "Helps with swimming and acts as a weapon"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Golf Cart": {
+            "Body": {
+                "Color": "white",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "It has a roof"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "They are made of rubber"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "They are adjustable"
+            }
+        },
+        "Relationship": [
+            "Tier is/under/of Body",
+            "Side Mirror is/attached/to Body"
+        ]
+    },
+    {
+        "Acinonyx jubatus": {
+            "Head": {
+                "Color": "tan",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two black tear stripes running from the inner corner of each eye down to the sides of the mouth"
+            },
+            "Body": {
+                "Color": "yellowish-tan",
+                "Shape": "slender",
+                "Quantity": "1",
+                "Special Attribute": "Covered in spots"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Adapted for high speed and traction"
+            },
+            "Tail": {
+                "Color": "white",
+                "Shape": "long and slender",
+                "Quantity": "1",
+                "Special Attribute": "Has a black tip"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Waggon": {
+            "Body": {
+                "Color": "red",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "It has a cargo space at the back"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "They are made of rubber"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "They provide a wider view of the surroundings"
+            }
+        },
+        "Relationship": [
+            "Tier is/next/to Body",
+            "Side Mirror is/attached/to Body"
+        ]
+    },
+    {
+        "Terrapin": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two small eyes on top of the head"
+            },
+            "Body": {
+                "Color": "green",
+                "Shape": "dome-shaped",
+                "Quantity": "1",
+                "Special Attribute": "The body is covered with a hard shell"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "webbed",
+                "Quantity": "4",
+                "Special Attribute": "The feet are adapted for swimming"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and tapering",
+                "Quantity": "1",
+                "Special Attribute": "The tail helps with balance and steering in water"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Cairn Terrier": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two small;pointy ears on top of the head"
+            },
+            "Body": {
+                "Color": "sandy",
+                "Shape": "compact",
+                "Quantity": "1",
+                "Special Attribute": "The body is covered in a shaggy;weather-resistant coat"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has strong;sturdy claws for digging"
+            },
+            "Tail": {
+                "Color": "sandy",
+                "Shape": "curled",
+                "Quantity": "1",
+                "Special Attribute": "The tail is carried high and is covered in wiry hair"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Ateles geoffroyi": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two large eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "black",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Hand": {
+                "Color": "brown",
+                "Shape": "curved",
+                "Quantity": "2",
+                "Special Attribute": "There are five fingers on each hand"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "flat",
+                "Quantity": "2",
+                "Special Attribute": "There are five toes on each foot"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and thin",
+                "Quantity": "1",
+                "Special Attribute": "The tail is prehensile and used for grasping branches"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Hand is/next/to Body",
+            "Hand is/side/of Body",
+            "Foot is/next/to Body",
+            "Foot is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Dowitcher": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There is a long;thin beak in front of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Wing": {
+                "Color": "gray",
+                "Shape": "long and pointed",
+                "Quantity": "2",
+                "Special Attribute": "None"
+            },
+            "Foot": {
+                "Color": "gray",
+                "Shape": "webbed",
+                "Quantity": "2",
+                "Special Attribute": "There are long legs attached to the feet"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "fan-shaped",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            }
+        },
+        "Relationship": [
+            "Head is in front of Body",
+            "Wing is/next/to Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Euarctos americanus": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two small ears on top of the head"
+            },
+            "Body": {
+                "Color": "black",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered with thick fur"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and bushy",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and communication"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Brittany spaniel": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are long;droopy ears on the sides of the head"
+            },
+            "Body": {
+                "Color": "white;brown",
+                "Shape": "compact",
+                "Quantity": "1",
+                "Special Attribute": "The body is muscular and well-proportioned"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has strong and sturdy claws"
+            },
+            "Tail": {
+                "Color": "brown;white",
+                "Shape": "feathery",
+                "Quantity": "1",
+                "Special Attribute": "The tail is long and held high"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Taxicab": {
+            "Body": {
+                "Color": "yellow",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "There is a taxi sign on the roof"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "Each tier has a rubber tire"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "They are adjustable"
+            }
+        },
+        "Relationship": [
+            "Side Mirror is/next/to Body",
+            "Tier is/under/of Body",
+            "Tier is/next/to Body"
+        ]
+    },
+    {
+        "St Bernard": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two floppy ears on top of the head"
+            },
+            "Body": {
+                "Color": "white",
+                "Shape": "large and muscular",
+                "Quantity": "1",
+                "Special Attribute": "There is a thick fur coat covering the body"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "There are large and strong paws at the end of each foot"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and bushy",
+                "Quantity": "1",
+                "Special Attribute": "The tail is wagging happily"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Foot is at the end of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Pirate Ship": {
+            "Body": {
+                "Color": "brown",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "It has a skull and crossbones flag on top"
+            },
+            "Sail": {
+                "Color": "black",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "It has a Jolly Roger symbol"
+            }
+        },
+        "Relationship": [
+            "Sail is/up/to Body",
+            "Sail is/next/to Body"
+        ]
+    },
+    {
+        "Sciurus niger": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two round ears on top of the head"
+            },
+            "Body": {
+                "Color": "gray",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "The body is covered in fur"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws"
+            },
+            "Tail": {
+                "Color": "bushy brown",
+                "Shape": "long and slender",
+                "Quantity": "1",
+                "Special Attribute": "The tail is used for balance and communication"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Minibus": {
+            "Body": {
+                "Color": "white",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "There are windows on the sides of the body"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "They are made of rubber"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "They are adjustable"
+            }
+        },
+        "Relationship": [
+            "Side Mirror is/next/to Body",
+            "Tier is/under/of Body"
+        ]
+    },
+    {
+        "Capra ibex": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two curved horns on top of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "Covered with thick fur"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "hoof-like",
+                "Quantity": "4",
+                "Special Attribute": "Adapted for climbing steep terrain"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "tufted",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance while climbing"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Tinca tinca": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "olive green",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered with scales"
+            },
+            "Fin": {
+                "Color": "gray",
+                "Shape": "triangular",
+                "Quantity": "4",
+                "Special Attribute": "Used for swimming and stability"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "forked",
+                "Quantity": "1",
+                "Special Attribute": "Used for propulsion"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Fin is/next/to Body",
+            "Fin is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Husky": {
+            "Head": {
+                "Color": "white;gray",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two pointy ears on top of the head"
+            },
+            "Body": {
+                "Color": "gray;black;white",
+                "Shape": "muscular",
+                "Quantity": "1",
+                "Special Attribute": "The body is covered in thick fur"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws"
+            },
+            "Tail": {
+                "Color": "black;white",
+                "Shape": "bushy",
+                "Quantity": "1",
+                "Special Attribute": "The tail curls upwards"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Weasel": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two small ears on top of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "The tail is bushy"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Thalarctos maritimus": {
+            "Head": {
+                "Color": "white",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two small ears on top of the head"
+            },
+            "Body": {
+                "Color": "white",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Thick fur covering the body"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Sharp claws at the end of each foot"
+            },
+            "Tail": {
+                "Color": "white",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Flexible and used for swimming"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Chamaeleo chamaeleon": {
+            "Head": {
+                "Color": "green",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "Elongated snout"
+            },
+            "Body": {
+                "Color": "green;brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered in scales"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "clawed",
+                "Quantity": "4",
+                "Special Attribute": "Prehensile tail"
+            },
+            "Tail": {
+                "Color": "green;brown",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Ability to change color"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Badger": {
+            "Head": {
+                "Color": "black",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two small ears on top of the head"
+            },
+            "Body": {
+                "Color": "gray",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered in thick fur"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "oval",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws"
+            },
+            "Tail": {
+                "Color": "black",
+                "Shape": "long and bushy",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and communication"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Velocipede": {
+            "Head": {
+                "Color": "black",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There is a handlebar attached to the front of the head"
+            },
+            "Body": {
+                "Color": "silver",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Seat": {
+                "Color": "brown",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "There is a cushion on top of the seat"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "2",
+                "Special Attribute": "There is a rubber grip on the surface of each tier"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body",
+            "Seat is/next/to Body",
+            "Tier is/next/to Body",
+            "Tier is/side/of Body"
+        ]
+    },
+    {
+        "Globefish": {
+            "Head": {
+                "Color": "yellow",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are large eyes on both sides of the head"
+            },
+            "Body": {
+                "Color": "gray",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "Covered with spiky scales"
+            },
+            "Fin": {
+                "Color": "gray",
+                "Shape": "triangular",
+                "Quantity": "2",
+                "Special Attribute": "Used for stability and maneuvering"
+            },
+            "Tail": {
+                "Color": "gray",
+                "Shape": "fan-shaped",
+                "Quantity": "1",
+                "Special Attribute": "Helps in propulsion and steering"
+            }
+        },
+        "Relationship": [
+            "Head is/next/to Body",
+            "Fin is on the side of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Heloderma suspectum": {
+            "Head": {
+                "Color": "black",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "It has venomous glands on its lower jaw"
+            },
+            "Body": {
+                "Color": "black;brown",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered in rough;bumpy scales"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "clawed",
+                "Quantity": "4",
+                "Special Attribute": "Strong and adapted for digging"
+            },
+            "Tail": {
+                "Color": "black;brown",
+                "Shape": "thick and tapering",
+                "Quantity": "1",
+                "Special Attribute": "Used for storing fat reserves"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Egretta albus": {
+            "Head": {
+                "Color": "white",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "There is a long;pointed beak in front of the head"
+            },
+            "Body": {
+                "Color": "white",
+                "Shape": "slender",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Wing": {
+                "Color": "white",
+                "Shape": "long and broad",
+                "Quantity": "2",
+                "Special Attribute": "None"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "long and slender",
+                "Quantity": "2",
+                "Special Attribute": "There are webbed toes at the end of each foot"
+            },
+            "Tail": {
+                "Color": "white",
+                "Shape": "long and thin",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            }
+        },
+        "Relationship": [
+            "Head is in front of Body",
+            "Wing is/next/to Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Carphophis amoenus": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two small eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "black",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "The body is elongated and slender"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body"
+        ]
+    },
+    {
+        "Agama": {
+            "Head": {
+                "Color": "red",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two large eyes on the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "The body is covered in scales"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "claw-like",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws"
+            },
+            "Tail": {
+                "Color": "green",
+                "Shape": "long and slender",
+                "Quantity": "1",
+                "Special Attribute": "The tail is used for balance and communication"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Moped": {
+            "Head": {
+                "Color": "black",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two headlights at the front of the head"
+            },
+            "Body": {
+                "Color": "red",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Seat": {
+                "Color": "black",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "It is padded for comfort"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "2",
+                "Special Attribute": "They are made of rubber for better grip"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body",
+            "Seat is/next/to Body",
+            "Tier is/next/to Body"
+        ]
+    },
+    {
+        "Oncorhynchus kisutch": {
+            "Head": {
+                "Color": "silver",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There is a sharp snout in front of the head"
+            },
+            "Body": {
+                "Color": "silver",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Fin": {
+                "Color": "gray",
+                "Shape": "triangular",
+                "Quantity": "4",
+                "Special Attribute": "Used for stability and maneuvering"
+            },
+            "Tail": {
+                "Color": "silver",
+                "Shape": "forked",
+                "Quantity": "1",
+                "Special Attribute": "Used for propulsion"
+            }
+        },
+        "Relationship": [
+            "Head is in front of Body",
+            "Fin is/next/to Body",
+            "Fin is on the side of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Ailuropoda melanoleuca": {
+            "Head": {
+                "Color": "black",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two small round ears on top of the head"
+            },
+            "Body": {
+                "Color": "black;white",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered with thick fur"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has five sharp claws"
+            },
+            "Tail": {
+                "Color": "black;white",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance while climbing trees"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Go-Kart": {
+            "Body": {
+                "Color": "red",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "It has a sleek design"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "They are made of durable rubber"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "oval",
+                "Quantity": "2",
+                "Special Attribute": "They provide a wide view of the surroundings"
+            }
+        },
+        "Relationship": [
+            "Body is/up/to Tier",
+            "Body is/next/to Tier",
+            "Side Mirror is/next/to Body",
+            "Side Mirror is/side/of Body"
+        ]
+    },
+    {
+        "Python sebae": {
+            "Head": {
+                "Color": "black",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "It has two large eyes on the front"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "It has a pattern of dark patches along its length"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body"
+        ]
+    },
+    {
+        "Off-roader": {
+            "Head": {
+                "Color": "black",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two headlights on the front of the head"
+            },
+            "Body": {
+                "Color": "red",
+                "Shape": "boxy",
+                "Quantity": "1",
+                "Special Attribute": "It has a rugged and sturdy construction"
+            },
+            "Seat": {
+                "Color": "black",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "There are safety belts attached to the seats"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "They have deep treads for better off-road traction"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body",
+            "Seat is/next/to Body",
+            "Seat is/side/of Body",
+            "Tier is/next/to Body",
+            "Tier is/side/of Body"
+        ]
+    },
+    {
+        "Kite": {
+            "Head": {
+                "Color": "red",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There is a string attached to the head"
+            },
+            "Body": {
+                "Color": "blue",
+                "Shape": "diamond",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Wing": {
+                "Color": "yellow",
+                "Shape": "triangular",
+                "Quantity": "2",
+                "Special Attribute": "None"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "None"
+            },
+            "Tail": {
+                "Color": "green",
+                "Shape": "long and thin",
+                "Quantity": "1",
+                "Special Attribute": "There is a colorful ribbon attached to the tail"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Wing is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Warthog": {
+            "Head": {
+                "Color": "gray",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two sharp tusks protruding from the mouth"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "stocky",
+                "Quantity": "1",
+                "Special Attribute": "Covered in coarse hair"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "hoof-like",
+                "Quantity": "4",
+                "Special Attribute": "Strong and sturdy for digging"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "tufted",
+                "Quantity": "1",
+                "Special Attribute": "Ends with a bushy tuft of hair"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Sport Car": {
+            "Body": {
+                "Color": "red",
+                "Shape": "sleek",
+                "Quantity": "1",
+                "Special Attribute": "Has a spoiler at the back"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "round",
+                "Quantity": "4",
+                "Special Attribute": "Made of high-performance rubber"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "Can be adjusted electronically"
+            }
+        },
+        "Relationship": [
+            "Side Mirror is/next/to Body",
+            "Side Mirror is/side/of Body",
+            "Tier is/up/to Body",
+            "Tier is/next/to Body"
+        ]
+    },
+    {
+        "Panthera pardus": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two sharp ears on top of the head"
+            },
+            "Body": {
+                "Color": "yellow;black",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered with spots"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Sharp claws"
+            },
+            "Tail": {
+                "Color": "yellow;black",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Has a bushy tip"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Ambulance": {
+            "Body": {
+                "Color": "white",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "It has red and blue flashing lights on the top"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "They are made of rubber"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "They are adjustable"
+            }
+        },
+        "Relationship": [
+            "Side Mirror is/next/to Body",
+            "Tier is/under/of Body"
+        ]
+    },
+    {
+        "Monocycle": {
+            "Head": {
+                "Color": "silver",
+                "Shape": "circular",
+                "Quantity": "1",
+                "Special Attribute": "There is a small headlight on the front"
+            },
+            "Body": {
+                "Color": "red",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "It has a storage compartment"
+            },
+            "Seat": {
+                "Color": "black",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "It is adjustable"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "1",
+                "Special Attribute": "It is made of rubber for better grip"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Seat is/next/to Body",
+            "Tier is/below Body"
+        ]
+    },
+    {
+        "Erythrocebus patas": {
+            "Head": {
+                "Color": "red",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two large ears on top of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered with fur"
+            },
+            "Hand": {
+                "Color": "brown",
+                "Shape": "curved",
+                "Quantity": "2",
+                "Special Attribute": "Each hand has five fingers"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "flat",
+                "Quantity": "2",
+                "Special Attribute": "Each foot has five toes"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and thin",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance while climbing"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Hand is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Nasalis larvatus": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "There is a long;protruding nose on the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "slender",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Hand": {
+                "Color": "brown",
+                "Shape": "curved",
+                "Quantity": "2",
+                "Special Attribute": "There are five fingers on each hand"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "flat",
+                "Quantity": "2",
+                "Special Attribute": "There are five toes on each foot"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and thin",
+                "Quantity": "1",
+                "Special Attribute": "The tail is used for balance and communication"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Hand is/next/to Body",
+            "Hand is/side/of Body",
+            "Foot is/next/to Body",
+            "Foot is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Wine Bottle": {
+            "Body": {
+                "Color": "green",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "The body is made of glass"
+            },
+            "Mouth": {
+                "Color": "clear",
+                "Shape": "circular",
+                "Quantity": "1",
+                "Special Attribute": "The mouth has a screw cap"
+            }
+        },
+        "Relationship": [
+            "Mouth is/up/to Body",
+            "Mouth is/next/to Body"
+        ]
+    },
+    {
+        "Redbone": {
+            "Head": {
+                "Color": "red",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two round eyes on the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "There is a white stripe running along the body"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and bushy",
+                "Quantity": "1",
+                "Special Attribute": "The tail is wagging"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Limo": {
+            "Body": {
+                "Color": "black",
+                "Shape": "long and rectangular",
+                "Quantity": "1",
+                "Special Attribute": "Sleek and shiny exterior"
+            },
+            "Tier": {
+                "Color": "silver",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "Rubber material for better grip"
+            },
+            "Side Mirror": {
+                "Color": "chrome",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "Adjustable for better visibility"
+            }
+        },
+        "Relationship": [
+            "Side Mirror is/next/to Body",
+            "Tier is/under/of Body"
+        ]
+    },
+    {
+        "Alligator Lizard": {
+            "Head": {
+                "Color": "green",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are sharp teeth in the mouth"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered in scales"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws"
+            },
+            "Tail": {
+                "Color": "green",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Can be detached and regrown"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Hylobates lar": {
+            "Head": {
+                "Color": "black",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two round eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "black",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered with black fur"
+            },
+            "Hand": {
+                "Color": "black",
+                "Shape": "curved",
+                "Quantity": "2",
+                "Special Attribute": "Each hand has five fingers"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "long and flat",
+                "Quantity": "2",
+                "Special Attribute": "Each foot has five toes"
+            },
+            "Tail": {
+                "Color": "black",
+                "Shape": "long and slender",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance while swinging through trees"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Hand is/next/to Body",
+            "Hand is/next/to Foot",
+            "Foot is/next/to Body",
+            "Foot is/next/to Hand",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Snoek": {
+            "Head": {
+                "Color": "silver",
+                "Shape": "pointed",
+                "Quantity": "1",
+                "Special Attribute": "There are sharp teeth in the mouth"
+            },
+            "Body": {
+                "Color": "green",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered in scales"
+            },
+            "Fin": {
+                "Color": "gray",
+                "Shape": "triangular",
+                "Quantity": "2",
+                "Special Attribute": "Used for stability and maneuvering"
+            },
+            "Tail": {
+                "Color": "gray",
+                "Shape": "forked",
+                "Quantity": "1",
+                "Special Attribute": "Used for propulsion"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Fin is/next/to Body",
+            "Fin is/side/of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Macaque": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two round ears on top of the head"
+            },
+            "Body": {
+                "Color": "gray",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered with fur"
+            },
+            "Hand": {
+                "Color": "brown",
+                "Shape": "curved",
+                "Quantity": "2",
+                "Special Attribute": "Each hand has five fingers"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "Each foot has five toes"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and thin",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance while climbing"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Hand is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Orcinus orca": {
+            "Head": {
+                "Color": "black",
+                "Shape": "rounded",
+                "Quantity": "1",
+                "Special Attribute": "There is a prominent dorsal fin on top of the head"
+            },
+            "Body": {
+                "Color": "black;white",
+                "Shape": "streamlined",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Fin": {
+                "Color": "black;white",
+                "Shape": "triangular",
+                "Quantity": "2",
+                "Special Attribute": "Used for swimming and steering"
+            },
+            "Tail": {
+                "Color": "black;white",
+                "Shape": "fluked",
+                "Quantity": "1",
+                "Special Attribute": "Used for propulsion"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Fin is/next/to Body",
+            "Fin is on the side of Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Mink": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two small ears on top of the head"
+            },
+            "Body": {
+                "Color": "dark brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered in thick fur"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "Each foot has sharp claws"
+            },
+            "Tail": {
+                "Color": "bushy brown",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and swimming"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Hungarian pointer": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two floppy ears on top of the head"
+            },
+            "Body": {
+                "Color": "white;brown",
+                "Shape": "muscular",
+                "Quantity": "1",
+                "Special Attribute": "The body is strong and well-built"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "paw",
+                "Quantity": "4",
+                "Special Attribute": "The feet are sturdy and agile"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "tapered",
+                "Quantity": "1",
+                "Special Attribute": "The tail is long and thin"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Grass Snake": {
+            "Head": {
+                "Color": "green",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are two small eyes on top of the head"
+            },
+            "Body": {
+                "Color": "green",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered with scales"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body"
+        ]
+    },
+    {
+        "Porphyrio porphyrio": {
+            "Head": {
+                "Color": "blue",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There is a red beak in front of the head"
+            },
+            "Body": {
+                "Color": "purple;blue",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Wing": {
+                "Color": "blue;black",
+                "Shape": "wide and pointed",
+                "Quantity": "2",
+                "Special Attribute": "None"
+            },
+            "Foot": {
+                "Color": "yellow",
+                "Shape": "long and slender",
+                "Quantity": "2",
+                "Special Attribute": "There are sharp claws at the end of each foot"
+            },
+            "Tail": {
+                "Color": "blue;black",
+                "Shape": "long and fan-shaped",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            }
+        },
+        "Relationship": [
+            "Head is in front of Body",
+            "Wing is/next/to Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "English springer spaniel": {
+            "Head": {
+                "Color": "brown;white",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are long;droopy ears on the sides of the head"
+            },
+            "Body": {
+                "Color": "black;white",
+                "Shape": "streamlined",
+                "Quantity": "1",
+                "Special Attribute": "The body is medium-sized and muscular"
+            },
+            "Foot": {
+                "Color": "black;white",
+                "Shape": "paw-like",
+                "Quantity": "4",
+                "Special Attribute": "The feet are strong and well-structured for running"
+            },
+            "Tail": {
+                "Color": "black;white",
+                "Shape": "feathery",
+                "Quantity": "1",
+                "Special Attribute": "The tail is long and wagging"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Foot is/below Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Otter": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two small ears on top of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "It is covered in thick fur"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "webbed",
+                "Quantity": "4",
+                "Special Attribute": "They are adapted for swimming"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and tapered",
+                "Quantity": "1",
+                "Special Attribute": "It helps with balance and steering in water"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Howler": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "round",
+                "Quantity": "1",
+                "Special Attribute": "There are two large ears on top of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered in thick fur"
+            },
+            "Hand": {
+                "Color": "brown",
+                "Shape": "paw-like",
+                "Quantity": "2",
+                "Special Attribute": "Each hand has five fingers with sharp claws"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "paw-like",
+                "Quantity": "2",
+                "Special Attribute": "Each foot has five toes with strong gripping ability"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and bushy",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and communication"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Hand is/next/to Body",
+            "Hand is/below Head",
+            "Foot is/next/to Body",
+            "Foot is/below Hand",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Ovis canadensis": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two curved horns on top of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "Covered with thick fur"
+            },
+            "Foot": {
+                "Color": "brown",
+                "Shape": "hoof-like",
+                "Quantity": "4",
+                "Special Attribute": "Adapted for climbing steep terrain"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and communication"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Dustcart": {
+            "Body": {
+                "Color": "gray",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "It has a large storage compartment for collecting trash"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "They are made of rubber for better grip on the road"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "They provide a wider view of the surroundings for the driver"
+            }
+        },
+        "Relationship": [
+            "Tier is/next/to Body",
+            "Side Mirror is/attached/to Body"
+        ]
+    },
+    {
+        "Varanus komodoensis": {
+            "Head": {
+                "Color": "gray",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "There are sharp teeth inside the mouth"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "Covered in rough scales"
+            },
+            "Foot": {
+                "Color": "gray",
+                "Shape": "clawed",
+                "Quantity": "4",
+                "Special Attribute": "Strong and sturdy for walking and climbing"
+            },
+            "Tail": {
+                "Color": "brown",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance and as a weapon"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Scooter": {
+            "Body": {
+                "Color": "red",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "There is a seat on top of the body"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "2",
+                "Special Attribute": "Made of rubber for better grip on the road"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "oval",
+                "Quantity": "2",
+                "Special Attribute": "Allows the rider to see behind"
+            }
+        },
+        "Relationship": [
+            "Side Mirror is/next/to Body",
+            "Tier is/attached/to Body",
+            "Tier is/next/to Body"
+        ]
+    },
+    {
+        "Constrictor constrictor": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two large eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "brown",
+                "Shape": "cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "Covered in smooth scales"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Head is/next/to Body"
+        ]
+    },
+    {
+        "Mud Turtle": {
+            "Head": {
+                "Color": "brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two small eyes on top of the head"
+            },
+            "Body": {
+                "Color": "dark brown",
+                "Shape": "dome-shaped",
+                "Quantity": "1",
+                "Special Attribute": "The body is covered in a hard shell"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "webbed",
+                "Quantity": "4",
+                "Special Attribute": "The feet are adapted for swimming"
+            },
+            "Tail": {
+                "Color": "dark brown",
+                "Shape": "long and cylindrical",
+                "Quantity": "1",
+                "Special Attribute": "The tail is used for propulsion in water"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Foot is/next/to Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Ciconia nigra": {
+            "Head": {
+                "Color": "black",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There is a long;pointed beak in front of the head"
+            },
+            "Body": {
+                "Color": "black;white",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Wing": {
+                "Color": "black",
+                "Shape": "wide and pointed",
+                "Quantity": "2",
+                "Special Attribute": "Used for flying"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "long and slender",
+                "Quantity": "2",
+                "Special Attribute": "Used for walking and perching"
+            },
+            "Tail": {
+                "Color": "black",
+                "Shape": "long and tapered",
+                "Quantity": "1",
+                "Special Attribute": "Used for balance during flight"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Wing is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Trackless Trolley": {
+            "Body": {
+                "Color": "red",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "There are large windows on the sides"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "Made of rubber for a smooth ride"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "Provides visibility for the driver"
+            }
+        },
+        "Relationship": [
+            "Tier is/underneath/of Body",
+            "Side Mirror is/attached/to Body",
+            "Side Mirror is/on/sides/of Body"
+        ]
+    },
+    {
+        "Trimaran": {
+            "Body": {
+                "Color": "white",
+                "Shape": "streamline",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Sail": {
+                "Color": "red;white",
+                "Shape": "triangular",
+                "Quantity": "1",
+                "Special Attribute": "It is/attached/to the mast"
+            }
+        },
+        "Relationship": [
+            "Sail is/up/to Body",
+            "Sail is/next/to Body"
+        ]
+    },
+    {
+        "Convertible": {
+            "Body": {
+                "Color": "red",
+                "Shape": "sleek",
+                "Quantity": "1",
+                "Special Attribute": "It has a retractable roof"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "round",
+                "Quantity": "4",
+                "Special Attribute": "They are made of high-performance rubber"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "They are adjustable"
+            }
+        },
+        "Relationship": [
+            "Body is/up/to Tier",
+            "Body is/next/to Tier",
+            "Side Mirror is/next/to Body",
+            "Side Mirror is/side/of Body"
+        ]
+    },
+    {
+        "Minivan": {
+            "Body": {
+                "Color": "white",
+                "Shape": "rectangular",
+                "Quantity": "1",
+                "Special Attribute": "There are four doors on the body"
+            },
+            "Tier": {
+                "Color": "black",
+                "Shape": "circular",
+                "Quantity": "4",
+                "Special Attribute": "Each tier has a rubber tread for better grip"
+            },
+            "Side Mirror": {
+                "Color": "silver",
+                "Shape": "rectangular",
+                "Quantity": "2",
+                "Special Attribute": "The side mirrors are adjustable"
+            }
+        },
+        "Relationship": [
+            "Side Mirror is/next/to Body",
+            "Side Mirror is/side/of Body",
+            "Tier is/up/to Body",
+            "Tier is/next/to Body"
+        ]
+    },
+    {
+        "Dermochelys coriacea": {
+            "Head": {
+                "Color": "dark brown",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There are two large eyes on the front of the head"
+            },
+            "Body": {
+                "Color": "dark gray",
+                "Shape": "elongated",
+                "Quantity": "1",
+                "Special Attribute": "The body is covered in thick;leathery skin"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "flippers",
+                "Quantity": "4",
+                "Special Attribute": "The feet are adapted for swimming"
+            },
+            "Tail": {
+                "Color": "dark gray",
+                "Shape": "long and tapering",
+                "Quantity": "1",
+                "Special Attribute": "The tail helps with steering and propulsion in water"
+            }
+        },
+        "Relationship": [
+            "Head is/up/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Foot is/next/to Body",
+            "Tail is/behind/of Body"
+        ]
+    },
+    {
+        "Mollymawk": {
+            "Head": {
+                "Color": "white",
+                "Shape": "oval",
+                "Quantity": "1",
+                "Special Attribute": "There is a sharp beak in front of the head"
+            },
+            "Body": {
+                "Color": "black",
+                "Shape": "streamline",
+                "Quantity": "1",
+                "Special Attribute": "None"
+            },
+            "Wing": {
+                "Color": "black",
+                "Shape": "long and narrow",
+                "Quantity": "2",
+                "Special Attribute": "Used for flying"
+            },
+            "Foot": {
+                "Color": "black",
+                "Shape": "webbed",
+                "Quantity": "2",
+                "Special Attribute": "Used for swimming and perching"
+            },
+            "Tail": {
+                "Color": "black",
+                "Shape": "long and pointed",
+                "Quantity": "1",
+                "Special Attribute": "Used for steering during flight"
+            }
+        },
+        "Relationship": [
+            "Head is/on/top/of Body",
+            "Wing is/next/to Body",
+            "Foot is/below Body",
+            "Tail is/behind/of Body"
+        ]
+    }
+]

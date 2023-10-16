@@ -1,0 +1,22 @@
+Panthera pardus/has/brown Color Head
+Panthera pardus/has/oval Shape Head
+Panthera pardus/has/1 Head
+Panthera pardus's Head/has special attribute/There are two sharp ears on top of the head
+Panthera pardus/has/yellow;black Color Body
+Panthera pardus/has/elongated Shape Body
+Panthera pardus/has/1 Body
+Panthera pardus's Body/has special attribute/Covered with spots
+Panthera pardus/has/black Color Foot
+Panthera pardus/has/paw-like Shape Foot
+Panthera pardus/has/4 Foot
+Panthera pardus's Foot/has special attribute/Sharp claws
+Panthera pardus/has/yellow;black Color Tail
+Panthera pardus/has/long and cylindrical Shape Tail
+Panthera pardus/has/1 Tail
+Panthera pardus's Tail/has special attribute/Has a bushy tip
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

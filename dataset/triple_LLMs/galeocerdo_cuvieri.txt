@@ -1,0 +1,20 @@
+Galeocerdo cuvieri/has/gray Color Head
+Galeocerdo cuvieri/has/triangular Shape Head
+Galeocerdo cuvieri/has/1 Head
+Galeocerdo cuvieri's Head/has special attribute/There are sharp teeth inside the mouth
+Galeocerdo cuvieri/has/gray Color Body
+Galeocerdo cuvieri/has/elongated Shape Body
+Galeocerdo cuvieri/has/1 Body
+Galeocerdo cuvieri's Body/has special attribute/Covered in rough skin
+Galeocerdo cuvieri/has/gray Color Fin
+Galeocerdo cuvieri/has/triangular Shape Fin
+Galeocerdo cuvieri/has/2 Fin
+Galeocerdo cuvieri's Fin/has special attribute/Used for stability and maneuvering
+Galeocerdo cuvieri/has/gray Color Tail
+Galeocerdo cuvieri/has/crescent Shape Tail
+Galeocerdo cuvieri/has/1 Tail
+Galeocerdo cuvieri's Tail/has special attribute/Provides propulsion
+Head/is up to/Body
+Fin/is next to/Body
+Fin/is side of/Body
+Tail/is behind of/Body

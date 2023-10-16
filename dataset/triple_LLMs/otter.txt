@@ -1,0 +1,22 @@
+Otter/has/brown Color Head
+Otter/has/oval Shape Head
+Otter/has/1 Head
+Otter's Head/has special attribute/There are two small ears on top of the head
+Otter/has/brown Color Body
+Otter/has/elongated Shape Body
+Otter/has/1 Body
+Otter's Body/has special attribute/It is covered in thick fur
+Otter/has/brown Color Foot
+Otter/has/webbed Shape Foot
+Otter/has/4 Foot
+Otter's Foot/has special attribute/They are adapted for swimming
+Otter/has/brown Color Tail
+Otter/has/long and tapered Shape Tail
+Otter/has/1 Tail
+Otter's Tail/has special attribute/It helps with balance and steering in water
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

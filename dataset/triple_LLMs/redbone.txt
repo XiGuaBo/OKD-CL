@@ -1,0 +1,21 @@
+Redbone/has/red Color Head
+Redbone/has/oval Shape Head
+Redbone/has/1 Head
+Redbone's Head/has special attribute/There are two round eyes on the head
+Redbone/has/brown Color Body
+Redbone/has/long and cylindrical Shape Body
+Redbone/has/1 Body
+Redbone's Body/has special attribute/There is a white stripe running along the body
+Redbone/has/brown Color Foot
+Redbone/has/paw-like Shape Foot
+Redbone/has/4 Foot
+Redbone's Foot/has special attribute/Each foot has sharp claws
+Redbone/has/brown Color Tail
+Redbone/has/long and bushy Shape Tail
+Redbone/has/1 Tail
+Redbone's Tail/has special attribute/The tail is wagging
+Head/is up to/Body
+Head/is next to/Body
+Foot/is next to/Body
+Foot/is side of/Body
+Tail/is behind of/Body

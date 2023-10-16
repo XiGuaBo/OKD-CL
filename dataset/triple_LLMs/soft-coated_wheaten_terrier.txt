@@ -1,0 +1,19 @@
+Soft-coated Wheaten Terrier/has/light brown Color Head
+Soft-coated Wheaten Terrier/has/round Shape Head
+Soft-coated Wheaten Terrier/has/1 Head
+Soft-coated Wheaten Terrier's Head/has special attribute/There are two floppy ears on top of the head
+Soft-coated Wheaten Terrier/has/wheat Color Body
+Soft-coated Wheaten Terrier/has/rectangular Shape Body
+Soft-coated Wheaten Terrier/has/1 Body
+Soft-coated Wheaten Terrier's Body/has special attribute/The body is covered in soft;wavy fur
+Soft-coated Wheaten Terrier/has/light brown Color Foot
+Soft-coated Wheaten Terrier/has/paw-like Shape Foot
+Soft-coated Wheaten Terrier/has/4 Foot
+Soft-coated Wheaten Terrier's Foot/has special attribute/Each foot has four toes and paw pads
+Soft-coated Wheaten Terrier/has/wheat Color Tail
+Soft-coated Wheaten Terrier/has/curled Shape Tail
+Soft-coated Wheaten Terrier/has/1 Tail
+Soft-coated Wheaten Terrier's Tail/has special attribute/The tail is long and fluffy
+Head/is on top of/Body
+Foot/is below Body
+Tail/is behind of/Body

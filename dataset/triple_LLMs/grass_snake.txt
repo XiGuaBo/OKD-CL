@@ -1,0 +1,10 @@
+Grass Snake/has/green Color Head
+Grass Snake/has/triangular Shape Head
+Grass Snake/has/1 Head
+Grass Snake's Head/has special attribute/There are two small eyes on top of the head
+Grass Snake/has/green Color Body
+Grass Snake/has/long and cylindrical Shape Body
+Grass Snake/has/1 Body
+Grass Snake's Body/has special attribute/Covered with scales
+Head/is up to/Body
+Head/is next to/Body

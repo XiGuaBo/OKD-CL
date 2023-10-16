@@ -1,0 +1,15 @@
+Taxicab/has/yellow Color Body
+Taxicab/has/rectangular Shape Body
+Taxicab/has/1 Body
+Taxicab's Body/has special attribute/There is a taxi sign on the roof
+Taxicab/has/black Color Tier
+Taxicab/has/circular Shape Tier
+Taxicab/has/4 Tier
+Taxicab's Tier/has special attribute/Each tier has a rubber tire
+Taxicab/has/silver Color Side Mirror
+Taxicab/has/rectangular Shape Side Mirror
+Taxicab/has/2 Side Mirror
+Taxicab's Mirror/has special attribute/They are adjustable
+Side Mirror/is next to/Body
+Tier/is under of/Body
+Tier/is next to/Body

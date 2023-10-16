@@ -1,0 +1,20 @@
+Anemone Fish/has/orange Color Head
+Anemone Fish/has/oval Shape Head
+Anemone Fish/has/1 Head
+Anemone Fish's Head/has special attribute/There is a small mouth on the front of the head
+Anemone Fish/has/orange;white Color Body
+Anemone Fish/has/elongated Shape Body
+Anemone Fish/has/1 Body
+Anemone Fish's Body/has special attribute/Covered with protective mucus
+Anemone Fish/has/orange;black Color Fin
+Anemone Fish/has/triangular Shape Fin
+Anemone Fish/has/2 Fin
+Anemone Fish's Fin/has special attribute/Used for swimming and maintaining balance
+Anemone Fish/has/orange;white Color Tail
+Anemone Fish/has/fan-shaped Shape Tail
+Anemone Fish/has/1 Tail
+Anemone Fish's Tail/has special attribute/Used for propulsion
+Head/is up to/Body
+Fin/is next to/Body
+Fin/is side of/Body
+Tail/is behind of/Body

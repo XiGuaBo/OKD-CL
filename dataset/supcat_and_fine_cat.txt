@@ -1,0 +1,158 @@
+n02481823:猴子,chimpanzee,chimp,Pan troglodytes
+n02085782:狗,Japanese spaniel
+n02422106:羊,hartebeest
+n01484850:鱼,great white shark,white shark,man-eater,man-eating shark,Carcharodon carcharias
+n01749939:蛇,green mamba
+n02089867:狗,Walker hound,Walker foxhound
+n01728920:蛇,ringneck snake,ring-necked snake,ring snake
+n01740131:蛇,night snake,Hypsiglena torquata
+n02483708:猴子,siamang,Hylobates syndactylus,Symphalangus syndactylus
+n02690373:飞机,airliner
+n02422699:羊,impala,Aepyceros melampus
+n03937543:药丸,pill bottle
+n02408429:牛,water buffalo,water ox,Asiatic buffalo,Bubalus bubalis
+n02101006:狗,Gordon setter
+n03594945:吉普车,jeep,landrover
+n02493509:猴子,titi,titi monkey
+n02403003:牛,ox
+n01843065:鸟,jacamar
+n01698640:鳄鱼,American alligator,Alligator mississipiensis
+n02006656:鸟,spoonbill
+n01644373:青蛙,tree frog,tree-frog
+n01494475:鱼,hammerhead,hammerhead shark
+n02480855:猩猩,gorilla,Gorilla gorilla
+n02009229:鸟,little blue heron,Egretta caerulea
+n02486410:猴子,baboon
+n03983396:瓶子,pop bottle,soda bottle
+n02484975:猴子,guenon,guenon monkey
+n02124075:猫,Egyptian cat
+n01685808:蜥蜴,whiptail,whiptail lizard
+n04065272:房车,recreational vehicle,RV,R.V.
+n02025239:鸟,ruddy turnstone,Arenaria interpres
+n01748264:蛇,Indian cobra,Naja naja
+n02092339:狗,Weimaraner
+n01735189:蛇,garter snake,grass snake
+n02607072:鱼,anemone fish
+n04612504:帆船,yawl
+n02134418:熊,sloth bear,Melursus ursinus,Ursus ursinus
+n02492035:猴子,capuchin,ringtail,Cebus capucinus
+n02102973:狗,Irish water spaniel
+n01824575:鸟,coucal
+n01632458:壁虎,spotted salamander,Ambystoma maculatum
+n02125311:猫,cougar,puma,catamount,mountain lion,painter,panther,Felis concolor
+n04037443:赛车,racer,race car,racing car
+n02099601:狗,golden retriever
+n02412080:羊,ram,tup
+n02112137:狗,chow,chow chow
+n01664065:龟,loggerhead,loggerhead turtle,Caretta caretta
+n02098105:狗,soft-coated wheaten terrier
+n02132136:熊,brown bear,bruin,Ursus arctos
+n02437312:骆驼,Arabian camel,dromedary,Camelus dromedarius
+n02480495:狒狒,orangutan,orang,orangutang,Pongo pygmaeus
+n04552348:飞机,warplane,military plane
+n01688243:蜥蜴,frilled lizard,Chlamydosaurus kingi
+n01630670:壁虎,common newt,Triturus vulgaris
+n01669191:龟,box turtle,box tortoise
+n01641577:蛤蟆,bullfrog,Rana catesbeiana
+n02129604:老虎,tiger,Panthera tigris
+n01755581:蛇,diamondback,diamondback rattlesnake,Crotalus adamanteus
+n02494079:猴子,squirrel monkey,Saimiri sciureus
+n01753488:蛇,horned viper,cerastes,sand viper,horned asp,Cerastes cornutus
+n01693334:蜥蜴,green lizard,Lacerta viridis
+n03977966:警车,police van,police wagon,paddy wagon,patrol wagon,wagon,black Maria
+n01828970:鸟,bee eater
+n02091831:狗,Saluki,gazelle hound
+n02423022:羊,gazelle
+n01644900:青蛙,tailed frog,bell toad,ribbed toad,tailed toad,Ascaphus trui
+n01491361:鱼,tiger shark,Galeocerdo cuvieri
+n02488702:猴子,colobus,colobus monkey
+n02114367:狼,timber wolf,grey wolf,gray wolf,Canis lupus
+n02097474:狗,Tibetan terrier,chrysanthemum dog
+n04465501:拖拉机,tractor
+n01756291:蛇,sidewinder,horned rattlesnake,Crotalus cerastes
+n02835271:双人自行车,bicycle-built-for-two,tandem bicycle,tandem
+n01855672:鹅,goose
+n02823428:啤酒,beer bottle
+n01729322:蛇,hognose snake,puff adder,sand viper
+n01614925:鹰,bald eagle,American eagle,Haliaeetus leucocephalus
+n04252225:铲雪车,snowplow,snowplough
+n02120079:狐狸,Arctic fox,white fox,Alopex lagopus
+n02490219:猴子,marmoset
+n02443114:狸,polecat,fitch,foulmart,foumart,Mustela putorius
+n04146614:校车,school bus
+n01443537:鱼,goldfish,Carassius auratus
+n02096585:狗,Boston bull,Boston terrier
+n01739381:蛇,vine snake
+n04557648:水瓶,water bottle
+n01734418:蛇,king snake,kingsnake
+n04147183:帆船,schooner
+n01697457:鳄鱼,African crocodile,Nile crocodile,Crocodylus niloticus
+n03445924:高尔夫车,golfcart,golf cart
+n02130308:豹,cheetah,chetah,Acinonyx jubatus
+n02814533:轿车,beach wagon,station wagon,wagon,estate car,beach waggon,station waggon,waggon
+n01667778:龟,terrapin
+n02096177:狗,cairn,cairn terrier
+n02493793:猴子,spider monkey,Ateles geoffroyi
+n02033041:鸟,dowitcher
+n02133161:熊,American black bear,black bear,Ursus americanus,Euarctos americanus
+n02101388:狗,Brittany spaniel
+n02930766:出租车,cab,hack,taxi,taxicab
+n02109525:狗,Saint Bernard,St Bernard
+n03947888:帆船,pirate,pirate ship
+n02356798:松鼠,fox squirrel,eastern fox squirrel,Sciurus niger
+n03769881:小客车,minibus
+n02417914:羊,ibex,Capra ibex
+n01440764:鱼,tench,Tinca tinca
+n02109961:狗,Eskimo dog,husky
+n02441942:狸,weasel
+n02134084:熊,ice bear,polar bear,Ursus Maritimus,Thalarctos maritimus
+n01694178:蜥蜴,African chameleon,Chamaeleo chamaeleon
+n02447366:狸,badger
+n04482393:儿童自行车,tricycle,trike,velocipede
+n02655020:鱼,puffer,pufferfish,blowfish,globefish
+n01692333:蜥蜴,Gila monster,Heloderma suspectum
+n02009912:鸟,American egret,great white heron,Egretta albus
+n01728572:蛇,thunder snake,worm snake,Carphophis amoenus
+n01687978:蜥蜴,agama
+n03785016:摩托车,moped
+n02536864:鱼,coho,cohoe,coho salmon,blue jack,silver salmon,Oncorhynchus kisutch
+n02510455:熊猫,giant panda,panda,panda bear,coon bear,Ailuropoda melanoleuca
+n03444034:卡丁车,go-kart
+n01744401:蛇,rock python,rock snake,Python sebae
+n03792782:自行车,mountain bike,all-terrain bike,off-roader
+n01608432:鸟,kite
+n02397096:猪,warthog
+n04285008:运动型轿车,sports car,sport car
+n02128385:豹,leopard,Panthera pardus
+n02701002:救护车,ambulance
+n04509417:独轮车,unicycle,monocycle
+n02486261:猴子,patas,hussar monkey,Erythrocebus patas
+n02489166:猴子,proboscis monkey,Nasalis larvatus
+n04591713:葡萄酒,wine bottle
+n02090379:狗,redbone
+n03670208:加长车,limousine,limo
+n01689811:蜥蜴,alligator lizard
+n02483362:猴子,gibbon,Hylobates lar
+n02514041:鱼,barracouta,snoek
+n02487347:猴子,macaque
+n02071294:鲸鱼,killer whale,killer,orca,grampus,sea wolf,Orcinus orca
+n02442845:狸,mink
+n02100583:狗,vizsla,Hungarian pointer
+n01729977:蛇,green snake,grass snake
+n02017213:鸟,European gallinule,Porphyrio porphyrio
+n02102040:狗,English springer,English springer spaniel
+n02444819:狸,otter
+n02492660:猴子,howler monkey,howler
+n02415577:羊,bighorn,bighorn sheep,cimarron,Rocky Mountain bighorn,Rocky Mountain sheep,Ovis canadensis
+n03417042:卡车,garbage truck,dustcart
+n01695060:蜥蜴,Komodo dragon,Komodo lizard,dragon lizard,giant lizard,Varanus komodoensis
+n03791053:助动车,motor scooter,scooter
+n01742172:蛇,boa constrictor,Constrictor constrictor
+n01667114:龟,mud turtle
+n02002724:鸟,black stork,Ciconia nigra
+n04487081:巴士,trolleybus,trolley coach,trackless trolley
+n04483307:船,trimaran
+n03100240:轿车,convertible
+n03770679:面包车,minivan
+n01665541:龟,leatherback turtle,leatherback,leathery turtle,Dermochelys coriacea
+n02058221:鸟,albatross,mollymawk

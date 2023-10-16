@@ -1,0 +1,26 @@
+Gorilla gorilla/has/black Color Head
+Gorilla gorilla/has/round Shape Head
+Gorilla gorilla/has/1 Head
+Gorilla gorilla's Head/has special attribute/There are two small ears on top of the head
+Gorilla gorilla/has/black Color Body
+Gorilla gorilla/has/bulky Shape Body
+Gorilla gorilla/has/1 Body
+Gorilla gorilla's Body/has special attribute/Covered with thick fur
+Gorilla gorilla/has/black Color Hand
+Gorilla gorilla/has/long and flexible Shape Hand
+Gorilla gorilla/has/2 Hand
+Gorilla gorilla's Hand/has special attribute/Each hand has opposable thumbs
+Gorilla gorilla/has/black Color Foot
+Gorilla gorilla/has/wide and flat Shape Foot
+Gorilla gorilla/has/2 Foot
+Gorilla gorilla's Foot/has special attribute/Used for walking and climbing
+Gorilla gorilla/has/black Color Tail
+Gorilla gorilla/has/long and tapering Shape Tail
+Gorilla gorilla/has/1 Tail
+Gorilla gorilla's Tail/has special attribute/Used for balance while climbing
+Head/is up to/Body
+Hand/is next to/Body
+Hand/is side of/Body
+Foot/is next to/Body
+Foot/is side of/Body
+Tail/is behind of/Body

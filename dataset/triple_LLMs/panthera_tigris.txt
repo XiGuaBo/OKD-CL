@@ -1,0 +1,22 @@
+Panthera tigris has orange Color Head
+Panthera tigris has round Shape Head
+Panthera tigris has 1 Head
+Panthera tigris's Head/has special attribute/There are two sharp ears on top of the head
+Panthera tigris has orange;black;white Color Body
+Panthera tigris has elongated Shape Body
+Panthera tigris has 1 Body
+Panthera tigris's Body/has special attribute/Covered with stripes
+Panthera tigris has black Color Foot
+Panthera tigris has paw Shape Foot
+Panthera tigris has 4 Foot
+Panthera tigris's Foot/has special attribute/Each foot has sharp claws
+Panthera tigris has orange;black Color Tail
+Panthera tigris has long and slender Shape Tail
+Panthera tigris has 1 Tail
+Panthera tigris's Tail/has special attribute/Has black stripes
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

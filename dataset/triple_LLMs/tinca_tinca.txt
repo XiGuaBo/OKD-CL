@@ -1,0 +1,20 @@
+Tinca tinca/has/brown Color Head
+Tinca tinca/has/oval Shape Head
+Tinca tinca/has/1 Head
+Tinca tinca's Head/has special attribute/There are two eyes on the front of the head
+Tinca tinca/has/olive green Color Body
+Tinca tinca/has/elongated Shape Body
+Tinca tinca/has/1 Body
+Tinca tinca's Body/has special attribute/Covered with scales
+Tinca tinca/has/gray Color Fin
+Tinca tinca/has/triangular Shape Fin
+Tinca tinca/has/4 Fin
+Tinca tinca's Fin/has special attribute/Used for swimming and stability
+Tinca tinca/has/brown Color Tail
+Tinca tinca/has/forked Shape Tail
+Tinca tinca/has/1 Tail
+Tinca tinca's Tail/has special attribute/Used for propulsion
+Head/is up to/Body
+Fin/is next to/Body
+Fin/is side of/Body
+Tail/is behind of/Body

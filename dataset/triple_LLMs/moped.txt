@@ -1,0 +1,20 @@
+Moped/has/black Color Head
+Moped/has/oval Shape Head
+Moped/has/1 Head
+Moped's Head/has special attribute/There are two headlights at the front of the head
+Moped/has/red Color Body
+Moped/has/rectangular Shape Body
+Moped/has/1 Body
+Moped's Body/has special attribute/None
+Moped/has/black Color Seat
+Moped/has/rectangular Shape Seat
+Moped/has/1 Seat
+Moped's Seat/has special attribute/It is padded for comfort
+Moped/has/black Color Tier
+Moped/has/circular Shape Tier
+Moped/has/2 Tier
+Moped's Tier/has special attribute/They are made of rubber for better grip
+Head/is up to/Body
+Head/is next to/Body
+Seat/is next to/Body
+Tier/is next to/Body

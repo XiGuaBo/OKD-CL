@@ -1,0 +1,19 @@
+Globefish/has/yellow Color Head
+Globefish/has/round Shape Head
+Globefish/has/1 Head
+Globefish's Head/has special attribute/There are large eyes on both sides of the head
+Globefish/has/gray Color Body
+Globefish/has/oval Shape Body
+Globefish/has/1 Body
+Globefish's Body/has special attribute/Covered with spiky scales
+Globefish/has/gray Color Fin
+Globefish/has/triangular Shape Fin
+Globefish/has/2 Fin
+Globefish's Fin/has special attribute/Used for stability and maneuvering
+Globefish/has/gray Color Tail
+Globefish/has/fan-shaped Shape Tail
+Globefish/has/1 Tail
+Globefish's Tail/has special attribute/Helps in propulsion and steering
+Head/is next to/Body
+Fin is on the side of Body
+Tail/is behind of/Body

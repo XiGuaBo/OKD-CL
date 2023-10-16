@@ -1,0 +1,22 @@
+Alligator mississipiensis has dark brown Color Head
+Alligator mississipiensis has long and triangular Shape Head
+Alligator mississipiensis has 1 Head
+Alligator mississipiensis's Head/has special attribute/There are sharp teeth in the mouth
+Alligator mississipiensis has dark green Color Body
+Alligator mississipiensis has elongated and cylindrical Shape Body
+Alligator mississipiensis has 1 Body
+Alligator mississipiensis's Body/has special attribute/Covered in rough scales
+Alligator mississipiensis has gray Color Foot
+Alligator mississipiensis has webbed and paddle-like Shape Foot
+Alligator mississipiensis has 4 Foot
+Alligator mississipiensis's Foot/has special attribute/Used for swimming and walking on land
+Alligator mississipiensis has dark brown Color Tail
+Alligator mississipiensis has long and tapering Shape Tail
+Alligator mississipiensis has 1 Tail
+Alligator mississipiensis's Tail/has special attribute/Used for propulsion in water
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

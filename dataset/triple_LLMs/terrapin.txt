@@ -1,0 +1,22 @@
+Terrapin/has/brown Color Head
+Terrapin/has/oval Shape Head
+Terrapin/has/1 Head
+Terrapin's Head/has special attribute/There are two small eyes on top of the head
+Terrapin/has/green Color Body
+Terrapin/has/dome-shaped Shape Body
+Terrapin/has/1 Body
+Terrapin's Body/has special attribute/The body is covered with a hard shell
+Terrapin/has/black Color Foot
+Terrapin/has/webbed Shape Foot
+Terrapin/has/4 Foot
+Terrapin's Foot/has special attribute/The feet are adapted for swimming
+Terrapin/has/brown Color Tail
+Terrapin/has/long and tapering Shape Tail
+Terrapin/has/1 Tail
+Terrapin's Tail/has special attribute/The tail helps with balance and steering in water
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

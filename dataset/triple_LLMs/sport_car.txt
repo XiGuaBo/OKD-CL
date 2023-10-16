@@ -1,0 +1,16 @@
+Sport Car/has/red Color Body
+Sport Car/has/sleek Shape Body
+Sport Car/has/1 Body
+Sport Car's Body/has special attribute/Has a spoiler at the back
+Sport Car/has/black Color Tier
+Sport Car/has/round Shape Tier
+Sport Car/has/4 Tier
+Sport Car's Tier/has special attribute/Made of high-performance rubber
+Sport Car/has/silver Color Side Mirror
+Sport Car/has/rectangular Shape Side Mirror
+Sport Car/has/2 Side Mirror
+Sport Car's Mirror/has special attribute/Can be adjusted electronically
+Side Mirror/is next to/Body
+Side Mirror/is side of/Body
+Tier/is up to/Body
+Tier/is next to/Body

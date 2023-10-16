@@ -1,0 +1,1 @@
+{"Carphophis amoenus": {"Head": {"Color": "brown", "Shape": "triangular", "Quantity": "1", "Special Attribute": "There are two small eyes on the front of the head"}, "Body": {"Color": "black", "Shape": "cylindrical", "Quantity": "1", "Special Attribute": "The body is elongated and slender"}}, "Relationship": ["Head is/up/to Body", "Head is/next/to Body"]}

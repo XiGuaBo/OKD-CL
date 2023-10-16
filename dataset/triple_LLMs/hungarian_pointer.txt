@@ -1,0 +1,19 @@
+Hungarian pointer/has/brown Color Head
+Hungarian pointer/has/oval Shape Head
+Hungarian pointer/has/1 Head
+Hungarian pointer's Head/has special attribute/There are two floppy ears on top of the head
+Hungarian pointer/has/white;brown Color Body
+Hungarian pointer/has/muscular Shape Body
+Hungarian pointer/has/1 Body
+Hungarian pointer's Body/has special attribute/The body is strong and well-built
+Hungarian pointer/has/brown Color Foot
+Hungarian pointer/has/paw Shape Foot
+Hungarian pointer/has/4 Foot
+Hungarian pointer's Foot/has special attribute/The feet are sturdy and agile
+Hungarian pointer/has/brown Color Tail
+Hungarian pointer/has/tapered Shape Tail
+Hungarian pointer/has/1 Tail
+Hungarian pointer's Tail/has special attribute/The tail is long and thin
+Head/is on top of/Body
+Foot/is below Body
+Tail/is behind of/Body

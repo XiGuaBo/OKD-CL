@@ -1,0 +1,24 @@
+Ciconia nigra/has/black Color Head
+Ciconia nigra/has/oval Shape Head
+Ciconia nigra/has/1 Head
+Ciconia nigra's Head/has special attribute/There is a long;pointed beak in front of the head
+Ciconia nigra/has/black;white Color Body
+Ciconia nigra/has/elongated Shape Body
+Ciconia nigra/has/1 Body
+Ciconia nigra's Body/has special attribute/None
+Ciconia nigra/has/black Color Wing
+Ciconia nigra/has/wide and pointed Shape Wing
+Ciconia nigra/has/2 Wing
+Ciconia nigra's Wing/has special attribute/Used for flying
+Ciconia nigra/has/black Color Foot
+Ciconia nigra/has/long and slender Shape Foot
+Ciconia nigra/has/2 Foot
+Ciconia nigra's Foot/has special attribute/Used for walking and perching
+Ciconia nigra/has/black Color Tail
+Ciconia nigra/has/long and tapered Shape Tail
+Ciconia nigra/has/1 Tail
+Ciconia nigra's Tail/has special attribute/Used for balance during flight
+Head/is up to/Body
+Wing/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

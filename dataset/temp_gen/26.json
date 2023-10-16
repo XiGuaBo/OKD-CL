@@ -1,0 +1,1 @@
+{"Soda Bottle": {"Body": {"Color": "transparent", "Shape": "cylindrical", "Quantity": "1", "Special Attribute": "It has a label wrapped around it"}, "Mouth": {"Color": "silver", "Shape": "circular", "Quantity": "1", "Special Attribute": "It has a screw-on cap"}}, "Relationship": ["Mouth is/up/to Body", "Mouth is/next/to Body"]}

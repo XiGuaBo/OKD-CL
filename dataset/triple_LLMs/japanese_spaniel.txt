@@ -1,0 +1,21 @@
+Japanese spaniel/has/white;brown Color Head
+Japanese spaniel/has/round Shape Head
+Japanese spaniel/has/1 Head
+Japanese spaniel's Head/has special attribute/There are long ears on the sides of the head
+Japanese spaniel/has/white;brown Color Body
+Japanese spaniel/has/compact Shape Body
+Japanese spaniel/has/1 Body
+Japanese spaniel's Body/has special attribute/None
+Japanese spaniel/has/white;brown Color Foot
+Japanese spaniel/has/small and round Shape Foot
+Japanese spaniel/has/4 Foot
+Japanese spaniel's Foot/has special attribute/There are small paws at the bottom of each foot
+Japanese spaniel/has/white;brown Color Tail
+Japanese spaniel/has/long and fluffy Shape Tail
+Japanese spaniel/has/1 Tail
+Japanese spaniel's Tail/has special attribute/The tail is curled up
+Head/is up to/Body
+Head/is next to/Body
+Foot/is next to/Body
+Foot/is side of/Body
+Tail/is behind of/Body

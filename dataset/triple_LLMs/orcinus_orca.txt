@@ -1,0 +1,20 @@
+Orcinus orca/has/black Color Head
+Orcinus orca/has/rounded Shape Head
+Orcinus orca/has/1 Head
+Orcinus orca's Head/has special attribute/There is a prominent dorsal fin on top of the head
+Orcinus orca/has/black;white Color Body
+Orcinus orca/has/streamlined Shape Body
+Orcinus orca/has/1 Body
+Orcinus orca's Body/has special attribute/None
+Orcinus orca/has/black;white Color Fin
+Orcinus orca/has/triangular Shape Fin
+Orcinus orca/has/2 Fin
+Orcinus orca's Fin/has special attribute/Used for swimming and steering
+Orcinus orca/has/black;white Color Tail
+Orcinus orca/has/fluked Shape Tail
+Orcinus orca/has/1 Tail
+Orcinus orca's Tail/has special attribute/Used for propulsion
+Head/is on top of/Body
+Fin/is next to/Body
+Fin is on the side of Body
+Tail/is behind of/Body

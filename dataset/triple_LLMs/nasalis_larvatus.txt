@@ -1,0 +1,26 @@
+Nasalis larvatus/has/brown Color Head
+Nasalis larvatus/has/elongated Shape Head
+Nasalis larvatus/has/1 Head
+Nasalis larvatus's Head/has special attribute/There is a long;protruding nose on the head
+Nasalis larvatus/has/brown Color Body
+Nasalis larvatus/has/slender Shape Body
+Nasalis larvatus/has/1 Body
+Nasalis larvatus's Body/has special attribute/None
+Nasalis larvatus/has/brown Color Hand
+Nasalis larvatus/has/curved Shape Hand
+Nasalis larvatus/has/2 Hand
+Nasalis larvatus's Hand/has special attribute/There are five fingers on each hand
+Nasalis larvatus/has/brown Color Foot
+Nasalis larvatus/has/flat Shape Foot
+Nasalis larvatus/has/2 Foot
+Nasalis larvatus's Foot/has special attribute/There are five toes on each foot
+Nasalis larvatus/has/brown Color Tail
+Nasalis larvatus/has/long and thin Shape Tail
+Nasalis larvatus/has/1 Tail
+Nasalis larvatus's Tail/has special attribute/The tail is used for balance and communication
+Head/is up to/Body
+Hand/is next to/Body
+Hand/is side of/Body
+Foot/is next to/Body
+Foot/is side of/Body
+Tail/is behind of/Body

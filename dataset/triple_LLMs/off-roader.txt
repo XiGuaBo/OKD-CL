@@ -1,0 +1,22 @@
+Off-roader/has/black Color Head
+Off-roader/has/rectangular Shape Head
+Off-roader/has/1 Head
+Off-roader's Head/has special attribute/There are two headlights on the front of the head
+Off-roader/has/red Color Body
+Off-roader/has/boxy Shape Body
+Off-roader/has/1 Body
+Off-roader's Body/has special attribute/It has a rugged and sturdy construction
+Off-roader/has/black Color Seat
+Off-roader/has/rectangular Shape Seat
+Off-roader/has/2 Seat
+Off-roader's Seat/has special attribute/There are safety belts attached to the seats
+Off-roader/has/black Color Tier
+Off-roader/has/circular Shape Tier
+Off-roader/has/4 Tier
+Off-roader's Tier/has special attribute/They have deep treads for better off-road traction
+Head/is up to/Body
+Head/is next to/Body
+Seat/is next to/Body
+Seat/is side of/Body
+Tier/is next to/Body
+Tier/is side of/Body

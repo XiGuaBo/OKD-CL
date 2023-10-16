@@ -1,0 +1,20 @@
+English springer spaniel/has/brown;white Color Head
+English springer spaniel/has/round Shape Head
+English springer spaniel/has/1 Head
+English springer spaniel's Head/has special attribute/There are long;droopy ears on the sides of the head
+English springer spaniel/has/black;white Color Body
+English springer spaniel/has/streamlined Shape Body
+English springer spaniel/has/1 Body
+English springer spaniel's Body/has special attribute/The body is medium-sized and muscular
+English springer spaniel/has/black;white Color Foot
+English springer spaniel/has/paw-like Shape Foot
+English springer spaniel/has/4 Foot
+English springer spaniel's Foot/has special attribute/The feet are strong and well-structured for running
+English springer spaniel/has/black;white Color Tail
+English springer spaniel/has/feathery Shape Tail
+English springer spaniel/has/1 Tail
+English springer spaniel's Tail/has special attribute/The tail is long and wagging
+Head/is on top of/Body
+Foot/is below Body
+Foot/is next to/Body
+Tail/is behind of/Body

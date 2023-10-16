@@ -1,0 +1,10 @@
+Naja naja/has/black Color Head
+Naja naja/has/triangular Shape Head
+Naja naja/has/1 Head
+Naja naja's Head/has special attribute/There are two large eyes on the front of the head
+Naja naja/has/black Color Body
+Naja naja/has/cylindrical Shape Body
+Naja naja/has/1 Body
+Naja naja's Body/has special attribute/Covered in scales
+Head/is up to/Body
+Head/is next to/Body

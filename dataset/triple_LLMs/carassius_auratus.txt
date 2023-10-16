@@ -1,0 +1,20 @@
+Carassius auratus/has/orange Color Head
+Carassius auratus/has/oval Shape Head
+Carassius auratus/has/1 Head
+Carassius auratus's Head/has special attribute/There are two eyes on both sides of the head
+Carassius auratus/has/gold Color Body
+Carassius auratus/has/elongated Shape Body
+Carassius auratus/has/1 Body
+Carassius auratus's Body/has special attribute/Covered with scales
+Carassius auratus/has/orange Color Fin
+Carassius auratus/has/triangular Shape Fin
+Carassius auratus/has/4 Fin
+Carassius auratus's Fin/has special attribute/Used for swimming and stability
+Carassius auratus/has/orange Color Tail
+Carassius auratus/has/fan-shaped Shape Tail
+Carassius auratus/has/1 Tail
+Carassius auratus's Tail/has special attribute/Helps in steering and propulsion
+Head/is up to/Body
+Fin/is next to/Body
+Fin/is side of/Body
+Tail/is behind of/Body

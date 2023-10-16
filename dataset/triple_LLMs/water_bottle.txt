@@ -1,0 +1,10 @@
+Water Bottle/has/transparent Color Body
+Water Bottle/has/cylindrical Shape Body
+Water Bottle/has/1 Body
+Water Bottle's Body/has special attribute/Made of plastic
+Water Bottle/has/black Color Mouth
+Water Bottle/has/circular Shape Mouth
+Water Bottle/has/1 Mouth
+Water Bottle's Mouth/has special attribute/Has a screw-on cap
+Mouth/is up to/Body
+Mouth/is next to/Body

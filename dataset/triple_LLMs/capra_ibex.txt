@@ -1,0 +1,19 @@
+Capra ibex/has/brown Color Head
+Capra ibex/has/triangular Shape Head
+Capra ibex/has/1 Head
+Capra ibex's Head/has special attribute/There are two curved horns on top of the head
+Capra ibex/has/brown Color Body
+Capra ibex/has/rectangular Shape Body
+Capra ibex/has/1 Body
+Capra ibex's Body/has special attribute/Covered with thick fur
+Capra ibex/has/brown Color Foot
+Capra ibex/has/hoof-like Shape Foot
+Capra ibex/has/4 Foot
+Capra ibex's Foot/has special attribute/Adapted for climbing steep terrain
+Capra ibex/has/brown Color Tail
+Capra ibex/has/tufted Shape Tail
+Capra ibex/has/1 Tail
+Capra ibex's Tail/has special attribute/Used for balance while climbing
+Head/is on top of/Body
+Foot/is below Body
+Tail/is behind of/Body

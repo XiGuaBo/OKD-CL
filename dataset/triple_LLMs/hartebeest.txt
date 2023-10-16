@@ -1,0 +1,21 @@
+Hartebeest/has/brown Color Head
+Hartebeest/has/elongated Shape Head
+Hartebeest/has/1 Head
+Hartebeest's Head/has special attribute/There are two curved horns on top of the head
+Hartebeest/has/light brown Color Body
+Hartebeest/has/slender Shape Body
+Hartebeest/has/1 Body
+Hartebeest's Body/has special attribute/None
+Hartebeest/has/black Color Foot
+Hartebeest/has/hoofed Shape Foot
+Hartebeest/has/4 Foot
+Hartebeest's Foot/has special attribute/Strong and sturdy
+Hartebeest/has/brown Color Tail
+Hartebeest/has/tufted Shape Tail
+Hartebeest/has/1 Tail
+Hartebeest's Tail/has special attribute/Long and bushy
+Head/is up to/Body
+Head/is next to/Body
+Foot/is next to/Body
+Foot/is side of/Body
+Tail/is behind of/Body

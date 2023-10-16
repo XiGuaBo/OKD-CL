@@ -1,0 +1,20 @@
+Oncorhynchus kisutch/has/silver Color Head
+Oncorhynchus kisutch/has/oval Shape Head
+Oncorhynchus kisutch/has/1 Head
+Oncorhynchus kisutch's Head/has special attribute/There is a sharp snout in front of the head
+Oncorhynchus kisutch/has/silver Color Body
+Oncorhynchus kisutch/has/elongated Shape Body
+Oncorhynchus kisutch/has/1 Body
+Oncorhynchus kisutch's Body/has special attribute/None
+Oncorhynchus kisutch/has/gray Color Fin
+Oncorhynchus kisutch/has/triangular Shape Fin
+Oncorhynchus kisutch/has/4 Fin
+Oncorhynchus kisutch's Fin/has special attribute/Used for stability and maneuvering
+Oncorhynchus kisutch/has/silver Color Tail
+Oncorhynchus kisutch/has/forked Shape Tail
+Oncorhynchus kisutch/has/1 Tail
+Oncorhynchus kisutch's Tail/has special attribute/Used for propulsion
+Head is in front of Body
+Fin/is next to/Body
+Fin is on the side of Body
+Tail/is behind of/Body

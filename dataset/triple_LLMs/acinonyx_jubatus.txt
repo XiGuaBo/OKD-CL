@@ -1,0 +1,21 @@
+Acinonyx jubatus/has/tan Color Head
+Acinonyx jubatus/has/oval Shape Head
+Acinonyx jubatus/has/1 Head
+Acinonyx jubatus's Head/has special attribute/There are two black tear stripes running from the inner corner of each eye down to the sides of the mouth
+Acinonyx jubatus/has/yellowish-tan Color Body
+Acinonyx jubatus/has/slender Shape Body
+Acinonyx jubatus/has/1 Body
+Acinonyx jubatus's Body/has special attribute/Covered in spots
+Acinonyx jubatus/has/black Color Foot
+Acinonyx jubatus/has/paw-like Shape Foot
+Acinonyx jubatus/has/4 Foot
+Acinonyx jubatus's Foot/has special attribute/Adapted for high speed and traction
+Acinonyx jubatus/has/white Color Tail
+Acinonyx jubatus/has/long and slender Shape Tail
+Acinonyx jubatus/has/1 Tail
+Acinonyx jubatus's Tail/has special attribute/Has a black tip
+Head/is up to/Body
+Head/is next to/Body
+Foot/is next to/Body
+Foot/is side of/Body
+Tail/is behind of/Body

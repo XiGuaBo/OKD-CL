@@ -1,0 +1,22 @@
+Dermochelys coriacea/has/dark brown Color Head
+Dermochelys coriacea/has/oval Shape Head
+Dermochelys coriacea/has/1 Head
+Dermochelys coriacea's Head/has special attribute/There are two large eyes on the front of the head
+Dermochelys coriacea/has/dark gray Color Body
+Dermochelys coriacea/has/elongated Shape Body
+Dermochelys coriacea/has/1 Body
+Dermochelys coriacea's Body/has special attribute/The body is covered in thick;leathery skin
+Dermochelys coriacea/has/black Color Foot
+Dermochelys coriacea/has/flippers Shape Foot
+Dermochelys coriacea/has/4 Foot
+Dermochelys coriacea's Foot/has special attribute/The feet are adapted for swimming
+Dermochelys coriacea/has/dark gray Color Tail
+Dermochelys coriacea/has/long and tapering Shape Tail
+Dermochelys coriacea/has/1 Tail
+Dermochelys coriacea's Tail/has special attribute/The tail helps with steering and propulsion in water
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

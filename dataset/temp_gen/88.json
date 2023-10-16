@@ -1,0 +1,1 @@
+{"Schooner": {"Body": {"Color": "brown", "Shape": "long and curved", "Quantity": "1", "Special Attribute": "Made of wood"}, "Sail": {"Color": "white", "Shape": "triangular", "Quantity": "2", "Special Attribute": "Made of canvas"}}, "Relationship": ["Sail is/up/to Body", "Sail is/next/to Body"]}

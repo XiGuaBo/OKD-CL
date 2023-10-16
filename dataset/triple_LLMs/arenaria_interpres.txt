@@ -1,0 +1,24 @@
+Arenaria interpres/has/brown Color Head
+Arenaria interpres/has/oval Shape Head
+Arenaria interpres/has/1 Head
+Arenaria interpres's Head/has special attribute/There is a long;thin beak in front of the head
+Arenaria interpres/has/black;white Color Body
+Arenaria interpres/has/streamlined Shape Body
+Arenaria interpres/has/1 Body
+Arenaria interpres's Body/has special attribute/None
+Arenaria interpres/has/black;white Color Wing
+Arenaria interpres/has/long and pointed Shape Wing
+Arenaria interpres/has/2 Wing
+Arenaria interpres's Wing/has special attribute/None
+Arenaria interpres/has/black Color Foot
+Arenaria interpres/has/webbed Shape Foot
+Arenaria interpres/has/2 Foot
+Arenaria interpres's Foot/has special attribute/There are sharp claws at the end of each foot
+Arenaria interpres/has/black;white Color Tail
+Arenaria interpres/has/fan-shaped Shape Tail
+Arenaria interpres/has/1 Tail
+Arenaria interpres's Tail/has special attribute/None
+Head is in front of Body
+Wing/is next to/Body
+Foot/is below Body
+Tail/is behind of/Body

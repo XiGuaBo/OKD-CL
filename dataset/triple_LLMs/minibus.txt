@@ -1,0 +1,14 @@
+Minibus/has/white Color Body
+Minibus/has/rectangular Shape Body
+Minibus/has/1 Body
+Minibus's Body/has special attribute/There are windows on the sides of the body
+Minibus/has/black Color Tier
+Minibus/has/circular Shape Tier
+Minibus/has/4 Tier
+Minibus's Tier/has special attribute/They are made of rubber
+Minibus/has/silver Color Side Mirror
+Minibus/has/rectangular Shape Side Mirror
+Minibus/has/2 Side Mirror
+Minibus's Mirror/has special attribute/They are adjustable
+Side Mirror/is next to/Body
+Tier/is under of/Body

@@ -1,0 +1,10 @@
+Python sebae/has/black Color Head
+Python sebae/has/triangular Shape Head
+Python sebae/has/1 Head
+Python sebae's Head/has special attribute/It has two large eyes on the front
+Python sebae/has/brown Color Body
+Python sebae/has/cylindrical Shape Body
+Python sebae/has/1 Body
+Python sebae's Body/has special attribute/It has a pattern of dark patches along its length
+Head/is up to/Body
+Head/is next to/Body

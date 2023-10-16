@@ -1,0 +1,22 @@
+Ox/has/brown Color Head
+Ox/has/rectangular Shape Head
+Ox/has/1 Head
+Ox's Head/has special attribute/There are two large horns on top of the head
+Ox/has/brown Color Body
+Ox/has/cylindrical Shape Body
+Ox/has/1 Body
+Ox's Body/has special attribute/Strong and muscular
+Ox/has/black Color Foot
+Ox/has/circular Shape Foot
+Ox/has/4 Foot
+Ox's Foot/has special attribute/Hooves for walking and running
+Ox/has/brown Color Tail
+Ox/has/long and tapered Shape Tail
+Ox/has/1 Tail
+Ox's Tail/has special attribute/Used for swatting flies
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

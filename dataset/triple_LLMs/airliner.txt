@@ -1,0 +1,24 @@
+Airliner/has/white Color Head
+Airliner/has/streamline Shape Head
+Airliner/has/1 Head
+Airliner's Head/has special attribute/There is a cockpit at the front of the head
+Airliner/has/silver Color Body
+Airliner/has/cylindrical Shape Body
+Airliner/has/1 Body
+Airliner's Body/has special attribute/None
+Airliner/has/white Color Wing
+Airliner/has/wide and rectangular Shape Wing
+Airliner/has/2 Wing
+Airliner's Wing/has special attribute/There are flaps and ailerons for control
+Airliner/has/silver Color Engine
+Airliner/has/circular Shape Engine
+Airliner/has/2 Engine
+Airliner's Engine/has special attribute/There are jet engines attached to the wings
+Airliner/has/white Color Tail
+Airliner/has/vertical stabilizer Shape Tail
+Airliner/has/1 Tail
+Airliner's Tail/has special attribute/There is a rudder at the top of the tail
+Head/is up to/Body
+Wing/is next to/Body
+Engine/is attached to/Wing
+Tail/is behind of/Body

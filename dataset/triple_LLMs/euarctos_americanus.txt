@@ -1,0 +1,19 @@
+Euarctos americanus/has/brown Color Head
+Euarctos americanus/has/round Shape Head
+Euarctos americanus/has/1 Head
+Euarctos americanus's Head/has special attribute/There are two small ears on top of the head
+Euarctos americanus/has/black Color Body
+Euarctos americanus/has/cylindrical Shape Body
+Euarctos americanus/has/1 Body
+Euarctos americanus's Body/has special attribute/Covered with thick fur
+Euarctos americanus/has/black Color Foot
+Euarctos americanus/has/paw-like Shape Foot
+Euarctos americanus/has/4 Foot
+Euarctos americanus's Foot/has special attribute/Each foot has sharp claws
+Euarctos americanus/has/brown Color Tail
+Euarctos americanus/has/long and bushy Shape Tail
+Euarctos americanus/has/1 Tail
+Euarctos americanus's Tail/has special attribute/Used for balance and communication
+Head/is on top of/Body
+Foot/is below Body
+Tail/is behind of/Body

@@ -1,0 +1,15 @@
+R.V./has/white Color Body
+R.V./has/rectangular Shape Body
+R.V./has/1 Body
+R.V.'s Body/has special attribute/There are large windows on the sides
+R.V./has/black Color Tier
+R.V./has/circular Shape Tier
+R.V./has/4 Tier
+R.V.'s Tier/has special attribute/They are made of rubber
+R.V./has/silver Color Side Mirror
+R.V./has/rectangular Shape Side Mirror
+R.V./has/2 Side Mirror
+R.V.'s Mirror/has special attribute/They are adjustable
+Tier/is next to/Body
+Side Mirror/is next to/Body
+Side Mirror/is side of/Body

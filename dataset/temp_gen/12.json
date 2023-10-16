@@ -1,0 +1,1 @@
+{"Pill Bottle": {"Body": {"Color": "white", "Shape": "cylindrical", "Quantity": "1", "Special Attribute": "There is a label on the body"}, "Mouth": {"Color": "orange", "Shape": "circular", "Quantity": "1", "Special Attribute": "There is a child-proof cap on the mouth"}}, "Relationship": ["Mouth is on top of Body", "Mouth is adjacent to Body"]}

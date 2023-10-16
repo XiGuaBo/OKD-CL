@@ -1,0 +1,22 @@
+Triturus vulgaris has brown Color Head
+Triturus vulgaris has triangular Shape Head
+Triturus vulgaris has 1 Head
+Triturus vulgaris's Head/has special attribute/There are two bulging eyes on the front of the head
+Triturus vulgaris has green Color Body
+Triturus vulgaris has elongated Shape Body
+Triturus vulgaris has 1 Body
+Triturus vulgaris's Body/has special attribute/The body is covered in smooth skin
+Triturus vulgaris has orange Color Foot
+Triturus vulgaris has webbed Shape Foot
+Triturus vulgaris has 4 Foot
+Triturus vulgaris's Foot/has special attribute/The feet are adapted for swimming
+Triturus vulgaris has brown Color Tail
+Triturus vulgaris has long and cylindrical Shape Tail
+Triturus vulgaris has 1 Tail
+Triturus vulgaris's Tail/has special attribute/The tail is used for propulsion in water
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body

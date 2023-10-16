@@ -1,0 +1,22 @@
+Agama/has/red Color Head
+Agama/has/triangular Shape Head
+Agama/has/1 Head
+Agama's Head/has special attribute/There are two large eyes on the head
+Agama/has/brown Color Body
+Agama/has/elongated Shape Body
+Agama/has/1 Body
+Agama's Body/has special attribute/The body is covered in scales
+Agama/has/brown Color Foot
+Agama/has/claw-like Shape Foot
+Agama/has/4 Foot
+Agama's Foot/has special attribute/Each foot has sharp claws
+Agama/has/green Color Tail
+Agama/has/long and slender Shape Tail
+Agama/has/1 Tail
+Agama's Tail/has special attribute/The tail is used for balance and communication
+Head/is up to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Foot/is next to/Body
+Tail/is behind of/Body
