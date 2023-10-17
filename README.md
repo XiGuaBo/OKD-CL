@@ -29,7 +29,7 @@ You can download the dataset directly follow this [link to download from github]
 
 The dataset should contain directories for <em>''train ,test ,hard_masks ,instance-level_masks && instance-level_masks_visable and component-level_masks && component-level_masks_visable''</em>. (The knowledge vectors had been restored in code source as 99 pt files of the knowledge directory). Train and test directory both have 99 sub-directories of 99 object categories' image instances and directories of masks also have the same sub-directories structure including corresponding pixel-level annotation. 
 
-Note that we assume the researcher has access to Hard-ImageNet and PartImageNet; the files above only contain the data of OKD-CL (image instances,3 kinds of masks and knowledge vectors in the code source and corresponding visable masks) we collected. You can download Hard-ImageNet and PartImageNet follow this [link to download from box](https://umd.box.com/s/gx5qx4w03dgsumjclo7wpbdqov4xxrly) and [link to download from Google Driver]([https://umd.box.com/s/gx5qx4w03dgsumjclo7wpbdqov4xxrly](https://drive.google.com/file/d/1rZAECl3XF55NqJfW7Z9N63MFAvXupNuy/view?pli=1)). 
+Note that we assume the researcher has access to Hard-ImageNet and PartImageNet; the files above only contain the data of OKD-CL (image instances,3 kinds of masks and knowledge vectors in the code source and corresponding visable masks) we collected. You can download Hard-ImageNet and PartImageNet follow this [link to download from box](https://umd.box.com/s/gx5qx4w03dgsumjclo7wpbdqov4xxrly) and [link to download from Google Driver](https://drive.google.com/file/d/1rZAECl3XF55NqJfW7Z9N63MFAvXupNuy/view?pli=1). 
 
 ## Setting up the data
 
