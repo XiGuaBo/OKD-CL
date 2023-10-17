@@ -3,15 +3,23 @@
 This is the repository for the OKD-CL dataset, associated with the CVPR 2024 submission, <em>``Object Knowledge Decomposition and Components Label Dataset for Knowledge Guided Object Recognition''</em>.
 
 <div style="display:inline-block" align=center>
-  <img src="https://github.com/XiGuaBo/OKD-CL/blob/master/ds_detail/data_overview.png" width=450 height=250>
-  <img src="https://github.com/XiGuaBo/OKD-CL/blob/master/ds_detail/%E7%B1%BB%E5%88%AB%E6%A0%B7%E6%9C%AC%E6%95%B0%E9%87%8F%E7%BB%9F%E8%AE%A1.png" width=350 height=250>
+  <img src="https://github.com/XiGuaBo/OKD-CL/blob/master/ds_detail/instance_distribution_statisc.png" width=800 height=500>
 </div>
 
-<div style="display:inline-block" align=center>
-  <img src="https://github.com/XiGuaBo/OKD-CL/blob/master/ds_detail/distribution_category.png" width=260 height=200>
-  <img src="https://github.com/XiGuaBo/OKD-CL/blob/master/ds_detail/distribution_component.png" width=260 height=200>
-  <img src="https://github.com/XiGuaBo/OKD-CL/blob/master/ds_detail/distribution_instance.png" width=260 height=200>
-</div>
+| Supper-Class | Class Nums (Origin) | Class Nums (Filtered) | Annotated Parts |
+|:---:|:---:|:---:|:---:|
+| Quadruped | 46 | 35 | Head, Body, Foot, Tail |
+| Biped | 17 | 8 | Head, Body, Hand, Foot, Tail |
+| Fish | 10 | 7 | Head, Body, Fin, Tail |
+| Bird | 14 | 9 | Head, Body, Wing, Foot, Tail |
+| Snake | 15 | 4 | Head, Body |
+| Reptile | 20 | 8 | Head, Body, Foot, Tail |
+| Car | 20 | 14 | Body, Tier, Side Mirror |
+| Bicycle | 5 | 5 |Head, Body, Seat, Tier |
+| Boat | 4 | 4 | Body, Sail |
+| Aeroplane | 2 | 2 | Head, Body, Wing, Engine, Tail |
+| Bottle | 5 | 3 | Body, Mouth |
+| Total | 158 | 99 | / |
 
 ## Download the dataset
 
