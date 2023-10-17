@@ -2,11 +2,12 @@
 
 This is the repository for the OKD-CL dataset, associated with the CVPR 2024 submission, <em>``Object Knowledge Decomposition and Components Label Dataset for Knowledge Guided Object Recognition''</em>.
 
+Sample image distribution among instance categories within OKD-CL.
 <div style="display:inline-block" align=center>
   <img src="https://github.com/XiGuaBo/OKD-CL/blob/master/ds_detail/instance_distribution_statisc.png" width=800 height=500>
 </div>
 
-<div style="display:inline-block" align=center>
+A comparison of data metrics between the original dataset (PartImageNet) and the current one (OKD-CL). The fourth column provides a detailed breakdown of component categories and their respective counts for each primary category.
 | Supper-Class | Class Nums (Origin) | Class Nums (Filtered) | Annotated Parts |
 |:---:|:---:|:---:|:---:|
 | Quadruped | 46 | 35 | Head, Body, Foot, Tail |
@@ -21,8 +22,7 @@ This is the repository for the OKD-CL dataset, associated with the CVPR 2024 sub
 | Aeroplane | 2 | 2 | Head, Body, Wing, Engine, Tail |
 | Bottle | 5 | 3 | Body, Mouth |
 | Total | 158 | 99 | / |
-</div>
-
+  
 ## Download the dataset
 
 You can download the dataset directly follow this [link to download from github
