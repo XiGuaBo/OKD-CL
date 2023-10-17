@@ -6,6 +6,7 @@ This is the repository for the OKD-CL dataset, associated with the CVPR 2024 sub
   <img src="https://github.com/XiGuaBo/OKD-CL/blob/master/ds_detail/instance_distribution_statisc.png" width=800 height=500>
 </div>
 
+<div style="display:inline-block" align=center>
 | Supper-Class | Class Nums (Origin) | Class Nums (Filtered) | Annotated Parts |
 |:---:|:---:|:---:|:---:|
 | Quadruped | 46 | 35 | Head, Body, Foot, Tail |
@@ -20,6 +21,7 @@ This is the repository for the OKD-CL dataset, associated with the CVPR 2024 sub
 | Aeroplane | 2 | 2 | Head, Body, Wing, Engine, Tail |
 | Bottle | 5 | 3 | Body, Mouth |
 | Total | 158 | 99 | / |
+</div>
 
 ## Download the dataset
 
