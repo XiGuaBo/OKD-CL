@@ -22,7 +22,18 @@ A comparison of data metrics between the original dataset (PartImageNet) and the
 | Aeroplane | 2 | 2 | Head, Body, Wing, Engine, Tail |
 | Bottle | 5 | 3 | Body, Mouth |
 | Total | 158 | 99 | / |
-  
+
+A statistics of OKD-CL natural language descriptions.
+| General Attribute | Special Attribute | RelationShip Attribute |
+|:---:|:---:|:---:|
+| Shape, Color, Quantity (1,785) | 595 | 678 |
+
+A statistics of OKD-CL split for train and validation.
+| Train | Validation | Total |
+|:---:|:---:|:---:|
+| 12,625 | 1,489 | 14,114 |
+
+
 ## Download the dataset
 
 You can download the dataset from the github tag in this page directly. 
