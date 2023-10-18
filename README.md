@@ -36,7 +36,7 @@ A statistics of OKD-CL split for train and validation.
 
 ## Download the dataset
 
-You can download the dataset from the github tag in this page directly and download the model weights follow this [link to download weights from Git](https://github.com/XiGuaBo/OKD-CL/releases/tag/WEIGHTS). 
+You can download the dataset from the github follow this [link to download dataset](https://github.com/XiGuaBo/OKD-CL/releases/tag/DATASET) and download the model weights follow this [link to download weights from Git](https://github.com/XiGuaBo/OKD-CL/releases/tag/WEIGHTS). 
 
 The dataset should contain directories for <em>''train, test, hard_masks, instance-level_masks & instance-level_masks_visable and component-level_masks & component-level_masks_visable''</em>. (The knowledge vectors had been restored in code source as 99 pt files of the knowledge directory). Train and test directory both have 99 sub-directories of 99 object categories' image instances and directories of masks also have the same sub-directories structure including corresponding pixel-level annotation. 
 
