@@ -1,0 +1,10 @@
+OKD-CL dataset includes directory : train 
+									test 
+									Hard_masks 
+									Instance-level_soft_masks
+									Instance-level_soft_masks_visable
+									Component-level_soft_masks
+									Component-level_soft_masks_visable
+									
+We push the all dataset to Github releases for downloads. You can acquire the whole dataset
+through this url : https://github.com/XiGuaBo/OKD-CL/releases/tag/DATASET.
