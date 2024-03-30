@@ -1,6 +1,6 @@
 # OKD-CL
 
-This is the repository for the OKD-CL dataset, associated with the CVPR 2024 submission, <em>``Enhancing Object Recognition: The Role of Object Knowledge Decomposition and Component-Labeled Datasets''</em>.
+This is the repository for the OKD-CL dataset, associated with the ECCV 2024 submission, <em>``Enhancing Object Recognition: The Role of Object Knowledge Decomposition and Component-Labeled Datasets''</em>.
 
 Sample image distribution among instance categories within OKD-CL.
 <div style="display:inline-block" align=center>
