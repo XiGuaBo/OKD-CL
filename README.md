@@ -33,6 +33,10 @@ A statistics of OKD-CL split for train and validation.
 |:---:|:---:|:---:|
 | 12,625 | 1,489 | 14,114 |
 
+## Ddtail of Method
+***Activation Map Guidance:*** For any black box model, we define a feature extraction layer to the input as $A^k=f^l(x)$. After that, we obtain the activation map of this layer based on the Grad-Cam method, $L_{Grad-Cam}^c = ReLU(\sum_{k}{a_{k}^c \cdot A^k})$, where $a_{k}^c$ is the gradient contribution of the feature map of channel $k$ to a specific category $c$. From this we can define an activation map guided loss for three different masks as $L_{act}=MSE(M,L_{Grad-Cam}^c)$, where $M\in\lbrace0,1\rbrace^{h,w}$ is the corresponding mask downscale to $A^k$. 
+
+***Knowledge Injection:*** Similar to the activation map constraint, we define the function of any hidden layer between the feature extraction layer and the previous logits layer for the input as $V=g^l(A)$. We embed class-specific component properties and relationships in OKD-CL as $V_{k}^c$. From this, we align $V_{k}^c$ and $V$ output by the model using MSE, $L_{ki}=MSE(V_{k}^c,V)$.
 
 ## Download the dataset
 
